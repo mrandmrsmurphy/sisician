@@ -42,8 +42,8 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 4 | we | *my | мꙑ | ми | mi, me | *nos* | nu, noi | nois | [[../Words/ми\|ми]] |
 | 5 | you | *vy | вꙑ | ви | vi, ve | *vos* | vu, voi | bois | [[../Words/ви\|ви]] |
 | 6 | they | *oni, *ony, *ona | они, ти | они, оне, она | oni, one | *illi | jali, jale | — | [[../Words/они\|они]] / [[../Words/оне\|оне]] |
-| 7 | this | *sь, *sa, *se | овъ, сь | овај, тај | ta, to | *eccu iste | cost | custu |   |
-| 8 | that | *tъ, *ta, *to, *onъ, *ona, *ono | тъ, та, то | тај, онај | tisti, tista, tisto | *eccu ille | cost | cuddu |   |
+| 7 | this | *sь, *sa, *se | овъ, сь | овај, тај | ta, to | *eccu iste | cost | custu | [[../Words/овај\|овај]] / [[../Words/ова\|ова]] (neuter merger — see [[../Words/овај\|овај]]) |
+| 8 | that | *tъ, *ta, *to, *onъ, *ona, *ono | тъ, та, то | тај, онај | tisti, tista, tisto | *eccu ille | cost | cuddu | [[../Words/тај\|тај]] / [[../Words/та\|та]] (neuter merger — see [[../Words/тај\|тај]]) |
 | 9 | here | *sьde, *tu | сьде, овъде | овде, овдје | tu, tukaj | *eccu hī | kauk | inoghe |   |
 | 10 | there | *tamo, *tu | тоу, онъде | тамо | tam | *ad illā, *ad illī | luk | — |   |
 | 11 | who | *kъto | къто | ко, тко | kdo | *quis, *quem | ko | chie |   |
@@ -62,11 +62,11 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 19 | some | *nekoliko |   | неколико | nekoliko, nekaj | *aliquem, *alc unus, *qual c *unus | certioin | carchi |   |
 | 20 | few | *malъ | мало | мало | malo | *pauci | un pauk | pacu |   |
 | 21 | other | *drugъ | инъ | други | drugi | *altru | jultro, jiltri | — |   |
-| 22 | one | *(j)edinъ, *(j)edьnъ | единъ | један | ena | *unus | join | unu |   |
-| 23 | two | *dъva | дъва | два | dva, dve | *dūs/*dōs | doi | duos |   |
-| 24 | three | *trьje | трьѥ | три | tri | *tres | tra | tres |   |
-| 25 | four | *četyre | четꙑре | четири | štiri | *quattru | kuatro | — |   |
-| 26 | five | *pętь | пѧть | пет | pet | *cinque | cenk | chimbe |   |
+| 22 | one | *(j)edinъ, *(j)edьnъ | единъ | један | ena | *unus | join | unu | [[../Words/један\|један]] / [[../Words/једна\|једна]] |
+| 23 | two | *dъva | дъва | два | dva, dve | *dūs/*dōs | doi | duos | [[../Words/два\|два]] / [[../Words/две\|две]] |
+| 24 | three | *trьje | трьѥ | три | tri | *tres | tra | tres | [[../Words/три\|три]] |
+| 25 | four | *četyre | четꙑре | четири | štiri | *quattru | kuatro | — | [[../Words/штири\|штири]] (Slovene-leaning pick — see [[../Grammar/Numerals\|Grammar/Numerals]]) |
+| 26 | five | *pętь | пѧть | пет | pet | *cinque | cenk | chimbe | [[../Words/пет\|пет]] |
 
 ## Dimension Adjectives (27–35)
 
@@ -327,6 +327,6 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 
 ## Sisician Column — What's Actually Built
 
-Only **7 of 207 rows** have an existing Sisician word, because Sisician's coined vocabulary so far is almost entirely personal pronouns (see [[../Grammar/Personal Pronouns|Grammar/Personal Pronouns]]) plus one adjective ([[../Words/нув|нув]], renamed 2026-09-20 from "нов" — this very table's own Dalmatian cell for item 183, *nuv*, is what motivated the change). Every oblique pronoun case built this session (мене, тебе, њега, ње, нас, вас, њих, њех, мени, теби, and their clitics) has **no separate row here** — the Swadesh list only asks for each pronoun's citation/nominative form, not its full case paradigm, so мене/тебе/etc. simply don't correspond to any of the 207 items even though they're fully built words in [[../Words|Words/]]. [[../Words/дом|дом]] and [[../Words/каза|каза]] ("house/dwelling") also don't appear here for the same structural reason — "house" isn't one of the 207 Swadesh items at all (Swadesh lists deliberately exclude built/cultural structures in favor of universal basic vocabulary).
+**16 of 207 rows** have an existing Sisician word: the original 7 (personal-pronoun citation forms plus [[../Words/нув|нув]]), items 7–8 ("this"/"that", from [[../Grammar/Demonstrative Pronouns|Grammar/Demonstrative Pronouns]]), and now items 22–26 (numbers one through five, from [[../Grammar/Numerals|Grammar/Numerals]] — six through ten also exist in [[../Words|Words/]] but aren't Swadesh items, since this list's own numeral section stops at five). Every numeral entry rests on the same already-established mechanisms (mobile-*a*, Ekavian yat, ę→e denasalization) except штири (a deliberate Slovene-leaning pick, flagged inline above). Every oblique pronoun case built this session (мене, тебе, њега, ње, нас, вас, њих, њех, мени, теби, and their clitics) has **no separate row here** — the Swadesh list only asks for each pronoun's citation/nominative form, not its full case paradigm, so мене/тебе/etc. simply don't correspond to any of the 207 items even though they're fully built words in [[../Words|Words/]]. [[../Words/дом|дом]] and [[../Words/каза|каза]] ("house/dwelling") also don't appear here for the same structural reason — "house" isn't one of the 207 Swadesh items at all (Swadesh lists deliberately exclude built/cultural structures in favor of universal basic vocabulary).
 
 This table is meant to be revisited and filled in gradually, the same one-word-at-a-time, fully-cited way every [[../Words|Words/]] page has been built so far — not completed in one sitting.
