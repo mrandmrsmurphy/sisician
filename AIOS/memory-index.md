@@ -1,0 +1,15 @@
+# AIOS Memory Index
+
+Read this first, every session, before touching vault content. Each line points to one file in `AIOS/memory/`.
+
+- [What This Project Is](memory/project_what_this_project_is.md) — the Slavic-grammar + Dalmatian-Romance-vocabulary premise, governing design principle, current construction status
+- [Construction Workflow](memory/reference_construction_workflow.md) — six-phase build order; Phase 1 (all four Sources/ pages) and the Phase 3 sound-change chain (`Etymology/Sisician Sound Changes.md`) are both done as of 2026-09-20, alongside extensive target-first grammar (full verbal/nominal/pronoun systems) and lexicon (full personal-pronoun paradigm, ~44 Words/ pages) — read the file's own "Current phase" line for the up-to-date status, this index entry is a pointer, not the live status itself
+- [Naming Status](memory/reference_naming_status.md) — every proper name (endonym, people, polity, dynasty, founder) is deliberately undecided until sound changes exist; don't invent them early
+- [South Slavic Palatalization](memory/reference_south_slavic_palatalization.md) — hard/soft consonant pairing is East Slavic (Russian), not South Slavic; Sisician's /ɲ ʎ tʃ dʒ ʃ ʒ/ are fixed historical-palatalization outcomes, not a live hard/soft alternation
+- [Don't Overbuild From Examples](memory/feedback_dont_overbuild_from_examples.md) — when a user's illustrative example conflicts with an established fact, ask if it was a typo before designing a new structural layer to reconcile it
+- [Word Entry Format](memory/reference_word_entry_format.md) — standing frontmatter schema and body section order for `Words/` pages, set by `Words/каза.md` as the template; also covers root-anchored stress, linking to standing sound-change pages, and the pronoun-specific frontmatter extension (`Words/јаз.md`)
+- [Never Destroy Existing Files](memory/feedback_never_destroy_existing_files.md) — never write to ANY file (including at the vault root) without reading it first; use the scratchpad directory for all throwaway content, never a real vault file
+- [Session Logging](memory/reference_session_logging.md) — append-only `logs/log.md` convention; why it exists (no git in this vault)
+- [Prestige Register Principle](memory/project_prestige_register_principle.md) — Sisician should "fancy itself" Romance the way English fancies itself Romance despite being Germanic; idolized Dalmatian pronunciation vs. mocked "Slavic boogeyman" markers (exaggerated [χ], singsong pitch-accent parody, syllabic /r/) — full resolved design at `Culture/Accent and the Slavic Boogeyman.md`
+
+This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
