@@ -53,7 +53,9 @@ Decided 2026-09-19. See [[Nominal Morphology]] for the number/gender/case catego
 
 **The one place hard and soft genuinely diverge**: instrumental singular, **-ом** vs. **-ем** — everywhere else, the two patterns differ only in whether the *-ов-* plural extension applies (a separate, root-shape-conditioned fact, not part of the hard/soft split itself) and in whether the noun is masculine (bare nominative singular) or neuter (nominative singular in *-е* or *-о*, per its own historical ending, orthogonal to hard/soft).
 
-**Still open:** the *-ов-* extension's exact conditioning (monosyllabic root is the confirmed trigger per [[../Words/дом|дом]]; whether it's the *only* trigger isn't tested), and the abstract e-declension/i-declension paradigms (каза already gives a concrete e-declension example on its own page, but the class-level abstraction matching this section hasn't been written up yet).
+**The *-ов-* extension's conditioning, tentatively widened (2026-09-24):** [[../Words/денајр|денајр]] ("money," bisyllabic) is the first non-monosyllabic hard-stem masculine noun built, and it takes the extension too (денајрови, not †денајри) — provisional evidence that "monosyllabic" was never the exclusive trigger, just the first-tested case; real Croatian generally extends most masculine nouns this way regardless of syllable count. Held loosely, not independently re-confirmed against a specific real citation for this word.
+
+**The abstract i-declension paradigm now has a worked example**: [[../Words/читвот|читвот]] ("city," 2026-09-24) — feminine, consonant-final, with a functional-load-motivated extended genitive plural (-ију, matching real Croatian *kostiju*-type nouns) and dative/instrumental plural -има (confirmed to match a-declension and e-declension's own plural endings). Not yet generalized into its own class-level table here the way a-declension's is above. e-declension's own abstract table remains unbuilt too (каза, фамаља, and монајта all give concrete examples, just not yet generalized to a class-level statement here).
 
 ## Loanwords: Which Class They Land In
 
