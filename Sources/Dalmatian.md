@@ -49,13 +49,37 @@ Dalmatian keeps Latin /k g/ before front vowels /e i/ rather than palatalizing t
 
 Dalmatian degeminates (loses double/geminate consonants), unlike Italo-Romance, which generally keeps or even innovates geminates. This doesn't contradict the no-lenition finding above — it's a narrower, separate process, and one of the few lenition-type changes Dalmatian does share with Western Romance and Balkan Romance despite otherwise patterning conservative on the two points above.
 
+**Exception, decided 2026-09-24: -NN- and -LL- palatalize before degeminating, rather than just losing their second consonant like every other geminate.** Real, well-attested Ibero-Romance precedent, not an invented exception: Latin **ANNUS** "year" → Spanish **año** [ɲ] (not †ano); Latin **CABALLUS** "horse" → Spanish **caballo**, historically /ʎ/ before modern yeísmo merged it with /j/ (Old Spanish *ll* was phonemically /ʎ/, a real, attested stage, not the modern merged pronunciation). This gives Dalmatian a **second, independent route into Sisician's native ɲ/ʎ**, alongside the already-attested -GN-/-LI- route (§ End-Stage Phonology below) — two unrelated Latin sources converging on the same already-occupied Sisician slot. Every other geminate (pp tt kk mm rr ss ff) still degeminates in the ordinary way; this is specifically an NN/LL diversion, not a reopening of the general rule. No word has used it yet.
+
 ## Decided: TJ/CJ and DJ/GJ Palatalize to Affricates
 
 Consonant+yod clusters /tj/ /kj/ and /dj/ /gj/ merge into affricate outcomes — separately from, and despite, the preservation facts above (clusters palatalize even though plain intervocalic stops and pre-front-vowel velars don't). Confirmed examples for the voiceless pair (/tj/, /kj/ → **č**): **mrča < MYRTEA** "myrtle," **nevča < NĚPTIA**. The user's original example for the voiced pair (/dj/, /gj/ → **lopiž**, implying ž rather than dž) was withdrawn as not carefully chosen — so the voiced pair's outcome is *presumed* to be the parallel voiced affricate **dž** (matching the general "affricate reflexes" description), but this is not yet backed by a confirmed example the way the voiceless pair is.
 
+**Voiced pair upgraded from presumed to cited, 2026-09-24.** Real comparative Romance confirms the same d+yod mechanism directly: Latin **RADIUS** "ray, spoke" → Italian **raggio** [ˈraddʒo]; Latin **DIURNUM** "daily" → Italian **giorno** [ˈdʒorno] — both well-attested /dj/-cluster-to-[dʒ] outcomes, the voiced counterpart of the exact mechanism already cited for mrča/nevča. Not a Dalmatian-attested example the way those two are — the same evidentiary tier as дешет/ноj's Sardinian comparanda elsewhere in this vault — but it replaces "presumed by symmetry alone" with a real cited parallel: dž is confirmed, not just assumed.
+
 ## Decided: Intervocalic /s/ Voices to [z] (2026-09-19)
 
 A separate process from the no-lenition finding above — that rule concerns voiceless *stops* specifically; fricatives are independent. **Dalmatian's intervocalic /s/ voices to [z]**, exactly paralleling standard Italian's real, well-attested behavior (*casa* → [ˈkaza], *rosa* → [ˈrɔːza]) — and Italian is the closest available typological model for this, since it independently shows the identical pairing Dalmatian has: intervocalic voiceless stops stay voiceless (*capra*, not *cabra*), while intervocalic /s/ voices anyway. First application: Latin/Vulgar Latin **casa** "cottage, dwelling" → Dalmatian **kaza** (no diphthongization trigger — short a, not stressed ē/ō; no stop to lenite; this one change is the only relevant step) — see [[../Words/каза|Words/каза]] for what happens to this word once it enters Sisician proper.
+
+## Decided: /ks/ and Sibilant+Yod Clusters Give š/ž (2026-09-24)
+
+A second, independent route into Sisician's postalveolar *fricative* pair, alongside the affricate route above:
+
+- **Latin -X- [ks] simplifies to š.** Real, well-attested across Ibero-Romance, and crucially *not* dependent on the front-vowel velar palatalization Dalmatian has already rejected (§ above): Portuguese **coxa** [ˈkoʃɐ] < COXA "hip, thigh"; Old Spanish **dexar** [deˈʃar] < LAXARE "to leave." Because this is a cluster-internal simplification (/ks/ → /ʃ/), not a vowel-conditioned palatalization, it doesn't run into the same problem an earlier, dropped idea did — Italian's real sc-before-front-vowel → š mechanism (*pesce*, *scienza*) only works because Italian palatalizes velars before front vowels in the first place, which Dalmatian doesn't.
+- **/sj/ and /zj/ palatalize to š and ž respectively**, joining the general "consonant+yod clusters palatalize, outcome varies by branch" pattern already flagged on [[Vulgar Latin]] § Consonants — Dalmatian specifically chooses the fricative (not affricate) outcome for this particular pair. **Doubly motivated, the same category as -GN-/-LI-→ɲ/ʎ and TJ/KJ→č above**: this isn't an arbitrary pick among the branch-variable options — š/ž is also the *exact* outcome Common Slavic's own iotation gives for s+j/z+j (see [[Old Church Slavonic]] § Consonants), so a Dalmatian sj/zj-cluster word and a native Slavic one converge on the identical modern sound by two genuinely independent historical routes, the same convergence *type* as нув, just at the phoneme level rather than the whole-word level.
+
+No word has been coined through either pathway yet — both are available mechanisms, not yet worked examples, the same status мварт had before it was connected to anything.
+
+## Open, Rare Mechanism: ts/dz via Boundary Reanalysis (flagged 2026-09-24 — not a regular rule)
+
+Unlike ɲ/ʎ/č/dž/š/ž above, Sisician's ts/dz (ц/ѕ) have no *regular* Dalmatian-internal source once TJ/KJ is committed to č rather than an Italian-style ts outcome. Worth noting directly: real Vegliote's own attested inventory (§ End-Stage Phonology below) **does** include ts and dz as phonemes — meaning the wider real Dalmatian dialect continuum evidently could produce them where Zadar-Dalmatian's own constructed chain instead converges on č/dž. That's a live option worth remembering, not a dead end.
+
+Two rare, individually-motivated pathways (not blanket rules) are available for an isolated word, should one ever call for it:
+
+1. **Morpheme/word-boundary reanalysis**, per the user's own suggestion (2026-09-24): a Latin or Dalmatian sequence where /t/+/s/ or /d/+/z/ end up adjacent only because they belonged to two separate original words or morphemes, later fused/univerbated into a single Sisician word, could surface with a genuine ts/dz cluster — not a sound law, a one-off junctural accident, the same rarity class as [[../Words/абкле|абкле]]'s hybrid compounding.
+2. **Dialect-contact borrowing**: a word could enter Sisician via a differently-behaving neighboring real Dalmatian-speaking center (Zadar, Krk/Vegliote, and Ragusa were three genuinely distinct, only loosely-related Dalmatian varieties — § What's Real vs. What's Ours to Build above) rather than through Zadar's own main chain, carrying real Vegliote's own ts/dz outcome instead of Zadar's č/dž.
+
+Neither is built yet; flagged as available, rare, lexically-specific texture for a future word — exactly the status дешет and ноj had before they existed.
 
 No specific Zadar-Dalmatian phoneme inventory has been assembled as a single table yet — the individual sound changes above are decided piecemeal; someone (a future session, or now) still needs to compile them into one coherent phoneme-by-phoneme picture and check they don't conflict with each other.
 
