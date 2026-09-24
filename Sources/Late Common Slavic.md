@@ -69,7 +69,7 @@ At c. 1000, the deeper vowel-system changes that will eventually produce a moder
 
 **"Glide" describes this c. 1000 stage only, not modern Sisician.** Common Slavic *v is real, well-documented as a labial glide/approximant here (descending from PIE *w) — but both [[../Phonology/Modern Inventory|Phonology/Modern Inventory]] and [[../Phonology/Orthography|Phonology/Orthography]] independently place modern Sisician's /v/ in the fricative series, not among the glides. That's not a page-to-page contradiction to resolve by picking one — it's this page correctly describing the ancestral stage, with the hardening step itself now stated explicitly on [[../Etymology/Sisician Sound Changes|Etymology/Sisician Sound Changes]] rather than left as an unstated gap between here and the modern target. The Sava-corridor devoicing evidence above doesn't disambiguate glide-vs-fricative either way — real Slavic /v/ shows that same obstruent-like devoicing behavior even in dialects where it stays phonetically glide-like, so it was never evidence against hardening.
 
-**No /ć/ or /đ/** in the colloquial vernacular (merged to č/j, per the decision above) — living only in the middle literary-register tier and the OCS liturgical import, per the two-tier overlay already established.
+**No /ć/ or /đ/** in the colloquial vernacular (merged to č/j, per the decision above) — living only in the middle literary-register tier and the OCS liturgical import, per the two distinct overlay registers already established (§ above; three tiers total, including the fully-merged vernacular).
 
 ### What This Section Does Not Resolve
 
