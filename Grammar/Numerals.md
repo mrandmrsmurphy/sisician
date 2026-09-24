@@ -18,7 +18,7 @@ Same standing calibration as [[../Sources/Late Common Slavic|Late Common Slavic]
 | 6 | *šestь | šest | šest | [[../Words/шест\|шест]] | No fork — trivial single-jer loss |
 | 7 | *sedmь | sedam | sedem | [[../Words/седам\|седам]] | Real, uncited a/e vowel-quality divergence — Croatian-shape default |
 | 8 | *osmь | osam | osem | [[../Words/осам\|осам]] | Same situation as седам |
-| 9 | *devętь (regular reflex superseded) | devet | devet | [[../Words/ной\|ној]] | **Replaced entirely** by a Dalmatian-descended word — see below |
+| 9 | *devętь (regular reflex superseded) | devet | devet | [[../Words/ној\|ној]] | **Replaced entirely** by a Dalmatian-descended word — see below |
 | 10 | *desętь (regular reflex superseded) | deset | deset | [[../Words/дешет\|дешет]] | **Reshaped**, с→ш — see below |
 
 ## Nine and Ten: Why These Two Got Special Treatment
@@ -29,7 +29,7 @@ Full derivation lives on [[../Etymology/Sisician Sound Changes|Sisician Sound Ch
 
 **They didn't get the same *kind* of treatment, because their native Slavic shapes didn't offer the same opportunity:**
 - **десет → [[../Words/дешет|дешет]]**: с sits between two front vowels, the same environment that produces real Campidanese Sardinian *dexi* from Latin DECEM — close enough in shape to reshape *in place* via a one-word assibilation (с→ш), not a borrowing.
-- **девет → [[../Words/ной|ној]]**: doesn't share enough shape with any plausible Dalmatian NOVEM-descended form to reshape the same way, so this is a genuine replacement — a Dalmatian word, independently eroding toward the same *noi*-shape real Sardinian and Romanian both show (intervocalic /v/-loss in this specific word is attested in *two* separate Romance branches, not invented for this one case), fully displacing девет rather than coexisting with it.
+- **девет → [[../Words/ној|ној]]**: doesn't share enough shape with any plausible Dalmatian NOVEM-descended form to reshape the same way, so this is a genuine replacement — a Dalmatian word, independently eroding toward the same *noi*-shape real Sardinian and Romanian both show (intervocalic /v/-loss in this specific word is attested in *two* separate Romance branches, not invented for this one case), fully displacing девет rather than coexisting with it.
 
 **Neither is a general sound law.** [[../Words/скинија|скинија]] keeps its с; no other Slavic *e* word loses a consonant to a Dalmatian replacement. Exactly the same "lexically-specific, not systemic" framing already established for [[../Words/нув|нув]]'s own convergence.
 
