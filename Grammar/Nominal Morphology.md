@@ -24,7 +24,9 @@ Lost as a productive case, surviving only in a small number of fossilized forms,
 
 The locative is the most vulnerable of the seven Slavic cases, for a simple reason: it's the only case in Common Slavic never used without a preposition. Every other case has at least some bare use — nominative for subjects, accusative for direct objects, genitive for possession, dative for indirect objects, instrumental for means, vocative for address. The locative always needs *vъ*, *na*, *pri*, or similar. When a language starts simplifying its case system, the locative typically goes first, its functions absorbed by: accusative after prepositions of motion (already overlapping in many contexts); genitive after *pri* and other locational prepositions; dative in some fixed expressions.
 
-**Decided:** the locative merges away entirely; locational meaning redistributes to preposition + accusative, preposition + genitive, or (in fixed expressions) dative, on a preposition-by-preposition basis. **Open — "to be delineated":** the exact assignment (which prepositions send their object to which case) isn't decided yet; this page just establishes that the locative itself is gone.
+**Decided:** the locative merges away entirely; locational meaning redistributes to preposition + accusative, preposition + genitive, or (in fixed expressions) dative, on a preposition-by-preposition basis.
+
+**Resolved (2026-09-23), via [[Interrogatives]]'s where/whither/whence set:** **location and goal both land on preposition+accusative** — they already shared accusative even under the old seven-case system (*u kući* "in the house," locative, vs. *u kuću* "into the house," accusative — once locative dies, the goal use simply absorbs the location use too, since nothing else was holding them apart). **Source alone stays preposition+genitive**, entirely unchanged by the locative's own loss, since genitive-after-*od* ("from") was never locative territory to begin with. See [[../Words/абкле|абкле]] for where this surfaces concretely (the word itself later underwent its own replacement, but the genitive-marking pattern this section describes survived that change unaltered).
 
 **Net result: six historical cases survive as forms, five fully productive** (nominative, genitive, dative, accusative, instrumental), plus vocative's narrow fossil remnant. Locative is gone as a case, not merely reduced.
 
@@ -39,7 +41,7 @@ The locative is the most vulnerable of the seven Slavic cases, for a simple reas
 | Dative | Living |
 | Accusative | Living — also absorbs locative-after-motion uses |
 | Instrumental | Living |
-| Locative | **Lost** — redistributed to Acc/Gen/Dat by preposition; exact split not yet delineated |
+| Locative | **Lost** — redistributed by preposition: location and goal → accusative; source → genitive (delineated 2026-09-23, see [[Interrogatives]]) |
 | Vocative | **Lost** — fossils only, chiefly religious address; exact fossils not yet chosen |
 
 Not yet addressed on this page: actual declension paradigms/endings for any noun class (including how [[../Words/дом|дом]], [[../Words/каза|каза]], [[../Words/скинија|скинија]], [[../Words/икос|икос]] would actually decline) — this page settles the *category system*, not the *forms*.
