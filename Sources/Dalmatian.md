@@ -41,9 +41,22 @@ Adopted wholesale from the real, well-documented Vegliote pattern (Bartoli) — 
 
 Evidence, via the oldest stratum of Dalmatian loanwords into Croatian (as distinct from later Venetian loans, which do show lenition): **kapula** "onion" keeps its voiceless /p/, contrasting with Venetian-sourced **cipolla**'s lenited outcome; **kenur** "dinner" keeps its voiceless velar where Italian **cenare** instead palatalizes it (see next section). This pattern — "očuvani su latinski intervokalni bezvučni okluzivi" (preserved Latin intervocalic voiceless occlusives) — is cited as a diagnostic feature of the oldest Dalmatian loan stratum specifically.
 
-## Decided: Velars Before Front Vowels Are Preserved, Not Palatalized (2026-09-19)
+## Corrected 2026-09-24: Velars Preserved Before /e/, but Palatalize Before /i/ — Not a Uniform "Front Vowels" Rule
 
-Dalmatian keeps Latin /k g/ before front vowels /e i/ rather than palatalizing them the way Italian and Romanian do — e.g. **cena → kaina** "dinner," **dicere → dekro** "to say." A conservative "peripheral Romance" trait, shared with Sardinian (also well known for resisting velar palatalization, e.g. Sardinian *chentu* vs. Italian *cento* "hundred").
+**This section originally claimed Dalmatian preserves /k g/ before both front vowels /e i/ alike — that's wrong, caught via a real Wiktionary-attested Dalmatian word the user supplied.** Wikipedia's own *Dalmatian language* article states the real, distinctive fact directly: Dalmatian is "the only Romance language that has palatalised /k/ and /ɡ/ before /i/, but not before /e/," citing exactly this example: Latin **civitate → Vegliot cituot** "city" (real, attested — see [[../Words/читвот|Words/читвот]] for the full derivation into Sisician). This is a genuinely different, more specific rule than "front vowels uniformly preserved":
+
+- **Before /e/, velars stay velar** — this part of the original claim holds and is still well-evidenced: **cena → kaina** "dinner," **cenare → kenur** "to dine" (also cited in § No Lenition above) both show real Croatian coastal-dialect loanwords with intervocalic /k/ intact before /e/.
+- **Before /i/, velars palatalize to affricates** (č from k, presumably dž from g by the same logic, though no g+i example is attested yet) — **civitate → cituot** is the real citation for this half of the rule, previously missing entirely from this page.
+
+**The old "dicere → dekro" example never actually supported this rule and should be discounted as evidence for it, though the word itself isn't necessarily wrong on its own terms**: DICERE's initial consonant is /d/, a **dental** stop, not a velar — it was miscategorized as velar evidence when it never bore on the velar question at all. Whether dentals behave like velars before /i/ (palatalizing) or unlike them (staying put, as *dekro* would suggest) is now an **open, unverified question** rather than a settled fact riding on borrowed velar evidence — *dekro* itself hasn't been independently re-confirmed as a real attested Croatian-coastal loanword the way *kapula*/*kaina*/*kenur* have.
+
+Still shared with Sardinian on the /e/ side (Sardinian *chentu* vs. Italian *cento* "hundred" — resisting palatalization before *e*), but the /i/-specific palatalization is a genuinely distinctive Dalmatian feature, not shared with the Sardinian comparandum.
+
+## Open Item, Flagged 2026-09-24: A Second, Unmodeled Diphthongization — Stressed /a/ → /uo/
+
+**Also surfaced by *cituot*, and not yet reconciled with § Decided: Diphthongization of Stressed Mid Vowels above.** *Cituot*'s own stressed syllable continues Latin CIVITĀTE's long **ā** (in *-tāte*), not ē or ō — meaning real Dalmatian evidently diphthongizes stressed **/a/ → /uo/** too, a process this page's existing Stage 1/Stage 2 model (which only touches ē/ō) doesn't cover at all. **A second independent attestation makes this more than a one-off**: real Vegliote *tuota* "father" (from Latin TATA, stressed short *a*) shows the identical *a→uo* correspondence. Search-engine summaries (not a primary source directly read — see [[../Words/читвот|Words/читвот]]'s own note on this) also suggest a parallel **/o/ → /ua/ or /au/** development (candidate examples *buask* "forest," *naun* "not," not independently verified here).
+
+**Deliberately left unintegrated with the existing ē/ō model rather than forced into it**: I don't have a reliable account of what conditions *a→uo* (unconditional? syllable-structure-dependent, like ē/ō? a separate, later analogical spread from the ē/ō pattern?), and stacking a guessed conditioning rule on top of two real data points would be exactly the overbuilding [[../AIOS/memory/feedback_dont_overbuild_from_examples|feedback_dont_overbuild_from_examples]] warns against. Flagged as real, cited, and currently unmodeled — a genuine gap for a future session with better source access to close, not a decision to make now.
 
 ## Decided: Degemination (2026-09-19)
 
