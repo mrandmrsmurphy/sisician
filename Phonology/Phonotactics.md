@@ -30,10 +30,14 @@ Monosyllables are fully legal words on their own (он, дом, ту, тим) �
 
 Not re-derived here — see [[Modern Inventory]] § Prosody (root-anchored stress) for the already-settled rule; phonotactics and stress placement are kept as separate concerns on this page.
 
+## Vowel + Glide Codas
+
+**Clarified 2026-09-24, see [[Modern Inventory]] § "No Separate Diphthong Inventory" for the full statement**: a coda /j/ after any vowel (aj, ej, oj, uj, ij) is just an ordinary V+C coda, not a special diphthong category — already attested for aj/oj/ij ([[../Words/тај|тај]], [[../Words/ној|ној]], [[../Words/који|који]], etc.), and ej/uj are equally legal even though no word has needed them yet. **No vowel+/w/ coda is ever legal**, full stop — Dalmatian loans that would introduce one (a w-final diphthong or onset-glide) have their /w/ hardened to a full consonant /v/ instead, per [[../Sources/Dalmatian|Dalmatian]]'s *mwart→мварт* and [[../Words/читвот|читвот]]'s *cituot→читвот* precedent. This resolves half of the second open item below (the glide case specifically); consonant-cluster simplification at loan boundaries more generally is still open.
+
 ## Open Items
 
 - No formal statement yet of which specific three-consonant onsets beyond s+obstruent+liquid are legal, or of any coda-cluster inventory beyond "more restricted than onsets."
-- Whether any cluster simplification happens at Dalmatian-loan boundaries (a Dalmatian word entering with a cluster Slavic phonotactics doesn't independently produce) hasn't been checked against this page yet — worth doing whenever the next Dalmatian loan is coined.
+- Whether any *consonant-cluster* simplification (as opposed to the now-resolved glide case, above) happens at Dalmatian-loan boundaries hasn't been checked against this page yet — worth doing whenever the next Dalmatian loan is coined.
 
 ---
 

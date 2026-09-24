@@ -6,6 +6,14 @@
 
 Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has been specified yet — open question, not yet decided (Serbo-Croatian-style South Slavic languages typically have pitch accent and vowel length, so this is worth a deliberate decision rather than a silent omission).
 
+### No Separate Diphthong Inventory — Vj Is Just V + Consonant /j/ (clarified 2026-09-24)
+
+**Prompted by a direct question once [[../Words/тај|тај]], [[../Words/ној|ној]], [[../Words/денајр|денајр]], and [[../Words/монајта|монајта]] had all quietly used -aj-/-oj- without the phonology page ever stating a position on it.** Sisician doesn't need a Romance-style phonemic diphthong inventory (the way Latin/Dalmatian's ie/uo/ai genuinely are single complex nuclei) — /j/ is already an ordinary Sisician consonant, so **any vowel + j sequence is simply that vowel followed by /j/ in coda position**, phonotactically unremarkable in exactly the way any other V+C coda is. This matches how real BCS itself analyzes *kraj*, *moj*, *tvoj*, *trofej*: plain VC, not a special diphthong class.
+
+**Consequence: aj/ej/oj/uj/ij are all equally legal, not a graded or restricted set.** aj, oj, and ij are already independently attested ([[../Words/тај|тај]], [[../Words/денајр|денајр]], [[../Words/монајта|монајта]] for aj; [[../Words/ној|ној]], [[../Words/тој|тој]], [[../Words/овој|овој]] for oj; [[../Words/који|који]], [[../Words/скинија|скинија]] for ij) — ej and uj simply haven't come up in a coined word yet, not because anything bans them (cf. real Croatian *trofej*, *obuj* for exactly these two).
+
+**The real constraint is on the *other* kind of glide, and it's absolute: no vowel+/w/ sequence survives as such, because /w/ isn't a Sisician phoneme at all** (§ Consonants above — only /j/ is listed as a glide; this is also the standing South Slavic norm, not a Sisician-specific gap). This isn't a new decision — it's the same principle already twice applied in practice ([[../Sources/Dalmatian|Dalmatian]]'s *mwart→мварт*, [[../Words/читвот|читвот]]'s *cituot→читвот*), stated here explicitly for the first time as a general rule rather than a per-word coincidence: whenever Dalmatian source material would hand Sisician a w-final diphthong (au, eu, ou, or a closed-syllable *wa/wo*-type onset-glide), the /w/ **hardens to a full consonant /v/** instead of surviving as an offglide — becoming an onset consonant of the following syllable, not a diphthong nucleus. **Sisician has zero tolerance for w-glides in any position**, not just a preference against them.
+
 ## Consonants
 
 |           | Bilabial | Labiodental | Alveolar | Postalveolar | Palatal | Velar |
