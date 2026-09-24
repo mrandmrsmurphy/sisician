@@ -50,6 +50,8 @@ A mature Sisician lexicon should feel like it has three great historical layers:
 
 **Layer I — Slavic Earth:** the words of family, land, body, weather, agriculture, animals, basic verbs, ordinary life.
 
+**One deliberate, narrow exception, flagged rather than silently left contradicting the line above (2026-09-24):** [[Words/фамаља|фамаља]], the actual modern Sisician word for "family," is Dalmatian, not native — modeled directly on real English, where Latin-derived *family* displaced native *hīred*/*hād*. This isn't Layer I eroding generally: individual kinship terms (mother, father, brother, sister — none built yet) are still expected to stay native, exactly as they did in English even after *family* itself went Latinate. See [[Words/фамаља|фамаља]]'s own Etymology section for the full displacement story and the two native candidates it passed over.
+
 **Layer II — Dalmatian City:** the words of law, trade, government, military, architecture, money, urbanity, court culture.
 
 **Layer III — Greek/Slavonic Heaven:** the words of God, Church, liturgy, theology, philosophy, saints, Scripture, sacrament.
