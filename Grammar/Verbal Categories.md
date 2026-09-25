@@ -12,7 +12,7 @@ Confirmed, already settled in [[Verbal Agreement]]: person and number agreement,
 
 ## Imperative — a Must, Uncontroversial
 
-Confirmed, and not a design tension: every living Slavic language has a productive imperative mood. No real decision required, just noting its existence as a category to build endings for later.
+Confirmed, and not a design tension: every living Slavic language has a productive imperative mood. **Built 2026-09-25, see [[Imperative]]**: synthetic 2sg/1pl/2pl (per [[Verb Paradigm (Sketch)]]'s three conjugation classes), jussive 1sg/3sg/3pl via нека (a real pan-Slavic \*nexati-descended LET-particle) + present, немој(-мо/-те)-suppletion for negating the synthetic cells (немој itself a fossilized \*mošti/moći imperative, structurally the same category as [[Biti (To Be)]]'s own бих), and a perfective/imperfective imperative contrast realized the Slavic way (via the aspectual verb pair itself, not a Greek-style stem alternation) rather than invented from scratch.
 
 ## Tense/Mood System: Mapping Your Guesses to the Real BCS Inventory
 
@@ -56,7 +56,7 @@ Real Common Slavic (and real BCS, which uniquely retains vestiges among modern S
 
 ## Not Yet Done
 
-- Actual endings for any of the above (explicitly deferred, per this session's own framing — categories first).
+- Actual endings for any of the above (explicitly deferred, per this session's own framing — categories first). ~~Imperative~~ — **built 2026-09-25, see [[Imperative]]**.
 - ~~The l-participle itself~~ — **built generically, see [[Past Tense Fusion and Evidentiality]]**, which also added a genuinely novel Sisician-specific innovation on top of it (gender-agreement fusion onto the past-tense verb complex, and aux-drop grammaticalizing as hearsay evidentiality). ~~бити's own specific l-participle~~ — **built 2026-09-25, see [[Biti (To Be)]]** (био/била/били/биле).
 - ~~The бих-series conditional auxiliary~~ — **built 2026-09-25, see [[Biti (To Be)]]** (бих/би/би/бисмо/бисте/би).
 - Actual aorist/imperfect endings, and the register-split's practical trigger conditions (see above — decided in principle, not in form).

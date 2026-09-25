@@ -54,7 +54,7 @@ Note pro-drop ([[Verbal Agreement]]) means the subject pronouns (јаз, ти, �
 
 This is a sketch, per your own framing — the following are real, needed pieces that this page doesn't attempt:
 
-- **Imperative** forms for any class ([[Verbal Categories]] confirmed it's a must-have category; no endings sketched yet).
+- ~~**Imperative** forms for any class~~ — **built 2026-09-25, see [[Imperative]]**: synthetic 2sg/1pl/2pl endings for all three classes (гледати/нести/радити above, plus [[../Words/респонџати|респонџати]] as a loanword-verb data point), jussive 1sg/3sg/3pl via нека, немој-suppletion for negation.
 - **Aorist/imperfect** endings (category and timeline decided in [[Verbal Categories]], forms not built).
 - **Future I/II, pluperfect, conditional** — categories are settled ([[Verbal Categories]]), but none of these compound forms have been assembled for a real verb yet (only будем itself, biti's own contribution, exists in finished form).
 - **The бих-series conditional auxiliary** itself (flagged unbuilt since [[Biti (To Be)]]).

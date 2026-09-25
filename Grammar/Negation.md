@@ -22,6 +22,10 @@ Decided 2026-09-23. See [[../Sisician|Sisician]] for the hub page.
 
 не is closed-class, unmarked, no register coloring. нон is Dalmatian-formal/expressive — the interjection/predicate-adjective slot specifically, per [[../AIOS/memory/project_prestige_register_principle|the prestige-register principle]].
 
+## A Third, Unrelated Negation Item: немој
+
+[[../Grammar/Imperative|Imperative]] (2026-09-25) adds a third negation-related word, **немој(-мо/-те)** — but it isn't a doublet of не or нон, and doesn't extend this page's two-word split. It's a defective, fossilized suppletive auxiliary (не + an old imperative of \*mošti/moći "to be able"), needed specifically because the synthetic imperative can't simply take не- the way an ordinary indicative verb does. See that page for the full account.
+
 ## Open Items
 
 - Exact syntax of adjectival "not" (which constructions actually take нон vs. а negated content word) not worked out — this page settles the two words' existence and etymology, not their full distributional grammar.
