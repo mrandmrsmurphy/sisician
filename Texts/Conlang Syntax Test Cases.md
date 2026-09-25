@@ -38,7 +38,9 @@ A real, external resource — not this vault's own invention — used across the
 *Commentary (2026-09-25):* Slavic has no direct equivalent to the English present perfect continuous — confirmed via search this session, not assumed. Real Croatian/Serbian doesn't grammaticalize "has been -ing" at all; it just reaches for the ordinary present tense plus **већ** ("already"), since the action is ongoing (hence present), not completed (hence not any kind of perfect). [[../Words/веч|веч]], coined for exactly this gap, continues that same real strategy: **сунце сија** ("the sun shines," items 1–2) plus **веч** reframes the same present-tense statement as something that had *already* started — the adverb carries the entire semantic weight English puts on the verb's own morphology. Real, not invented: the underlying gap (no BCS present-perfect-continuous) and the fix (already + present) are both attested; only the specific Sisician form of "already" (веч, via the ć→č merger) is this vault's own regular derivation from real Common Slavic \*vęťь.
 
 ## 6. The sun is shining again.
-*(untranslated)*
+**Сунце опет сија.**
+
+*Commentary (2026-09-25):* Plain SVO plus [[../Words/опет|опет]] ("again"), the user's own proposed form and etymology — Common Slavic **\*opętь** (*\*o-* + *\*pęta* "heel," literally "back on the heel"), confirmed via search. No aspectual complication the way item 5's веч had: опет is an ordinary repetition adverb, not standing in for a missing tense/aspect category. The fourth word in this vault to reuse the ę→e denasalization mechanism (after [[../Words/ме|ме]], [[../Words/те|те]], [[../Words/веч|веч]]) and the first with no accompanying dialect fork or jotation at all.
 
 ## 7. The sun will shine tomorrow.
 *(untranslated)*
