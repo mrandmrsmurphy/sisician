@@ -10,12 +10,10 @@ Sisician reverses the basic historical intuition:
 
 > **Slavic grammar + Romance vocabulary + Orthodox Christian civilization.**
 
-The Romance source is not French — it is **Dalmatian Romance**, the now-extinct Romance language historically spoken along the eastern Adriatic (see [[Culture/Geography and Economy]] § Why Dalmatian). The conceptual analogy:
+The Romance source is **Dalmatian Romance**, the now-extinct Romance language historically spoken along the eastern Adriatic (see [[Culture/Geography and Economy]] § Why Dalmatian) — chosen over an earlier, more generic "French army conquers somewhere south of Bohemia" idea specifically because Dalmatian was already a real Romance language geographically embedded beside the South Slavic world, giving the project a genuine historical anchor rather than a transplanted one:
 
 > **English:** Germanic + French/Latin/Greek
 > **Sisician:** South Slavic + Dalmatian Romance + Greek/Church Slavonic
-
-An earlier possibility was a French army conquering somewhere south of Bohemia, producing a Slavic-Romance equivalent of England. That was replaced by the more interesting **Dalmatian speakers**, because Dalmatian was already a Romance language geographically embedded beside the South Slavic world.
 
 The result should not be "Slavic vocabulary with Romance words pasted in." The language should feel like a genuine historical language whose strange properties arose because of centuries of bilingualism, political domination, intermarriage, trade, religion, and language shift. The governing conlang principle:
 
@@ -23,31 +21,36 @@ The result should not be "Slavic vocabulary with Romance words pasted in." The l
 
 Do not design a modern feature first and retrofit an etymology. Instead ask: "What happened between 1050 and 1400 that would produce this?" The modern language should feel **discovered rather than invented**.
 
-## The Linguistic Analogy: Yiddish, English, and Sisician
+## The Linguistic Analogies
 
-An earlier conlang possibility was a **Jewish Slavic language** — essentially "Yiddish in reverse": medieval Slavic base + Hebrew/Aramaic religious vocabulary + Jewish cultural ecology + Hebrew alphabet. That idea was abandoned in favor of Sisician, but it established a useful methodological insight: Yiddish is not merely German with Hebrew words. It is a Germanic language whose historical ecology produced Germanic grammar, Hebrew/Aramaic religious vocabulary, substantial Slavic influence, Jewish cultural vocabulary, and Hebrew-derived writing traditions.
+**Yiddish** (an earlier "Jewish Slavic language" idea, considered and dropped before Sisician) supplied the one methodological insight worth keeping: Yiddish isn't merely German-with-Hebrew-words, it's a Germanic language whose own historical ecology produced Germanic grammar, Hebrew/Aramaic religious vocabulary, Slavic influence, and its own writing tradition — a whole system, not a word-list overlay. Sisician works the same way, minus the Jewish layer: South Slavic grammar + Dalmatian Romance urban/court vocabulary + Greek/Church Slavonic Orthodox vocabulary + regional Hungarian/German/Italian contact + its own historical orthography.
 
-Sisician should work analogously, but without the Jewish layer: South Slavic grammar + Dalmatian Romance urban/court vocabulary + Greek/Church Slavonic Orthodox vocabulary + regional Hungarian/German/Italian contact + its own historical orthography.
+**English** is the analogy that actually drives day-to-day word-coining decisions (see § Current Priority below). Sisician shouldn't replace half the Slavic dictionary with Romance words arbitrarily — English became Romance-looking because *particular historical domains* were disproportionately Frenchified, not a flat percentage. See [[Etymology/Semantic Domains]] for the operative domain breakdown (grammar overwhelmingly South Slavic, core vocabulary overwhelmingly Slavic, urban/civic vocabulary heavily Dalmatian, learned vocabulary Greek/Church Slavonic + Dalmatian/Latin, political vocabulary Hungarian + Dalmatian; total lexicon perhaps 30–40% demonstrably Romance-derived). **The important thing is not the percentage — it is the semantic distribution.**
 
-English provides the second major analogy. The design should not attempt to replace half the Slavic dictionary with Romance words arbitrarily — English became Romance-looking because **particular historical domains** were disproportionately Frenchified. Sisician should develop the same kind of semantic strata rather than a flat percentage. See [[Etymology/Semantic Domains]] for the actual domain breakdown and the target lexical distribution (grammar overwhelmingly South Slavic, core vocabulary overwhelmingly Slavic, urban/civic vocabulary heavily Dalmatian, learned vocabulary Greek/Church Slavonic + Dalmatian/Latin, political vocabulary Hungarian + Dalmatian; total lexicon perhaps 30–40% demonstrably Romance-derived). **The important thing is not the percentage — it is the semantic distribution.**
+## Where the Six-Phase Plan Stands Now
 
-## The Six-Phase Construction Workflow
+The original plan called for building historically rather than top-down: Phase 1 (pre-founding sources) → Phase 2 (Old Sisician, c. 1000–1150) → Phase 3 (the sound-change chain) → Phase 4 (Middle Sisician, c. 1150–1350, the hybrid emerges) → Phase 5 (Early Modern Sisician, c. 1350–1650, Dalmatian dies) → Phase 6 (Modern Standard). That ordering mattered for *bootstrapping* — it's why phonology and sound changes got built before vocabulary — and it did its job:
 
-The conlang should be constructed historically rather than top-down.
+- **Phase 1 and Phase 3 are done** — all four source varieties exist ([[Sources/Vulgar Latin]], [[Sources/Dalmatian]], [[Sources/Late Common Slavic]], [[Sources/Old Church Slavonic]]), and [[Etymology/Sisician Sound Changes]] bridges them to the modern target.
+- **Phases 2, 4, 5, and 6 were done target-first, out of the original order, deliberately** — grammar (nominal morphology, the full pronoun/demonstrative/numeral system, the verbal system including two auxiliaries, the imperative, evidentiality, negation) and a substantial lexicon (well over 100 `Words/` entries) already exist as *modern-target* forms with their own historical derivations attached, not built in the strict 1000→1650 sequence. This deviation was acknowledged and accepted early on, not a drift to correct.
 
-**Phase 1 — Establish the pre-founding linguistic base.** Construct or select: the South Slavic dialect around 1000; the Dalmatian source variety; the Church Slavonic/Greek layer; the Hungarian contact layer; the Latin writing tradition. Do not yet create modern vocabulary.
+**What this means practically: the six phases are no longer the operative to-do list.** They describe how the foundation got built, and remain the right frame if a genuinely new grammatical or phonological layer needs bootstrapping from scratch. For everything else — which is most remaining work — see below.
 
-**Phase 2 — Build Old Sisician (c. 1000–1150).** Create early bilingual speech, initial loan vocabulary, phonological adaptation, early mixed registers, early orthography.
+## Current Priority: Lexicon, and Where the Real Decisions Are
 
-**Phase 3 — Historical sound changes.** Develop a sequence of sound changes. Every major modern irregularity should ultimately descend from one: Old Sisician form → sound change 1 → sound change 2 → analogy → Modern Sisician form.
+**The main task of any conlang is word-coining, and this project now has a mature, proven method for it** — check [[Etymology/Swadesh List]] and [[Etymology/Semantic Domains]] before coining, verify any real Slavic/Dalmatian/Greek citation via search rather than assume it, apply the already-established sound-change chain rather than re-deriving from scratch, follow [[AIOS/memory/reference_word_entry_format]]'s template, and flag honestly what's cited vs. extended. That process doesn't need redesigning; it needs running.
 
-**Phase 4 — Build Middle Sisician (c. 1150–1350).** This is where the language becomes unmistakably hybrid. Introduce extensive Romance lexical penetration, Greek/Slavonic religious vocabulary, Hungarian political vocabulary, morphological integration, semantic shifts, dialect variation.
+**Most of core (Swadesh-type) vocabulary is going to be Slavic, and that's mostly mechanical.** Body parts, kinship, basic verbs, nature, numerals, function words — [[Etymology/Semantic Domains]]'s "Layer I — Slavic Earth" — inherit directly from Common Slavic through the already-built sound-change chain. These words are worth coining (the Swadesh list is a real scaffold, not busywork), but the *design* decisions in them are usually small: which dialect-fork to lean on when Croatian/Slovene/Serbian genuinely diverge, which real citation to trust, whether a specific consonant cluster needs a repair. Two exceptions already on record — [[Words/фамаља|фамаља]] "family" and [[Words/респонџати|респонџати]] "to answer" — show even Layer I isn't absolutely sealed against Dalmatian, but they're the exception precisely because Layer I is the default.
 
-**Phase 5 — Early Modern Sisician (c. 1350–1650).** The period in which Dalmatian disappears as a community language and the surviving Romance vocabulary becomes native.
+**The real decisions live in the "fancy" words — the non-core, register-differentiated vocabulary where Sisician's own three-way split (native Slavic / Dalmatian Romance / Greek-Church-Slavonic) is a live, meaningful choice rather than a foregone conclusion.** This is [[Etymology/Semantic Domains]]'s Layer II (Dalmatian City: law, trade, government, military, architecture, money, urbanity, court culture) and Layer III (Greek/Slavonic Heaven: God, Church, liturgy, theology, philosophy, saints, Scripture) — and, sitting between them, the genuinely interesting judgment calls: does *this* abstract or learned concept feel more civic-Dalmatian or more liturgical-Greek? Does it split into two registers the way "home" did across four words ([[Words/дом|дом]]/[[Words/каза|каза]]/[[Words/скинија|скинија]]/[[Words/икос|икос]])? Is this a case where the Greek concept arrived *through* Church Slavonic or *directly*, and does that pathway itself carry meaning (as it did for скинија vs. икос)? These are the coinages that actually define Sisician's character, the same way English's Latinate/Germanic split (not its raw vocabulary count) is what makes English feel the way it does. Prioritize these over grinding through the rest of the Swadesh list.
 
-**Phase 6 — Modern Standard.** Only now determine standardized grammar, orthography, literary vocabulary, dialects, pronunciation, formal registers.
+**Two other live threads, smaller but real:**
+- **Proper names, derived from the phonology rather than invented.** [[Culture/Founding Myth and Naming]] tracks status — the founder (Vitalis Madius de Corinio), the endonym ([[Words/сисачки|сисачки]]), and the people's name ([[Words/сишчани|сишчани]]) are decided; the polity, the dynasty, and the lord's title are not, and should get the same derive-then-verify-against-the-real-record treatment those three did.
+- **Grammar gaps that surface as they're needed**, rather than as a standing checklist: the passive participle, present participles, aorist/imperfect endings, the да-construction's own internal syntax. Build these when a sentence or a design question actually needs one, the way [[Grammar/Imperative]] and [[Grammar/Hteti (To Want) and the Future]] got built when [[Texts/Conlang Syntax Test Cases]] needed them.
 
-**Current status (2026-09-18): Phase 1 has not started.** No phonology, grammar, or lexicon exists yet.
+## Remaining Historical/Cultural Tasks — Real, Just Not the Main Thread Right Now
+
+[[Culture/History]] stops at 1300; nothing yet covers the Ottoman period, the Habsburg Military Frontier, Austro-Hungarian rule, or [[Culture/Sociolinguistic History]]'s own "Modern Sisician (c. 1650–present)" stage. [[Culture/Founding Myth and Naming]] still lists its ten candidate legendary motifs (a banner, a sword, an oath, a Roman stone, a storm, a monk, a prophecy, a Byzantine seal, a lost charter) as undecided — a real legend, not just a premise, hasn't been written. Material and daily-life culture (cuisine, dress, architecture, iconography, law, customs) is still just [[Culture/Political Identity]]'s own wishlist. None of this blocks lexicon work, and none of it needs to happen before the lexicon work continues — pick it up when it's wanted, not on a schedule.
 
 ## What Not To Do
 
@@ -59,7 +62,7 @@ The conlang should be constructed historically rather than top-down.
 - Do not make every historical borrowing obvious.
 - Do not ignore semantic domains, social class, or religion when deciding where a loanword lands.
 - Do not make Dalmatian survive unchanged until 1800 — it must die as a community language (by ~1300, see [[Culture/History]]).
-- Do not invent modern vocabulary before constructing sound changes (Phase 3 before Phase 4/6).
+- Do not invent a word or a name without grounding it in the sound-change chain or a real, verified citation — the Phase-ordering concern this line used to name is resolved (Phase 3 is done), but the underlying discipline (derive, don't invent) is permanent, not phase-bound.
 - Do not assume all Romance influence comes directly from Latin — route it through Dalmatian.
 - Do not treat Greek and Church Slavonic as interchangeable (see [[Culture/Religion]]).
 - Do not treat the language as a creole without historical justification — the demographic situation is a majority Slavic population + a prestigious but numerically small Romance elite + long-term bilingualism, not two equally sized speech communities with catastrophic grammatical breakdown. The language should retain a robust inherited Slavic grammatical structure; Romance influence should be substantial but historically constrained. The result is a language-contact evolution, not an artificial mixed grammar.

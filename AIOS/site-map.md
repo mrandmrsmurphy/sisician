@@ -11,7 +11,7 @@ The folder structure will not necessarily match the logical hierarchy once the v
 | File | Purpose | Status |
 |---|---|---|
 | `Sisician.md` | Splash page / hub — the pitch, the core formula, links to every section | Active |
-| `Conlang Workflow.md` | Design method: the core idea, the Yiddish/English analogy, the six-phase construction order, the full "what not to do" list, the central design constraint | Active |
+| `Conlang Workflow.md` | Design method: the core idea, the Yiddish/English analogies, where the (now largely superseded) six-phase plan stands, current priority (lexicon, with the real decisions in Layer II/III "fancy" words), remaining historical/cultural tasks, the full "what not to do" list, the central design constraint | Active |
 | `CLAUDE.md` | Guidance for Claude Code — start here | Active |
 | `AIOS/memory-index.md` | Standing index of durable Claude-memory files — read first, every session | Active |
 | `AIOS/memory/*.md` | Individual memory files (project identity, construction workflow, naming status, workflow feedback) | Active |
