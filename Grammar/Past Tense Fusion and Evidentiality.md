@@ -20,18 +20,20 @@ Real Croatian forms its past tense (the Perfect) with [[Biti (To Be)]]'s short/c
 
 ### Outcome 1 — Fusion: gender/number agreement moves onto the verb complex itself
 
-The auxiliary univerbates with the participle rather than staying a separate word: **је радио → РЈА̀дио** (masc. sg.), **је радила → РЈА̀дила** (fem. sg.), and — extending the same logic to 3rd plural **су** — **су радили → СРА̀дили** (masc. pl.), **су радиле → СРА̀диле** (fem. pl., also covering old-neuter-plural per the merger). The old auxiliary reduces to a bound (or semi-bound) element fronting a single verb form. This becomes the **new default, unmarked past tense** — the ordinary way of reporting something witnessed/known directly.
+The auxiliary univerbates with the participle rather than staying a separate word: **је радио → рја̀дио** (masc. sg.), **је радила → рја̀дила** (fem. sg.), and — extending the same logic to 3rd plural **су** — **су радили → сра̀дили** (masc. pl.), **су радиле → сра̀диле** (fem. pl., also covering old-neuter-plural per the merger). The old auxiliary reduces to a bound (or semi-bound) element fronting a single verb form. This becomes the **new default, unmarked past tense** — the ordinary way of reporting something witnessed/known directly.
+
+**Spelled in plain lowercase, not capitalized mid-word.** An earlier draft of this page (and every revision of it until now) capitalized the fused element — ЈРА̀дио, СРА̀дили — to visually flag "this bit is the fused clitic" for the reader. That was a documentation crutch, not a claim about real Sisician spelling: no natural orthography capitalizes a letter in the middle of an ordinary word to mark a morphophonological boundary (real Croatian doesn't write *jRadio* to flag that *je* fused onto *radio* either). Caught by the user once the same convention started looking genuinely strange on a longer word ([[../Words/респонџати|респонџати]]'s own forms, below). The grave accent alone carries the real information (root-anchored stress); ordinary sentence-initial capitalization is the only capitalization these words ever get.
 
 **Stress stays on the participle's own root, not the fused element** — a fused clitic doesn't retroactively gain stress just by univerbating; it stays prosodically weak, the way clitics do. So the root-anchored stress principle still lands on **-ра-** (the lexical root of *raditi*), not on the fused element.
 
-**Corrected 2026-09-25: the fused /j/+/r/ sequence metathesizes to /r/+/j/ — it does not stay in its original order.** An earlier version of this section claimed /j/+/r/ "genuinely clusters, no metathesis" and treated it as equivalent to /s/+/r/; that was wrong, caught immediately by the user. The two cases are not equivalent, and the real Sonority Sequencing Principle explains exactly why: onset clusters need **rising** sonority toward the vowel. /s/ (obstruent) + /r/ (liquid) + vowel rises monotonically (low→mid→high) — a completely ordinary, unmarked onset, real and common in South Slavic (*srce* "heart"). But /j/ (glide) + /r/ (liquid) + vowel does **not** rise — glides rank *above* liquids in sonority, so /j/+/r/+V dips (high→lower→high again), a real, cross-linguistically dispreferred onset shape. Sisician repairs this the same way many languages repair a sonority-violating cluster: **metathesis**, reordering to the sonority-compliant /r/+/j/+V (rising: liquid→glide→vowel) — giving **РЈА̀дио**, not †ЈРА̀дио. /s/+/r/ needs no such repair and stays exactly as it was: **СРА̀дили** is unaffected.
+**Corrected 2026-09-25: the fused /j/+/r/ sequence metathesizes to /r/+/j/ — it does not stay in its original order.** An earlier version of this section claimed /j/+/r/ "genuinely clusters, no metathesis" and treated it as equivalent to /s/+/r/; that was wrong, caught immediately by the user. The two cases are not equivalent, and the real Sonority Sequencing Principle explains exactly why: onset clusters need **rising** sonority toward the vowel. /s/ (obstruent) + /r/ (liquid) + vowel rises monotonically (low→mid→high) — a completely ordinary, unmarked onset, real and common in South Slavic (*srce* "heart"). But /j/ (glide) + /r/ (liquid) + vowel does **not** rise — glides rank *above* liquids in sonority, so /j/+/r/+V dips (high→lower→high again), a real, cross-linguistically dispreferred onset shape. Sisician repairs this the same way many languages repair a sonority-violating cluster: **metathesis**, reordering to the sonority-compliant /r/+/j/+V (rising: liquid→glide→vowel) — giving **рја̀дио**, not †јра̀дио. /s/+/r/ needs no such repair and stays exactly as it was: **сра̀дили** is unaffected.
 
 **Not the same mechanism as [[../Sources/Dalmatian|Dalmatian]]'s own /rj/-metathesis rule** (real Vulgar Latin PARIA→*paire*, used for [[../Words/денајр|денајр]]) even though both involve reordering /r/ and a glide — that one is a medial, intervocalic yod migrating toward a preceding vowel to form a diphthong, driven by real cited Vulgar Latin sound history; this one is a word-initial onset-sonority repair, driven by a general phonological markedness principle applying at the moment of cliticization. Worth naming as a nice thematic echo, not conflating as one rule wearing two names.
 
 | | Masculine | Feminine |
 |---|---|---|
-| Fused past, singular (witnessed) | РЈА̀дио | РЈА̀дила |
-| Fused past, plural (witnessed) | СРА̀дили | СРА̀диле |
+| Fused past, singular (witnessed) | рја̀дио | рја̀дила |
+| Fused past, plural (witnessed) | сра̀дили | сра̀диле |
 
 ### Outcome 2 — Drop: the bare participle becomes a hearsay/reportative evidential
 
@@ -47,7 +49,7 @@ In a separate set of contexts, the auxiliary doesn't fuse — it **vanishes enti
 | Form | Auxiliary status | Meaning |
 |---|---|---|
 | је/су радио.../радили... | Conservative, unfused (older / more formal-literary alternative) | Plain past, no evidential marking |
-| РЈА̀дио / СРА̀дили (etc.) | Fused, bound (metathesized where sonority requires it) | **Witnessed/direct** past — the new ordinary default |
+| рја̀дио / сра̀дили (etc.) | Fused, bound (metathesized where sonority requires it) | **Witnessed/direct** past — the new ordinary default |
 | радио / радили (etc.) | Dropped entirely | **Hearsay/reportative** past — the register of stories, legends, myths, and reportage |
 
 All three trace back to the identical real Croatian source construction — the divergence is purely in what happened to one weak clitic, in three different directions, which is exactly the kind of single-cause-many-outcomes story the project has valued throughout (compare [[Nominal Morphology]]'s locative loss redistributing into three different case slots from one cause).
@@ -68,14 +70,14 @@ All three trace back to the identical real Croatian source construction — the 
 |---|---|---|
 | Conservative, singular | је респонџао | је респонџала |
 | Conservative, plural | су респонџали | су респонџале |
-| Fused (witnessed), singular | РЈеспо̀нџао | РЈеспо̀нџала |
-| Fused (witnessed), plural | Среспо̀нџали | Среспо̀нџале |
+| Fused (witnessed), singular | рјеспо̀нџао | рјеспо̀нџала |
+| Fused (witnessed), plural | среспо̀нџали | среспо̀нџале |
 | Dropped (hearsay), singular | респонџао | респонџала |
 | Dropped (hearsay), plural | респонџали | респонџале |
 
-**Notice the singular metathesizes (је+респонџао → РЈеспо̀нџао, not †Јреспо̀нџао) while the plural doesn't (су+респонџали → Среспо̀нџали stays as-is)** — the exact same asymmetry as радити's own pair, for the exact same reason: /j/+/r/ is a sonority-violating onset needing repair, /s/+/r/ already rises and needs none.
+**Notice the singular metathesizes (је+респонџао → рјеспо̀нџао, not †јреспо̀нџао) while the plural doesn't (су+респонџали → среспо̀нџали stays as-is)** — the exact same asymmetry as радити's own pair, for the exact same reason: /j/+/r/ is a sonority-violating onset needing repair, /s/+/r/ already rises and needs none. This word's own root beginning with /r/ ("ре-спонџати") is coincidental — the metathesis happens at the je-clitic + root-initial-/r/ boundary regardless of what the root's own stress pattern is, which is why it fires here even though респонџати's stress falls two syllables later than радити's does.
 
-**One notational departure from РЈА̀дио, explained rather than silently done differently**: that spelling capitalizes the whole metathesized onset-plus-stressed-vowel together (РЈА-), which works cleanly only because *radi-*'s stress happens to fall on its own first syllable — after metathesis, /r/+/j/ genuinely becomes that syllable's own two-consonant onset (**рја**дио), so capitalizing all three letters marks one real phonological constituent. респонџати's stress falls on *-спон-*, two syllables past where the metathesis happens — the reordered **рј-** is the onset of the word's first (unstressed) syllable **рје-**, not the stressed one, so capitalizing "РЈЕСПОН-" to match would visually overstate the fused portion. Only the metathesized cluster itself is capitalized (**РЈ**еспо̀нџао, **С**респо̀нџали), with the grave accent alone carrying the actual stress information two syllables later. Same phonological facts (root-anchored stress; metathesis exactly where sonority requires it) producing different-looking capitalization because the two roots' own stress position differs — not a new rule for this word.
+**No notational departure needed, unlike an earlier draft of this page claimed** — once mid-word capitalization is dropped entirely (§ Outcome 1, above), радити's and респонџати's fused forms spell on exactly the same principle: plain lowercase, metathesize /j/+/r/ to /r/+/j/ exactly where it occurs, mark stress with the grave accent wherever the root's own stress already falls. The two words only *look* different because *radi-*'s stress happens to land right where the metathesis happens (рја̀дио, one syllable) while респонџати's stress sits two syllables further in (рјеспо̀нџао) — a fact about where each root's stress falls, not a fact requiring a special spelling convention.
 
 ## Evidentiary Honesty: What's Cited vs. What's Extended
 

@@ -43,7 +43,7 @@ All three follow root-anchored stress ([[../Phonology/Modern Inventory|Modern In
 | 1st (conservative only) | сам радио / сам радила | смо радили / смо радиле |
 | 2nd (conservative only) | си радио / си радила | сте радили / сте радиле |
 | 3rd, conservative | је радио / је радила | су радили / су радиле |
-| 3rd, fused (witnessed) | ЈРА̀дио / ЈРА̀дила | СРА̀дили / СРА̀диле |
+| 3rd, fused (witnessed) | рја̀дио / рја̀дила | сра̀дили / сра̀диле |
 | 3rd, dropped (hearsay) | радио / радила | радили / радиле |
 
 Note pro-drop ([[Verbal Agreement]]) means the subject pronouns (јаз, ти, он/она, ми, ви, они/оне) shown here are optional in all of the above — included for clarity, not because they're required.
