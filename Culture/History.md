@@ -10,7 +10,7 @@ This is the real historical opening through which the alternate history enters. 
 
 This crisis is the excellent place for the fictional founder to make the wrong political decision.
 
-**The fictional founder** is a Dalmatian noble from Zadar or Split — preferably Zadar — who backs the wrong brother. He is not necessarily a great lord: better imagined as a minor or middling noble, a frontier commander, a military household head, a court-connected Dalmatian aristocrat, someone with enough wealth to maintain a retinue and enough political importance to become dangerous after losing. (See [[Culture/Founding Myth and Naming]] for the founder's fuller profile.)
+**The fictional founder**, named 2026-09-25, is **Vitalis Madius de Corinio** (vernacular *Vitale Madi de Karin*) — a Dalmatian noble of Zadar, holding the frontier castrum of Karin (Roman *Corinium*) in Sidraga župa for the Crown, who backs Svetoslav and loses. He is not a great lord: a middling frontier commander (*castellanus*), someone with enough wealth (Zadar urban rents, lay tolls and fisheries on the Karin Sea) to maintain a retinue and enough political importance to become dangerous after losing, but not so powerful that his fall destabilizes the kingdom. See [[Culture/Founding Myth and Naming]] § The Founder for the full name derivation and § The Political Tragedy for how backing Svetoslav plays out against Krešimir/Gojslav's rebellion and the Venetian/Bulgarian intervention this section describes.
 
 Original framing: *"Around 1000 A.D., a Dalmatian noble from Zadar backs the wrong brother in the Croatian succession war. He loses. Rather than stay and be executed or exiled to a monastery, he takes his household, retainers, and whatever wealth he can move, and heads inland up the Sava."* This event must remain small — there is no migration of a people, only a migration of a household and political faction.
 
@@ -51,9 +51,9 @@ By approximately 1300, the original Dalmatian-speaking household has disappeared
 
 ## The Premise, in One Passage
 
-Around 1000 AD, during the Croatian succession crisis following the death of Stjepan Držislav, a Dalmatian noble from Zadar backs the losing side. Historically, Svetoslav Suronja was overthrown around 1000 by his brothers Krešimir III and Gojslav; the conflict coincided with Venetian intervention in the Dalmatian cities and Bulgarian military pressure.
+Around 1000 AD, during the Croatian succession crisis following the death of Stjepan Držislav, **Vitalis Madius de Corinio** — a Dalmatian noble of Zadar holding the frontier castrum of Karin for the Crown — backs the losing side. Historically, Svetoslav Suronja was overthrown around 1000 by his brothers Krešimir III and Gojslav; the conflict coincided with Venetian intervention in the Dalmatian cities and Bulgarian military pressure.
 
-In the alternate timeline, the defeated Dalmatian noble refuses either execution or monastic exile. He gathers his household, retainers, clerks, merchants, and Slavic soldiers and retreats inland along the Sava. He claims to be acting in the king's interest, establishes himself at the strategic Roman site of Siscia, reuses its ancient earthworks, controls a ferry/crossing, and begins collecting tolls.
+In the alternate timeline, the defeated Vitalis refuses either execution or monastic exile. He gathers his household, retainers, clerks, merchants, and Slavic soldiers and retreats inland along the Sava. He claims to be acting in the king's interest, establishes himself at the strategic Roman site of Siscia, reuses its ancient earthworks, controls a ferry/crossing, and begins collecting tolls.
 
 His original language is Dalmatian Romance. His soldiers and neighbors speak South Slavic. His clerks know Latin. His Church is initially connected to the Latin Christian world but gradually turns toward Constantinople. His children become bilingual. His grandchildren speak a mixed urban Slavic vernacular. His descendants eventually speak only that vernacular.
 
