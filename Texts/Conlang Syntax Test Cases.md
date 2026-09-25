@@ -6,17 +6,21 @@ A real, external resource — not this vault's own invention — used across the
 
 ## Status: A Scaffold, Not a Todo List to Clear in One Sitting
 
-**Every single sentence below needs at least one main verb — and Sisician currently has zero verb `Words/` pages.** This isn't a gap specific to this list; it's already the single clearest known lexical hole in the whole vault (see [[../AIOS/memory/reference_construction_workflow|reference_construction_workflow]]'s own "no verbs exist as Words/ pages yet" note), and this page makes that concrete rather than papering over it. So right now, **nothing here is translatable**, not even the shortest imperatives ("Listen.", "Go away!").
+**Originally, every sentence below needed at least one main verb, and Sisician had zero verb `Words/` pages — nothing was translatable, not even the shortest imperatives.** That's no longer true: [[../Words/бити|бити]], [[../Words/респонџати|респонџати]], and [[../Words/сијати|сијати]] now exist, and item 1 ("The sun shines") is translated below, the first of the 218. Still true: most of this list needs vocabulary (nouns, adjectives, more verbs) that doesn't exist yet, so most items remain untranslated — that's expected, not a regression.
 
 **The same standing rule as [[../Etymology/Swadesh List|Etymology/Swadesh List]] applies here**: this page exists to be checked before coining a word or filling in a sentence, and to be revisited gradually — one sentence at a time, with its own real citation and derivation, the same way every [[../Words|Words/]] page has been built so far — never mass-completed in one sitting. Fill in a **Translation** and **Commentary** under a sentence only when it's actually been worked out with the same rigor as everything else in this vault, not as a placeholder guess.
 
 ---
 
 ## 1. The sun shines.
-*(untranslated)*
+**Сунце сија.**
+
+*Commentary (2026-09-25):* сунце (sun, masc.-agreeing neuter, nom.sg.) + сија (сијати "to shine," 3sg present). Plain SVO, no complications — the first sentence on this whole 218-item list to actually get filled in, and it took [[../Words/сунце|сунце]] and [[../Words/сијати|сијати]] both existing first (сунце was coined 2026-09-24 specifically prompted by this sentence; сијати closes the gap it left open).
 
 ## 2. The sun is shining.
-*(untranslated)*
+**Сунце сија.** *(identical to item 1)*
+
+*Commentary:* Real Slavic imperfective present tense covers both the general-truth reading ("the sun shines [as a fact of nature]") and the in-progress reading ("the sun is shining [right now]") with the same form — there's no separate progressive construction, the same way real Croatian *sunce sja* does double duty for both English sentences. Not a gap; a genuine typological difference from English, worth stating explicitly rather than leaving these two items looking accidentally unfinished.
 
 ## 3. The sun shone.
 *(untranslated)*
