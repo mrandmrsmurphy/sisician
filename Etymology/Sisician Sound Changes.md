@@ -70,6 +70,10 @@ First flagged on [[../Words/ти|ти]], repeated without re-derivation on [[../
 
 These reshape the paradigm without being phonological sound laws in the Havlík's-Law sense — worth keeping distinct from § "Sound Changes" above, since conflating the two would misrepresent how each cell of the paradigm actually got its modern shape.
 
+### /j/+/r/ Onset Metathesis — a Live Synchronic Repair, Not a Historical Change (new 2026-09-25)
+
+**A third category, distinct from both the historical sound changes above and the analogical mechanisms below**: when [[../Grammar/Past Tense Fusion and Evidentiality|Past Tense Fusion and Evidentiality]]'s је-clitic fuses onto an /r/-initial verb root (радио, респонџао), the resulting word-initial /j/+/r/ sequence violates the Sonority Sequencing Principle (glides outrank liquids, so glide+liquid+vowel dips rather than rises) and metathesizes to the sonority-compliant /r/+/j/ — **РЈА̀дио**, not †ЈРА̀дио. The plural equivalent, /s/+/r/ (from су-fusion), needs no such repair, since obstruent+liquid+vowel already rises. Full account and both worked examples live on that page, not repeated here — flagged centrally only because it's exactly the kind of "why does this cell look like this" fact this page exists to collect. **Not the same mechanism as [[../Sources/Dalmatian|Dalmatian]]'s own /rj/-metathesis** (real Vulgar Latin PARIA→*paire*, medial and vowel-seeking, cited for [[../Words/денајр|денајр]]) despite the thematic echo — this one is a live, synchronic, sonority-driven repair triggered fresh at every cliticization event, not a completed historical sound change inherited from Latin.
+
 ### Genitive/Accusative Syncretism — Four Genuinely Different Historical Patterns
 
 The single biggest cross-cutting finding in the whole pronoun set: four pairs all end up with genitive=accusative syncretism in modern Sisician, but by four different historical routes. Conflating them would flatten a real, load-bearing distinction.
