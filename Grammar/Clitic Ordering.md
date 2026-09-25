@@ -25,10 +25,22 @@ This isn't an arbitrary rule: **је** (3sg auxiliary "is") and **је** (accusa
 
 ## је's Fate Doesn't Stop at Word-Ordering
 
-**је was already the most special clitic in this template** (see § above — exiled to the end due to homophony with the accusative/genitive feminine clitic је). It turns out that's not the end of је's idiosyncrasy: [[Past Tense Fusion and Evidentiality]] gives it a genuinely novel further development on top of this ordering quirk — in the past tense specifically, је can fuse onto the following l-participle (creating a new bound gender-marked verb form) or drop entirely (grammaticalizing as hearsay evidentiality), neither of which happens to the other auxiliary clitics (сам/си/smo/сте/су). The single most homophony-burdened clitic in the system is also the one that ends up doing the most grammatical work — not a coincidence forced for effect, just where the pre-existing oddity kept leading.
+**је was already the most special clitic in this template** (see § above — exiled to the end due to homophony with the accusative/genitive feminine clitic је). It turns out that's not the end of је's idiosyncrasy: [[Past Tense Fusion and Evidentiality]] gives it a genuinely novel further development on top of this ordering quirk — in the past tense specifically, је can fuse onto the following l-participle (creating a new bound gender-marked verb form) or drop entirely (grammaticalizing as hearsay evidentiality), neither of which happens to the other auxiliary clitics (сам/си/smo/сте/su). The single most homophony-burdened clitic in the system is also the one that ends up doing the most grammatical work — not a coincidence forced for effect, just where the pre-existing oddity kept leading.
+
+## Decided (2026-09-25): What Happens to Other Clitics When је Fuses or Drops
+
+**Once је stops being a free clitic, the second-position template doesn't lose its other slots — they just re-anchor to a new host.** The template (li–AUX–DAT–ACC/GEN–SE–је) exists to give floating clitics a fixed landing site; when је itself fuses into the participle or vanishes entirely, the *other* clitics (ли, a dative/accusative pronoun, се) simply cluster after whatever is now the clause's first stressed constituent instead — normally the participle itself, once је is no longer a separate word to anchor on.
+
+All three illustrated with [[../Words/респонџати|респонџати]] ("to answer"), the only verb currently built with a dative clitic's real target sense — "[he] answered him":
+
+- **Conservative** (је still free): clitics stack on је exactly as the template already specifies — **Респонџао му је.** ("[He] answered him.")
+- **Fused, witnessed**: the fused verb complex is the new host — **Рјеспо̀нџао му.**
+- **Dropped, hearsay**: same logic, no auxiliary left at all to compete for the slot — **Респонџао му.** ("[He] reportedly answered him.")
+
+This isn't a new mechanism — it's the ordinary second-position rule doing exactly what it already does (attach to the first stressed constituent), just noting explicitly that a fused or dropped past tense changes *which word* that is. No clitic loses its slot; the anchor point moves.
 
 ## Open Items
 
 - ~~The "biti" auxiliary clitic paradigm~~ — **resolved, see [[Biti (To Be)]]**.
+- ~~Whether a fused or dropped past-tense form still participates in this clitic template~~ — **resolved above (2026-09-25)**: yes, via re-anchoring to the new first stressed constituent.
 - How this interacts with [[../Grammar/Word Order and Register|Word Order and Register]]'s freer-order/Dalmatian-erudite register — does that register still respect strict second-position clitic clustering, or does clitic rigidity itself become a "homey/plain" marker contrasted with something looser in the erudite register? Not yet considered.
-- Whether a fused (јрадио) or dropped (радио) past-tense form still participates in this clitic template the normal way, or whether [[Past Tense Fusion and Evidentiality]]'s innovations change the cluster's behavior when they apply — flagged there, not resolved here either.

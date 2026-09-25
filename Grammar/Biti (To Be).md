@@ -48,10 +48,29 @@ Used in subordinate temporal/conditional clauses ("when I will be...") and as a 
 | 2nd | БУ́деш | БУ́дете |
 | 3rd | БУ́де | БУ́ду |
 
-## Not Yet Built
+## L-Participle: био/била/били/биле (built 2026-09-25)
 
-- **The conditional auxiliary** (real Croatian бих/би/би/бисмо/бисте/би — historically a fossilized aorist, not a present tense of *biti* at all) — a related, adjacent system, not requested here and not built. Flagging its existence rather than silently pretending the *biti* system is now complete.
-- **The l-participle in general** — the neuter-merger question is now resolved for l-participles generically (masc. sg./fem. sg./masc. pl./fem. pl., no separate neuter) in [[Past Tense Fusion and Evidentiality]], which also built the first genuinely novel Sisician-specific past-tense innovation on top of it. **бити's own specific l-participle** (Croatian *bio/bila*, needed for the [[Verbal Categories|pluperfect]] specifically, since the pluperfect is biti's own past + the main verb's l-participle) is still not individually built — the worked example elsewhere uses a generic verb (*raditi* "to do/work"), not бити itself.
+**No new mechanism — бити is an i-type infinitive shape (би-ти) exactly like радити, so it takes the l-participle suffix and [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 10's L-vocalization rule the identical way**: stem **би-** + suffix, masculine singular vocalizing coda /l/ → /o/:
+
+| | Masculine (sg.) | Feminine (sg.) | Masculine (pl.) | Feminine (pl.) |
+|---|---|---|---|---|
+| l-participle | био | била | били | биле |
+
+**This is the missing piece the pluperfect has been waiting on.** [[Verbal Categories]] already defines the pluperfect as "biti's own past + l-participle of the main verb" but had nothing to build it *with* — биti's own l-participle didn't exist yet. It does now: **биti's past tense is formed the ordinary way, aux + this participle** (био сам, био си, био је, etc.), and the pluperfect stacks the main verb's l-participle on top: **био сам радио** ("I had worked"), **био сам респонџао** ("I had answered"). No new machinery — this is [[Biti (To Be)|биti]]'s own perfect construction, built from pieces already on this page, used as an auxiliary phrase rather than a finite verb in its own right.
+
+**биti's own perfect can, in principle, undergo the same [[Past Tense Fusion and Evidentiality|је-fusion/drop]] system any other verb's perfect can** when биti is used as an ordinary main verb (not the pluperfect auxiliary) — "[he] was" as witnessed/hearsay, not just conservative. Unlike радити/респонџати, no [[../Etymology/Sisician Sound Changes|onset-metathesis]] repair is needed here: **је+био** is obstruent(/b/)+glide(/j/)+vowel, which already rises in sonority (obstruent ranks below glide), the same way [[../Words/денајр|денајр]]'s own -рј- needed metathesis specifically *because* r outranks j — so the fused witnessed form is simply **јбио** (је+био, no reordering), **јбила**, etc., with **сбили**/**сбиле** for the plural (су+били/биле, also already sonority-compliant). Noted here as a free, low-cost extension of already-decided rules, not separately re-derived.
+
+## Conditional Auxiliary: бих (built 2026-09-25)
+
+**Historically a fossilized aorist, not a present tense of биti at all — inherited directly from real Croatian, no reason to simplify it any more than the rest of this paradigm was.** This is the auxiliary [[../Grammar/Verbal Categories|Verbal Categories]]'s Conditional category (the real referent of the user's original "something irrealis" guess) has been waiting on since 2026-09-19:
+
+| | Singular | Plural |
+|---|---|---|
+| 1st | бих | бисмо |
+| 2nd | би | бисте |
+| 3rd | би | би |
+
+Combines with the main verb's l-participle exactly like the ordinary perfect does, but marks irrealis/conditional mood instead of indicative past: **радио бих** ("I would work"), **респонџао бих** ("I would answer"). Unlike је/су, this auxiliary is not derived from [[Biti (To Be)|биti]]'s own present-tense paradigm at all (it's a separate, older fossil), so it doesn't participate in the је-specific fusion/drop system above — that system is tied to the specific homophony and clitic status of је/су, not to "any biti-descended auxiliary" generically.
 
 ## Resolved: The Infinitive Recedes Gradually — see [[Infinitive Loss and Da-Complementation]]
 

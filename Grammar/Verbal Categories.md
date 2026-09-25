@@ -24,8 +24,8 @@ Your guessed list (present, past, two futures, pluperfect, "something irrealis")
 | **Past** | Perfect: [[Biti (To Be)]]'s short/clitic present + l-participle | Confirmed as the *main* past — see § Aorist/Imperfect below for what else is competing for this slot |
 | **Future I** | че-clitic + infinitive **or** че-clitic + да + present | Confirmed — and this is a direct consequence of [[Infinitive Loss and Da-Complementation]]: the future is exactly the kind of control context да was already established to invade, so Future I's construction should follow the same historical timeline (infinitive-based in Old/Middle Sisician, да-based by the modern period) |
 | **Future II (Futur Exact)** | [[Biti (To Be)]]'s **будем**-paradigm + l-participle | Confirmed — this is *why* будем was built in the first place; used in subordinate temporal/conditional clauses |
-| **Pluperfect** | biti's own past + l-participle of the main verb | Confirmed, as named |
-| **Conditional ("irrealis")** | бих-series (fossilized aorist, flagged as not-yet-built in [[Biti (To Be)]]) + l-participle | This is what "something irrealis" is reaching for — real BCS's actual irrealis category is the Conditional, not a separate mood family |
+| **Pluperfect** | biti's own past + l-participle of the main verb | Confirmed, as named — **and now actually buildable (2026-09-25)**: [[Biti (To Be)]]'s own l-participle (био/била/били/биле) was the missing piece; e.g. *био сам радио* "I had worked" |
+| **Conditional ("irrealis")** | бих-series (fossilized aorist, **built 2026-09-25 in [[Biti (To Be)]]**) + l-participle | This is what "something irrealis" is reaching for — real BCS's actual irrealis category is the Conditional, not a separate mood family; e.g. *радио бих* "I would work" |
 
 **Consequence: the l-participle is now a real priority, not a side note.** Four of these six categories (Perfect, Pluperfect, Future II, Conditional) all need it. [[Biti (To Be)]] already flagged the l-participle as unbuilt and specifically noted it's where the neuter merger (masculine singular / feminine plural) has to apply directly — this is no longer a someday task, it's blocking most of the tense system.
 
@@ -57,7 +57,7 @@ Real Common Slavic (and real BCS, which uniquely retains vestiges among modern S
 ## Not Yet Done
 
 - Actual endings for any of the above (explicitly deferred, per this session's own framing — categories first).
-- ~~The l-participle itself~~ — **built generically, see [[Past Tense Fusion and Evidentiality]]**, which also added a genuinely novel Sisician-specific innovation on top of it (gender-agreement fusion onto the past-tense verb complex, and aux-drop grammaticalizing as hearsay evidentiality). бити's own specific l-participle (needed for the pluperfect) is still separately unbuilt.
-- The бих-series conditional auxiliary (flagged in [[Biti (To Be)]], still not built).
+- ~~The l-participle itself~~ — **built generically, see [[Past Tense Fusion and Evidentiality]]**, which also added a genuinely novel Sisician-specific innovation on top of it (gender-agreement fusion onto the past-tense verb complex, and aux-drop grammaticalizing as hearsay evidentiality). ~~бити's own specific l-participle~~ — **built 2026-09-25, see [[Biti (To Be)]]** (био/била/били/биле).
+- ~~The бих-series conditional auxiliary~~ — **built 2026-09-25, see [[Biti (To Be)]]** (бих/би/би/бисмо/бисте/би).
 - Actual aorist/imperfect endings, and the register-split's practical trigger conditions (see above — decided in principle, not in form).
 - The да-construction's internal syntax (flagged in [[Infinitive Loss and Da-Complementation]], still open).
