@@ -33,7 +33,9 @@ A real, external resource — not this vault's own invention — used across the
 *Commentary (2026-09-25):* [[../Grammar/Hteti (To Want) and the Future|Future I]] — че (from Common Slavic \*xъtěti "to want," the short/clitic present of [[../Words/хтети|хтети]]) plus a verbal complement whose shape tracks [[../Grammar/Infinitive Loss and Da-Complementation|Infinitive Loss and Da-Complementation]]'s own timeline: the infinitive [[../Words/сијати|сијати]] in the older stages, да + ordinary present (**сија**, unchanged from item 1) by the modern period. Not two competing translations — one older, one newer, the same way real BCS itself still shows both patterns coexisting rather than one having fully displaced the other. Negated ("the sun will not shine"): **сунце нече да сија**, не́че being the fused negative present, the same small "glued negation" class [[../Words/бити|бити]]'s нисам already belongs to.
 
 ## 5. The sun has been shining.
-*(untranslated)*
+**Сунце веч сија.**
+
+*Commentary (2026-09-25):* Slavic has no direct equivalent to the English present perfect continuous — confirmed via search this session, not assumed. Real Croatian/Serbian doesn't grammaticalize "has been -ing" at all; it just reaches for the ordinary present tense plus **већ** ("already"), since the action is ongoing (hence present), not completed (hence not any kind of perfect). [[../Words/веч|веч]], coined for exactly this gap, continues that same real strategy: **сунце сија** ("the sun shines," items 1–2) plus **веч** reframes the same present-tense statement as something that had *already* started — the adverb carries the entire semantic weight English puts on the verb's own morphology. Real, not invented: the underlying gap (no BCS present-perfect-continuous) and the fix (already + present) are both attested; only the specific Sisician form of "already" (веч, via the ć→č merger) is this vault's own regular derivation from real Common Slavic \*vęťь.
 
 ## 6. The sun is shining again.
 *(untranslated)*
