@@ -43,13 +43,13 @@ The polity and language currently use working English/historical names only:
 
 **Decided 2026-09-25**: the founder's personal name — see § The Founder above, **Vitalis Madius de Corinio** / **Vitale Madi de Karin**. Unlike the names below, this one didn't need to wait on the sound-change chain: it's a real Dalmatian/Latin/Romance name (Vitalis, Madius) plus a real place-name (Corinio/Karin), not something derived *from* Sisician's own historical phonology the way the endonym or dynasty name will be.
 
-**Still undecided**, and deliberately left open until the historical phonology exists:
+**Decided 2026-09-25: the native endonym — сисачки (sisački).** The first name actually *derived from* the sound-change chain rather than cited from real history, now that [[../Etymology/Sisician Sound Changes|Etymology/Sisician Sound Changes]] exists to derive it from. Full derivation on [[../Words/сисачки|Words/сисачки]]: the real, traceable toponymic chain Segestica→Siscia→Siscium (the historically correct c. 1000 citation form)→**Сисак** (the town's own vernacular Slavic name, landing on the same shape as real modern Croatian *Sisak* since nothing about this word triggers Sisician's own divergence points), plus the real, productive Common Slavic language-adjective suffix *\*-ьskъ* (the same suffix behind Polish *polski*, Russian *русский*, Serbian *српски*) — giving **сисачки** via already-established first palatalization (к→ч) and the same long-form adjective *-и* ending [[../Words/нув|нув]] already uses. Confirmed via search against the real attested adjective *sisački* (*Sisačko-moslavačka županija*, the real Croatian county name). Used substantivized, the way real Slavic language names always are (compare real *hrvatski*, elliptical for *hrvatski jezik*) — and deliberately in the native Slavic layer, not the Dalmatian one, matching the real cross-linguistic tendency for self-designations to stay native even in heavily contact-influenced languages.
 
-- the native endonym
-- name of the people
+**Still undecided**, and deliberately left open until they too get an actual derivation pass:
+
+- name of the people (a natural, nearly-free next step from сисачки — real Slavic inhabitant-noun suffixes like *-čani* would give something like **Сисачани**, paralleling real *Zagrepčani*/*Splićani*, but not committed here since it wasn't asked for)
 - name of the polity
 - name of the dynasty
 - the title of the lord
-- name of the modern language (as spoken by its own speakers, i.e. the endonym above)
 
-**Guiding principle: do not invent the endonym until the sound changes are known.** These names should be generated from the historical phonology (Phase 2–3 of [[Conlang Workflow]]), not invented arbitrarily ahead of it.
+**Guiding principle, now demonstrated rather than just stated: don't invent a name — derive it.** сисачки is the proof of concept: every step of its derivation reused an already-decided, already-cited mechanism (Fall of the Jers, first palatalization, the long-form adjective ending), nothing invented to make the word "feel right." The remaining names (people, polity, dynasty, title) should get the same treatment once picked up.
