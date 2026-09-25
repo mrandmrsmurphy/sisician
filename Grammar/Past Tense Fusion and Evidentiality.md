@@ -79,6 +79,29 @@ All three trace back to the identical real Croatian source construction — the 
 
 **No notational departure needed, unlike an earlier draft of this page claimed** — once mid-word capitalization is dropped entirely (§ Outcome 1, above), радити's and респонџати's fused forms spell on exactly the same principle: plain lowercase, metathesize /j/+/r/ to /r/+/j/ exactly where it occurs, mark stress with the grave accent wherever the root's own stress already falls. The two words only *look* different because *radi-*'s stress happens to land right where the metathesis happens (рја̀дио, one syllable) while респонџати's stress sits two syllables further in (рјеспо̀нџао) — a fact about where each root's stress falls, not a fact requiring a special spelling convention.
 
+## Third Worked Example: [[../Words/сијати|сијати]] — a Second Correction and a Genuinely New Repair (2026-09-25)
+
+**L-participle** (a-type, identical mechanism to гледати/[[../Words/респонџати|респонџати]]):
+
+| | Masculine (sg.) | Feminine (sg.) | Masculine (pl.) | Feminine (pl.) |
+|---|---|---|---|---|
+| l-participle | сијао | сијала | сијали | сијале |
+
+**The three-way contrast:**
+
+| Form | Masculine | Feminine |
+|---|---|---|
+| Conservative, singular | је сијао | је сијала |
+| Conservative, plural | су сијали | су сијале |
+| Fused (witnessed), singular | сјѝјао | сјѝјала |
+| Fused (witnessed), plural | сисѝјали | сисѝјале |
+| Dropped (hearsay), singular | сијао | сијала |
+| Dropped (hearsay), plural | сијали | сијале |
+
+**The singular corrects the same mistake [[Biti (To Be)]]'s је+био just got caught making.** сијао begins with /s/, an obstruent — working it out here is what surfaced that је+/obstruent/ is the same shape of Sonority Sequencing violation as је+/r/, not an exception to it. је+**сијао** prefixes /j/ onto /s/, giving a violating /j/+/s/ that metathesizes to /s/+/j/: **сјѝјао**, not †јсијао — and that same correction was applied retroactively to биti's own је+био (→ **бјио**, not the previously-claimed јбио; see [[Biti (To Be)]]).
+
+**The plural hits a genuinely different problem, not covered by metathesis at all.** су+**сијали** drops су's vowel and prefixes bare /s/ onto a root that *also* starts with /s/ — a true geminate, /s/+/s/, with no sonority profile to reorder (metathesizing two identical segments is a no-op). Left alone, this would either surface as an awkward word-initial /ss/ or, if simplified to a single /s/, collapse onto **сијали** — the *dropped/hearsay* plural — silently erasing the evidential contrast for this one verb. Per the user's own proposed fix: **break the geminate with an epenthetic vowel copied from the root's own stressed vowel** (/i/, from сија-) rather than tolerate the geminate or degeminate into ambiguity — giving **сисѝјали**, stress on the second, etymologically real /i/; the epenthetic copy stays unstressed. See [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § "Geminate-Breaking Copy-Vowel Epenthesis" for this as a named, general mechanism — Sisician's second distinct aux-fusion repair, complementary to metathesis: metathesis fixes a sonority *violation* (heterorganic /j/+C), epenthesis fixes a sonority-neutral *collision* (homorganic C+C) that metathesis can't touch.
+
 ## Evidentiary Honesty: What's Cited vs. What's Extended
 
 **The general mechanism is real and well-documented**: clitic-to-bound-morphology fusion is cross-linguistically common (Romance future formation from Latin *habere* is the textbook case), and Balkan Slavic specifically already shows this tendency repeatedly — [[Infinitive Loss and Da-Complementation]]'s да, the че-future, and the бих-conditional are all former independent words now bound or semi-bound. Real Bulgarian/Macedonian aux-drop-for-evidentiality is also real and directly cited (this was already the basis of the evidentiality proposal). **What's a Sisician-specific extension, not a direct citation**: the exact resulting fused form (*рјадио*-type univerbation, § Outcome 1's metathesis included) isn't attested in real Bulgarian or Macedonian dialectology as far as this page claims — it's a novel application of a real general tendency, which is precisely what was asked for ("room for novel stuff that might arise naturally").
