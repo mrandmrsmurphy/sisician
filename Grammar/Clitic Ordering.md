@@ -9,7 +9,7 @@ Real Serbo-Croatian doesn't let clitics scatter freely — they cluster in a str
 **li — AUX (except је) — DAT — ACC/GEN — SE — је (AUX)**
 
 1. **ли** — the yes/no question particle, if present, always comes first in the cluster.
-2. **Auxiliary clitics** from "to be" (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms. (The full "biti" auxiliary paradigm hasn't been built yet — [[Verbal Agreement]] settled that agreement exists and licenses pro-drop, not the specific conjugation. Flagging this as a real dependency: this template already presupposes a "biti"-type auxiliary clitic set we haven't built.)
+2. **Auxiliary clitics** from "to be" (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms. (The full "biti" auxiliary paradigm hasn't been built yet — [[Verbal Agreement]] settled that agreement exists and licenses pro-drop, not the specific conjugation. Flagging this as a real dependency: this template already presupposes a "biti"-type auxiliary clitic set we haven't built.) **This slot isn't биti-exclusive**: [[Hteti (To Want) and the Future|Hteti]]'s own future-auxiliary clitic (чу/чеш/че/чемо/чете/че, built 2026-09-25) occupies the identical position — real Browne's ordering already treats "AUX" as a general class of weak verbal clitics, not one verb's alone, confirmed here rather than freshly decided.
 3. **Dative pronominal clitic** — ми, ти, му, јој, нам, вам, им.
 4. **Accusative/genitive pronominal clitic** — ме, те, га, је (3sg fem.), нас, вас, их.
 5. **Reflexive clitic** — се.

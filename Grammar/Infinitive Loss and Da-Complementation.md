@@ -27,6 +27,10 @@ Reconstructed to a PIE demonstrative root ***do-***, originally a temporal-seque
 
 **Resolves that page's open question.** Sisician's infinitive is not a stable, permanently-living category the way Croatian's is — it's a receding category across the language's documented history: real in Old and Middle Sisician, vestigial by Early Modern Sisician, gone by the modern period. [[Biti (To Be)]]'s бити (and any future infinitive citation form) should be understood as **historically real but synchronically dead** in Modern Sisician — a fossil, the same status [[Nominal Morphology]] already gave the vocative case. Worth deciding, once [[../Words|Words/]] entries carry period-specific citation forms, whether a Modern-Sisician-period word should list an infinitive at all, or only a да-construction.
 
+## Consequence for Hteti and the Future
+
+**Future I is a direct, concrete instance of this page's own timeline, not just an abstract consequence.** [[Hteti (To Want) and the Future]] (built 2026-09-25) gives Future I an actual paradigm (че/чеш/че/чемо/чете/че) and shows both stages of the recession side by side rather than just the endpoints: **сунце че сијати** (Old/Middle, infinitive-based) and **сунце че да сија** (Modern, да-based). Real BCS itself still keeps both patterns alive today rather than having fully completed the shift — direct, living evidence that this kind of centuries-long coexistence isn't a Sisician-specific invention.
+
 ## Open Items
 
 - The да-construction's own internal syntax (да + finite present, presumably agreeing per [[Verbal Agreement]] — not yet built in detail).
