@@ -12,6 +12,8 @@ Real Croatian forms its past tense (the Perfect) with [[Biti (To Be)]]'s short/c
 |---|---|---|---|---|
 | l-participle | радио | радила | радили | радиле |
 
+**Why радио, not †радил, stated explicitly for the first time (2026-09-25):** see [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 10, L-Vocalization — real, documented South Slavic coda /l/→/o/, later than [[../Etymology/Fall of the Jers|Fall of the Jers]] itself, applying only to the masculine singular because that's the one cell where the historical *-lъ* suffix ends up truly word-final; the other three keep -l- intact because it's followed by a vowel. This has been used correctly by eye in every form on this page since it was first written — now it has an actual citation behind it.
+
 ## The Innovation: Clitic Fusion Splits Into Two Divergent Outcomes
 
 **је is phonologically weak** — unstressed, proclitic, carrying no information beyond 3rd person singular (which is also its most semantically "empty" auxiliary slot: no distinctive person content beyond "not 1st, not 2nd," and no gender content of its own — gender lives entirely on the participle). A clitic that weak, under centuries of contact-era phonetic erosion, doesn't have to survive unchanged. Two different things can happen to it, and Sisician does both, in different functional niches:
@@ -21,6 +23,8 @@ Real Croatian forms its past tense (the Perfect) with [[Biti (To Be)]]'s short/c
 The auxiliary univerbates with the participle rather than staying a separate word: **је радио → ЈРА̀дио** (masc. sg.), **је радила → ЈРА̀дила** (fem. sg.), and — extending the same logic to 3rd plural **су** — **су радили → СРА̀дили** (masc. pl.), **су радиле → СРА̀диле** (fem. pl., also covering old-neuter-plural per the merger). The old auxiliary reduces to a bound (or semi-bound) element fronting a single verb form. This becomes the **new default, unmarked past tense** — the ordinary way of reporting something witnessed/known directly.
 
 **Stress stays on the participle's own root, not the fused element** — a fused clitic doesn't retroactively gain stress just by univerbating; it stays prosodically weak, the way clitics do. So the root-anchored stress principle still lands on **-ра-** (the lexical root of *raditi*), not on the fused ј-/с- prefix: ЈРА̀дио, not †ЈРАдио with stress elsewhere.
+
+**Decided (2026-09-25): /j/+/r/ (and /s/+/r/) genuinely cluster — no epenthetic vowel, no different consonant outcome.** This resolves the phonotactic question this page originally left open (§ Open Items, below) as a real onset cluster, not a smoothed-over one: ЈРА̀дио is phonologically /jr/-initial, full stop. This is well within Sisician's own established cluster typology — [[../Phonology/Phonotactics|Phonotactics]] already treats obstruent/glide+liquid onsets as the ordinary South Slavic norm, and /j/ patterns as an ordinary consonant for exactly this purpose (per [[../Phonology/Modern Inventory|Modern Inventory]]'s own "no separate diphthong inventory" finding) — a glide+liquid onset is no more marked than the already-attested obstruent+liquid clusters already cataloged there. Confirmed by a second real test case the same day: [[../Words/респонџати|респонџати]]'s own fused witnessed forms (Јреспо̀нџао, Среспо̀нџали, etc. — see below) show the identical clustering, since that root also begins with /r/.
 
 | | Masculine | Feminine |
 |---|---|---|
@@ -46,6 +50,29 @@ In a separate set of contexts, the auxiliary doesn't fuse — it **vanishes enti
 
 All three trace back to the identical real Croatian source construction — the divergence is purely in what happened to one weak clitic, in three different directions, which is exactly the kind of single-cause-many-outcomes story the project has valued throughout (compare [[Nominal Morphology]]'s locative loss redistributing into three different case slots from one cause).
 
+## Second Worked Example: [[../Words/респонџати|респонџати]] — the First Dalmatian-Loanword Verb Through This System (2026-09-25)
+
+**радити was the only verb this whole system had ever been checked against.** [[../Words/респонџати|респонџати]] ("to answer/respond," a-type conjugation, root stress on *-спон-* rather than the first syllable) gives a second, structurally different test case — its root doesn't begin with its own stressed syllable the way *radi-* does, and it happens to begin with /r/, making it the second real instance of the now-confirmed /j/+/r/ and /s/+/r/ clustering (§ Outcome 1, above).
+
+**L-participle** (per [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 10's now-explicit L-vocalization rule, applied productively rather than re-derived): stem+thematic vowel **респонџа-** + the participle suffix, masculine singular vocalizing to *-o*:
+
+| | Masculine (sg.) | Feminine (sg.) | Masculine (pl.) | Feminine (pl.) |
+|---|---|---|---|---|
+| l-participle | респонџао | респонџала | респонџали | респонџале |
+
+**The three-way contrast**, built the identical way as радити's own:
+
+| Form | Masculine | Feminine |
+|---|---|---|
+| Conservative, singular | је респонџао | је респонџала |
+| Conservative, plural | су респонџали | су респонџале |
+| Fused (witnessed), singular | Јреспо̀нџао | Јреспо̀нџала |
+| Fused (witnessed), plural | Среспо̀нџали | Среспо̀нџале |
+| Dropped (hearsay), singular | респонџао | респонџала |
+| Dropped (hearsay), plural | респонџали | респонџале |
+
+**One notational departure from ЈРА̀дио, explained rather than silently done differently**: that spelling capitalizes the fused clitic *and* the stressed syllable together (ЈРА-), which works cleanly only because *radi-*'s stress happens to fall on its own first syllable. респонџати's stress falls on *-спон-*, two syllables in — capitalizing "ЈРЕСПОН-" to match would visually overstate the fused portion, so only the bound clitic itself is capitalized (**Ј**респо̀нџао, **С**респо̀нџали), with the grave accent alone carrying the actual stress information. Same phonological fact (root-anchored stress, clitic stays weak), different-looking spelling because the root shape differs — not a new rule.
+
 ## Evidentiary Honesty: What's Cited vs. What's Extended
 
 **The general mechanism is real and well-documented**: clitic-to-bound-morphology fusion is cross-linguistically common (Romance future formation from Latin *habere* is the textbook case), and Balkan Slavic specifically already shows this tendency repeatedly — [[Infinitive Loss and Da-Complementation]]'s да, the че-future, and the бих-conditional are all former independent words now bound or semi-bound. Real Bulgarian/Macedonian aux-drop-for-evidentiality is also real and directly cited (this was already the basis of the evidentiality proposal). **What's a Sisician-specific extension, not a direct citation**: the exact resulting fused form (*јрадио*-type univerbation) isn't attested in real Bulgarian or Macedonian dialectology as far as this page claims — it's a novel application of a real general tendency, which is precisely what was asked for ("room for novel stuff that might arise naturally").
@@ -65,5 +92,5 @@ All three trace back to the identical real Croatian source construction — the 
 
 ## Open Items
 
-- Exact phonotactics of the fusion (does /j/+/r/ or /s/+/r/ genuinely cluster in ЈРА̀дио/СРА̀дили, or does something else resolve the boundary — vowel epenthesis, a different consonant outcome) — not yet worked out.
+- ~~Exact phonotactics of the fusion (does /j/+/r/ or /s/+/r/ genuinely cluster...)~~ — **resolved 2026-09-25, see § Outcome 1 above**: yes, a genuine cluster, no epenthesis.
 - Whether the fused/dropped distinction interacts with [[Clitic Ordering]]'s template for *other* clitics stacking in the same clause (e.g. does a dropped-aux hearsay sentence still take a dative/accusative clitic in the normal second-position slot, or does losing the auxiliary change the whole cluster's behavior?).

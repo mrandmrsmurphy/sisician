@@ -48,6 +48,8 @@ All three follow root-anchored stress ([[../Phonology/Modern Inventory|Modern In
 
 Note pro-drop ([[Verbal Agreement]]) means the subject pronouns (јаз, ти, он/она, ми, ви, они/оне) shown here are optional in all of the above — included for clarity, not because they're required.
 
+**Second full past-tense worked example (2026-09-25):** [[../Words/респонџати|респонџати]] ("to answer," a-type, Dalmatian-derived) — see [[Past Tense Fusion and Evidentiality]] § "Second Worked Example" for its own full l-participle and three-way evidential table. Also the occasion for stating [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 10's L-vocalization rule explicitly (why радио, not †радил) and for confirming that page's own previously-open /j/+/r/ clustering question.
+
 ## Explicitly Not Yet Built
 
 This is a sketch, per your own framing — the following are real, needed pieces that this page doesn't attempt:
