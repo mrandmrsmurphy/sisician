@@ -54,10 +54,30 @@ Real Common Slavic (and real BCS, which uniquely retains vestiges among modern S
 
 **Confirmed, and there's a specific, well-attested mechanism, not just "something else."** [[Infinitive Loss and Da-Complementation]] only covers the infinitive's *verbal complement* function (control contexts — "I want to do X"), which да takes over. The infinitive's separate *nominal* function (using a verb like a noun — "reading is fun," "the act of doing X") is a different job, and real Slavic languages that lost the infinitive (Bulgarian, Macedonian) don't reinvent anything for it — they use the ordinary, already-extremely-productive **Common Slavic deverbal noun suffix** (*-nje/-će*-type, e.g. real Croatian *čitanje* "reading" from *čitati* "to read"). Sisician should do the same: **да replaces the infinitive's verbal-complement role; the native *-nje/-če* deverbal noun replaces its nominal role** (-če, not real Croatian's -će: [[../Sources/Late Common Slavic|Late Common Slavic]]'s ć→č merger applies here too, since this suffix's -će allomorph is itself a *tj-derived affricate, the same historical category as свеча/noč). No new invention needed on this point either.
 
+### Concrete Formation and Worked Examples (built 2026-09-25)
+
+**This was decided in principle above (2026-09-19) but never actually worked out for a real Sisician verb — the allomorphy between the general -ње and the special -че needed a real mechanism, not just a rule of thumb.** Real Slavic \*-ьje attaches to a verb's own participial stem, and that stem's own shape — whether it ends in a bare consonant or has a consonant fused directly to the infinitive-forming *-t-* — is exactly what decides which allomorph shows up. This turns out to reuse the identical jotation environment already established everywhere else in this vault for *tj/dj/sj/zj/kj/gj* clusters (свеча, ноч, and every Dalmatian Cj-cluster on [[../Sources/Dalmatian|Sources/Dalmatian]]) — no new sound rule, just its first application to native verbal morphology rather than borrowed nominal material:
+
+| Class | Stem shape | Mechanism | Example | Result |
+|---|---|---|---|---|
+| A-type | vowel-final (гледа-, респонџа-) | suffix attaches directly, nothing to jotate | гледати, [[../Words/респонџати\|респонџати]] | **гледање** "watching," **респонџање** "answering" |
+| I-type | consonant-final root, old thematic *-i-* jotates it before the suffix lands | д+ј→џ (Sisician's own ć/đ merger, first seen in *native* word-formation rather than borrowed material) | радити | **раџење** "working, doing" |
+| E-type | consonant-final root, thematic *-e-* is not yod-derived, no jotation | none | нести | **несење** "carrying" |
+| Root ends in a vowel immediately before infinitive *-ти* | no consonant at all for *-en-* to extend — \*-ьje attaches straight to root+*t* | т+ј→ч (the -če allomorph named above) | [[Biti (To Be)\|биti]] | **биче** "being, existence, entity" |
+
+**биче is the concrete -če example this page has been missing since 2026-09-19** — and it's a strong one: real Croatian's own **biće** ("being, existence, creature") is exactly this same *bytьje* formation (t+j→ć, Croatian's un-merged outcome), and real Croatian **piće** ("drink, beverage," from *piti* "to drink," the exact same vowel-root-before-*ti* shape as biti) independently confirms this isn't a one-off coincidence but a real, productive pattern for this specific stem shape.
+
+**раџење is worth flagging as the first time the vault's own ć/đ-exclusion decision (fixed at the very start of this session) shows up outside the Cj-cluster/Dalmatian context it was originally stated for** — real Croatian's own *rađenje* (from *raditi*, the same d+j jotation) would ordinarily surface with ђ, and Sisician's already-decided merger routes it to џ instead, exactly the way it already routes ć→č everywhere else.
+
+**This also partially prefigures, without fully building, the still-open passive participle** ([[Imperative]]'s aspect section and the earlier discussion both flagged it as undiscussed): i-type verbs' own passive participle rides on the identical jotation environment (real Croatian *rađen*, the adjective, alongside *rađenje*, the noun — same stem, different final suffix, -н vs. -ње). Building the passive participle properly still needs its own agreement paradigm worked out, not attempted here.
+
 ## Not Yet Done
 
 - Actual endings for any of the above (explicitly deferred, per this session's own framing — categories first). ~~Imperative~~ — **built 2026-09-25, see [[Imperative]]**.
 - ~~The l-participle itself~~ — **built generically, see [[Past Tense Fusion and Evidentiality]]**, which also added a genuinely novel Sisician-specific innovation on top of it (gender-agreement fusion onto the past-tense verb complex, and aux-drop grammaticalizing as hearsay evidentiality). ~~бити's own specific l-participle~~ — **built 2026-09-25, see [[Biti (To Be)]]** (био/била/били/биле).
 - ~~The бих-series conditional auxiliary~~ — **built 2026-09-25, see [[Biti (To Be)]]** (бих/би/би/бисмо/бисте/би).
 - Actual aorist/imperfect endings, and the register-split's practical trigger conditions (see above — decided in principle, not in form).
+- ~~The verbal noun's own concrete formation~~ — **built 2026-09-25, see § Concrete Formation and Worked Examples above** (гледање/несење/раџење/респонџање/биче).
+- The passive participle (real Slavic -n/-t adjectival participle, distinct from the l-participle) — flagged as a real gap by the same discussion that prompted the verbal-noun work above, not yet built; its own agreement paradigm and the periphrastic passive voice it would enable (биti + passive participle) are both still open.
+- Present participles (real Slavic adverbial -ći and a rarer OCS-flavored adjectival type) — flagged in the same discussion, not yet considered in any form.
 - The да-construction's internal syntax (flagged in [[Infinitive Loss and Da-Complementation]], still open).
