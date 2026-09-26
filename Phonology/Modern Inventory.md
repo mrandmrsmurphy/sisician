@@ -20,17 +20,30 @@ Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has
 
 ## Consonants
 
-|           | Bilabial | Labiodental | Alveolar | Postalveolar | Palatal | Velar |
-| --------- | -------- | ----------- | -------- | ------------ | ------- | ----- |
-| Stop      | p b      |             | t d      |              |         | k ɡ   |
-| Affricate |          |             | ts dz    | tʃ dʒ        |         |       |
-| Fricative |          | f v         | s z      | ʃ ʒ          |         | x     |
-| Nasal     | m        |             | n        |              | ɲ       |       |
-| Liquid    |          |             | l r      |              | ʎ       |       |
-| Glide     |          |             |          |              | j       |       |
+|           | Bilabial | Alveolar | Postalveolar | Palatal | Velar |
+| --------- | -------- | -------- | ------------ | ------- | ----- |
+| Stop      | p b      | t d      |              |         | k ɡ   |
+| Affricate |          | ts dz    | tʃ dʒ        |         |       |
+| Fricative | ɸ β      | s z      | ʃ ʒ          |         | x     |
+| Nasal     | m        | n        |              | ɲ       |       |
+| Liquid    |          | l r      |              | ʎ       |       |
+| Glide     |          |          |              | j       |       |
 
+- **в/ф are bilabial [β]/[ɸ], not labiodental [v]/[f]** — revised 2026-09-26, see § в/ф: Bilabial, Not Labiodental below. The labiodental place of articulation is no longer used anywhere in the inventory; the column is dropped from the table rather than kept empty.
 - **[ŋ]** is an allophone of /n/ before velars (place assimilation), not a separate phoneme.
 - 24 consonants + 5 vowels = 29 phonemes total (not counting [ŋ]).
+
+## в/ф: Bilabial, Not Labiodental (Revised 2026-09-26)
+
+**Decided: /v/ and /f/ are phonemically bilabial fricatives, [β] and [ɸ], not labiodental [v]/[f] — written в/ф exactly as before, no spelling change.** This is a genuine revision, not a fresh coinage decision, and it connects directly to something already on the books rather than standing alone.
+
+**в's own etymology already gives a real reason to prefer bilabial over labiodental.** [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] already established that Common Slavic **\*v** was a labial glide/approximant (from PIE **\*w**), hardening to a "true fricative" by the modern stage — that hardening step was left phonetically unspecified before now, implicitly assumed labiodental only because that's the shape the Cyrillic letter в suggests to a modern reader. **Bilabial [β] is the smaller, more natural articulatory step from a bilabial glide**: /w/ and [β] share the same place of articulation (both lips), so hardening only has to add frication, not also shift place all the way to lip-against-teeth. This isn't a hypothetical: it's the exact real-world fork Vulgar Latin's own inherited /w/ took across the Romance family — **Spanish's outcome is bilabial β** (not labiodental v), while French/Italian's is labiodental v — two genuinely different, both-attested real outcomes from the identical starting point. Sisician's own /w/→в hardening is now specified as landing on the Spanish-type outcome.
+
+**This creates a real, deliberate partial neutralization with today's [[../AIOS/memory/project_distancing_from_slavic_neighbors|intervocalic-lenition]] decision, spotted directly by the user.** Between vowels, б lenites to [β] (per that rule) — and в, being bilabial [β] in *every* position, already sits there. So **intervocalically, б and в become phonetically identical**, while staying fully distinct everywhere else (word-initially/post-nasal, б is the stop [b], в is still the continuant [β] — different manner, same place). This is a real, well-documented *type* of phenomenon — positional neutralization, where two phonemes that contrast in most environments collapse to one surface form in a specific one (the closest textbook example: American English flapping, where /t/ and /d/ become the identical flap [ɾ] intervocalically — *latter*/*ladder* — while staying fully distinct word-initially). **Spanish's own b/v is an even closer real-world parallel, honestly flagged as broader than Sisician's own case**: Spanish b and v are the *same phoneme* everywhere (a full historical merger, not a positional coincidence), whereas Sisician's б and в stay two separate phonemes that merely happen to converge in one environment. Worth being precise about which of the two Sisician actually has.
+
+**ф's case is weaker, flagged honestly rather than smoothed over.** Unlike в, ф has no glide-hardening origin story to lean on — Cyrillic ф is historically the letter reserved for Greek loanwords (real Cyrillic history: ф/Ѳ exist specifically to render Greek φ/θ), and whether the Greek φ Sisician borrowed the sound from was itself bilabial [ɸ] or already labiodental [f] at the point of contact is a real point of uncertainty this page isn't resolving. Made bilabial anyway, for **symmetry with в** (the natural voiced/voiceless pair at the same place) rather than independent evidence of its own — the weaker half of today's decision, same honesty standard as [[../Words/ној|ној]]'s own flagged NOVEM-erosion.
+
+**Existing word pages updated to match** ([[../Words/ви|ви]], [[../Words/овај|овај]], and twenty-two others with в in their citation form, plus the one existing ф-word) — `ipa:` frontmatter changed from v→β and f→ɸ directly, per the same "update the IPA anyway" preference the user set on the intervocalic-lenition pass.
 
 ## Prosody
 
