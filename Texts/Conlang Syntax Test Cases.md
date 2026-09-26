@@ -2,11 +2,11 @@
 
 A real, external resource — not this vault's own invention — used across the conlanging community to stress-test a language's grammar against a wide spread of real syntactic constructions (tense/aspect, imperatives, questions, relative clauses, comparison, reflexives, possession, coordination, and more). Culled from a larger 1200-sentence collection specifically to remove near-duplicates, so each sentence here is meant to exercise something the ones before it didn't. See [[../Sisician|Sisician]] for the hub page.
 
-**Source:** [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html) (fetched 2026-09-23).
+**Source:** [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html).
 
 ## Status: A Scaffold, Not a Todo List to Clear in One Sitting
 
-**Originally, every sentence below needed at least one main verb, and Sisician had zero verb `Words/` pages — nothing was translatable, not even the shortest imperatives.** That's no longer true: [[../Words/бити|бити]], [[../Words/респонџати|респонџати]], and [[../Words/сијати|сијати]] now exist, and item 1 ("The sun shines") is translated below, the first of the 218. Still true: most of this list needs vocabulary (nouns, adjectives, more verbs) that doesn't exist yet, so most items remain untranslated — that's expected, not a regression.
+Every sentence below needs at least one main verb; [[../Words/бити|бити]], [[../Words/респонџати|респонџати]], and [[../Words/сијати|сијати]] are the verbs currently built. Most of this list needs vocabulary (nouns, adjectives, more verbs) that doesn't exist yet, so most items remain untranslated — that's expected, not a regression.
 
 **The same standing rule as [[../Etymology/Swadesh List|Etymology/Swadesh List]] applies here**: this page exists to be checked before coining a word or filling in a sentence, and to be revisited gradually — one sentence at a time, with its own real citation and derivation, the same way every [[../Words|Words/]] page has been built so far — never mass-completed in one sitting. Fill in a **Translation** and **Commentary** under a sentence only when it's actually been worked out with the same rigor as everything else in this vault, not as a placeholder guess.
 

@@ -1,6 +1,6 @@
 # Demonstrative Adverbs
 
-Decided 2026-09-25. See [[Interrogatives]] for the sibling paradigm this directly mirrors (кде/камо/абкле), [[Demonstrative Pronouns]] for the pronoun-side roots this reuses (ов-/т-), and [[../Sisician|Sisician]] for the hub page.
+See [[Interrogatives]] for the sibling paradigm this directly mirrors (кде/камо/абкле), [[Demonstrative Pronouns]] for the pronoun-side roots this reuses (ов-/т-), and [[../Sisician|Sisician]] for the hub page.
 
 ## The Grid
 
@@ -33,4 +33,4 @@ The source row forces the same historical choice [[Interrogatives]] § Where, Wh
 
 ---
 
-**Note on status:** exploratory, same footing as [[Interrogatives]] and [[Demonstrative Pronouns]]. The grid itself is a direct citation (Wiktionary's own systematized navbox, fetched via raw wikitext 2026-09-25); the specific choices within it (тамо's double duty, одтамо's root substitution, the native-vs-Latin fork) are this vault's own reasoned decisions, cited individually on each word's own page.
+**Note on status:** exploratory, same footing as [[Interrogatives]] and [[Demonstrative Pronouns]]. The grid itself is a direct citation (Wiktionary's own systematized navbox, fetched via raw wikitext); the specific choices within it (тамо's double duty, одтамо's root substitution, the native-vs-Latin fork) are this vault's own reasoned decisions, cited individually on each word's own page.

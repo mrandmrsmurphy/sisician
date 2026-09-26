@@ -16,7 +16,7 @@ The same historical palatalization/iotation processes described in [[Old Church 
 
 **Local difference from OCS — needs refinement, see below:** Proto-Slavic *tj and *dj reflect in most of South Slavic (Shtokavian, Chakavian) as **ć** and **đ**, contrasting with OCS's št/žd. That clean contrast is complicated by the dialect decision below.
 
-## Dialect Zone: Decided — Kajkavian-Leaning (2026-09-18)
+## Dialect Zone: Kajkavian-Leaning
 
 By ~1000 AD the South Slavic dialect continuum is already differentiating into the ancestors of modern Kajkavian, Chakavian, and Shtokavian. The user chose **Kajkavian-leaning** — the subtler option, matching Siscia/Sisak's actual real-world dialect geography (the Sisak/Zagreb area is historically Kajkavian-speaking): the language inherits the literal dialect of the site itself, echoing the same "inherits and revives, doesn't invent" logic already established for the fortress and its Roman groundwork ([[../Culture/Geography and Economy|Culture/Geography and Economy]] § Why Siscia).
 
@@ -29,15 +29,15 @@ Real Kajkavian characteristics to build from:
 - **Closer affinity to Slovenian** than to Shtokavian/Chakavian generally; some classifications treat Kajkavian as transitional between Slovene and the rest of South Slavic.
 - **Real historical Hungarian/German contact** is disproportionately heavy in the Kajkavian-speaking area (a fact of real Zagreb/northern-Croatian history) — a pleasant thematic echo of Sisician's own alternate-history Hungarian political layer ([[../Culture/History|Culture/History]] § 1102), even though that specific contact intensifies later and shouldn't be back-dated to this c. 1000 stage.
 
-## Decided: The Vernacular Merges ć→č and đ→j (2026-09-18)
+## The Vernacular Merges ć→č and đ→j
 
-**Confirmed, not a design choice — this is what real Kajkavian does, unambiguously, including specifically in the Sisak/Sava-corridor area.** Kajkavian merges the standard-Croatian /č/:/ć/ opposition entirely into a single **č** (e.g. *svěča* "candle," *noč* "night" — no separate ć), and merges /dž/:/đ/ mostly into **j** (occasionally dž) — e.g. *meja* "border," from *medja. This is one of the dialect group's defining features (per real dialectological sources: Kajkavian has "only one sign" where standard Croatian distinguishes č/ć, and speakers historically resisted orthographic reforms trying to impose the standard distinction). The earlier recommendation on this page (retaining ć/đ via leveling pressure from the founding retinue) is **withdrawn** — it was an unnecessary invented justification for something that should just follow the real dialect.
+**Not a design choice — this is what real Kajkavian does, unambiguously, including specifically in the Sisak/Sava-corridor area.** Kajkavian merges the standard-Croatian /č/:/ć/ opposition entirely into a single **č** (e.g. *svěča* "candle," *noč* "night" — no separate ć), and merges /dž/:/đ/ mostly into **j** (occasionally dž) — e.g. *meja* "border," from *medja. This is one of the dialect group's defining features (per real dialectological sources: Kajkavian has "only one sign" where standard Croatian distinguishes č/ć, and speakers historically resisted orthographic reforms trying to impose the standard distinction).
 
 **Consequence — the vernacular has no /ć/ or /đ/ phonemes at all.** They survive only as a **written/learned overlay**, and in fact as *two* distinct overlay registers, not one — see [[Old Church Slavonic]] § Consonants for the resulting three-tier system this creates (colloquial Kajkavian-merged / Sisician's own conservative literary spelling / true imported OCS).
 
 ## Consolidated Phonology: The Siscia Vernacular, c. 1000 AD
 
-**Decided (2026-09-20): calibrated at roughly 85% toward standard Croatian/Serbian/Bosnian (Neo-Shtokavian-descended), with a deliberate, occasional lean toward Slovenian for variety** — the dialect-zone decisions above (Kajkavian-leaning, kaj, ć/đ→č/j merger, v-retention) **are the 85% baseline, not a deviation from it.** Kajkavian genuinely is a real BCS-family dialect (the "C" in BCS covers exactly this kind of regional variation), and its documented closer affinity to Slovenian is precisely the texture this calibration wants — nothing above gets walked back. The two intended "variety" touches sit elsewhere, without disturbing anything already decided:
+**Calibrated at roughly 85% toward standard Croatian/Serbian/Bosnian (Neo-Shtokavian-descended), with a deliberate, occasional lean toward Slovenian for variety** — the dialect-zone decisions above (Kajkavian-leaning, kaj, ć/đ→č/j merger, v-retention) **are the 85% baseline, not a deviation from it.** Kajkavian genuinely is a real BCS-family dialect (the "C" in BCS covers exactly this kind of regional variation), and its documented closer affinity to Slovenian is precisely the texture this calibration wants. The two intended "variety" touches sit elsewhere:
 
 - **The Ekavian yat reflex (ě→e)** doesn't need a separate justification — it's simultaneously the real Serbian standard outcome *and* the Slovenian one, a free twofer already built into the dialect-zone decision above.
 - **[[../Words/јаз|Words/јаз]]'s own already-cited etymology** (choosing the Slovene-affinity form *jaz* over Croatian-standard *ja*) is the clearest existing example of this exact principle already live in the lexicon — not something needing revision, but the model for how future "occasional lean" moments should look: small, individually motivated, cited exceptions, not a systemic shift.

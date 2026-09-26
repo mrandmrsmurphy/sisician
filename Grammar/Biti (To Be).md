@@ -1,6 +1,6 @@
 # Biti (To Be)
 
-Decided 2026-09-19, copied directly from real Croatian's multi-paradigm system for "to be" — there's no reason to simplify this any more than the pronouns or declensions were. See [[Clitic Ordering]] (the auxiliary clitics this supplies), [[Personal Pronouns]], and [[../Sisician|Sisician]] for the hub page.
+Copied directly from real Croatian's multi-paradigm system for "to be" — there's no reason to simplify this any more than the pronouns or declensions were. See [[Clitic Ordering]] (the auxiliary clitics this supplies), [[Personal Pronouns]], and [[../Sisician|Sisician]] for the hub page.
 
 Real Croatian doesn't have one *biti* paradigm — it has (at least) four, each with a distinct job. All four are adopted here.
 
@@ -48,7 +48,7 @@ Used in subordinate temporal/conditional clauses ("when I will be...") and as a 
 | 2nd | БУ́деш | БУ́дете |
 | 3rd | БУ́де | БУ́ду |
 
-## L-Participle: био/била/били/биле (built 2026-09-25)
+## L-Participle: био/била/били/биле
 
 **No new mechanism — бити is an i-type infinitive shape (би-ти) exactly like радити, so it takes the l-participle suffix and [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 10's L-vocalization rule the identical way**: stem **би-** + suffix, masculine singular vocalizing coda /l/ → /o/:
 
@@ -60,11 +60,11 @@ Used in subordinate temporal/conditional clauses ("when I will be...") and as a 
 
 **биti's own perfect can, in principle, undergo the same [[Past Tense Fusion and Evidentiality|је-fusion/drop]] system any other verb's perfect can** when биti is used as an ordinary main verb (not the pluperfect auxiliary) — "[he] was" as witnessed/hearsay, not just conservative.
 
-**Corrected 2026-09-25: this word's fused form does need [[../Etymology/Sisician Sound Changes|onset-metathesis]] after all — an earlier version of this page claimed it didn't, and that was wrong.** The original reasoning ("obstruent(/b/)+glide(/j/)+vowel, already rises in sonority") described the segments in the wrong order: fusing је onto било prefixes је's own glide /j/ *in front of* било's initial /b/, giving /j/+/b/, not /b/+/j/. And /j/+/b/ is exactly the same shape of violation as радити's own /j/+/r/ (see [[Past Tense Fusion and Evidentiality]]) — glides outrank obstruents even more steeply than they outrank liquids, so /j/+/b/+vowel dips just as badly and needs the identical metathesis repair. The corrected fused forms are **бјио** (not јбио), **бјила** (not јбила). **сбили**/**сбиле** for the plural are unaffected by this correction — су's /s/+/b/ is an obstruent+obstruent "s+stop" cluster, an independently attested legal Sisician onset type ([[../Phonology/Phonotactics|Phonotactics]], cf. скинија/кто), not a sonority violation, so it never needed repair in the first place.
+**This word's fused form needs [[../Etymology/Sisician Sound Changes|onset-metathesis]]**: fusing је onto било prefixes је's own glide /j/ *in front of* било's initial /b/, giving /j/+/b/. And /j/+/b/ is exactly the same shape of violation as радити's own /j/+/r/ (see [[Past Tense Fusion and Evidentiality]]) — glides outrank obstruents even more steeply than they outrank liquids, so /j/+/b/+vowel dips just as badly and needs the identical metathesis repair. The fused forms are **бјио** (not јбио), **бјила** (not јбила). **сбили**/**сбиле** for the plural are unaffected — су's /s/+/b/ is an obstruent+obstruent "s+stop" cluster, an independently attested legal Sisician onset type ([[../Phonology/Phonotactics|Phonotactics]], cf. скинија/кто), not a sonority violation, so it never needed repair in the first place.
 
-## Conditional Auxiliary: бих (built 2026-09-25)
+## Conditional Auxiliary: бих
 
-**Historically a fossilized aorist, not a present tense of биti at all — inherited directly from real Croatian, no reason to simplify it any more than the rest of this paradigm was.** This is the auxiliary [[../Grammar/Verbal Categories|Verbal Categories]]'s Conditional category (the real referent of the user's original "something irrealis" guess) has been waiting on since 2026-09-19:
+**Historically a fossilized aorist, not a present tense of биti at all — inherited directly from real Croatian, no reason to simplify it any more than the rest of this paradigm was.** This is the auxiliary [[../Grammar/Verbal Categories|Verbal Categories]]'s Conditional category (the irrealis mood) needs:
 
 | | Singular | Plural |
 |---|---|---|
@@ -74,6 +74,6 @@ Used in subordinate temporal/conditional clauses ("when I will be...") and as a 
 
 Combines with the main verb's l-participle exactly like the ordinary perfect does, but marks irrealis/conditional mood instead of indicative past: **радио бих** ("I would work"), **респонџао бих** ("I would answer"). Unlike је/су, this auxiliary is not derived from [[Biti (To Be)|биti]]'s own present-tense paradigm at all (it's a separate, older fossil), so it doesn't participate in the је-specific fusion/drop system above — that system is tied to the specific homophony and clitic status of је/су, not to "any biti-descended auxiliary" generically.
 
-## Resolved: The Infinitive Recedes Gradually — see [[Infinitive Loss and Da-Complementation]]
+## The Infinitive Recedes Gradually — see [[Infinitive Loss and Da-Complementation]]
 
-The open question this section used to raise (does Sisician keep the infinitive, Croatian-style, or lose it, Bulgarian/Macedonian-style?) is answered: **neither, flatly — it's a centuries-long gradual recession**, real and productive in Old/Middle Sisician, vestigial by Early Modern Sisician, and gone by the modern period. See [[Infinitive Loss and Da-Complementation]] for the full timeline. бити above should be read as the historical citation form, not a claim that the infinitive is still alive in Modern Sisician.
+Sisician neither keeps the infinitive Croatian-style nor loses it outright Bulgarian/Macedonian-style: it's a centuries-long gradual recession, real and productive in Old/Middle Sisician, vestigial by Early Modern Sisician, and gone by the modern period. See [[Infinitive Loss and Da-Complementation]] for the full timeline. бити above should be read as the historical citation form, not a claim that the infinitive is still alive in Modern Sisician.

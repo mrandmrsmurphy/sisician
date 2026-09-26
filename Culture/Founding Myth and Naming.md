@@ -2,7 +2,7 @@
 
 See [[Sisician]] for the hub page and [[Culture/History]] § The Croatian Succession Crisis for the real founding event this page's legend departs from.
 
-## The Founder: Vitalis Madius de Corinio (decided 2026-09-25)
+## The Founder: Vitalis Madius de Corinio
 
 **Vitalis Madius de Corinio** — in the contemporary Dalmatian Romance vernacular, **Vitale Madi de Karin**. The founding elite originates in a **Dalmatian coastal city**, with **Zadar** preferred — Zadar keeps the founding family within the political world of medieval Croatia while giving it a clear Dalmatian identity. The project does not require reconstructing historical Zadar Dalmatian perfectly; instead, use historical Dalmatian evidence as the foundation and construct a plausible **Zadar-associated Dalmatian** variety.
 

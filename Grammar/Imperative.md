@@ -1,6 +1,6 @@
 # Imperative
 
-Built 2026-09-25, closing the one category [[Verbal Categories]] had flagged as "confirmed, no forms yet" since 2026-09-19. Copied directly from real Croatian's own three-way split (synthetic core, jussive periphrasis, suppletive negative) — the same "adopt the whole real system" approach already taken for [[Biti (To Be)|biti]] and [[Personal Pronouns]]. See [[Verb Paradigm (Sketch)]] for the conjugation-class stems this builds on, [[Negation]] for не/нон, and [[../Sisician|Sisician]] for the hub page.
+Closes the category [[Verbal Categories]] flags as "confirmed, no forms yet." Copied directly from real Croatian's own three-way split (synthetic core, jussive periphrasis, suppletive negative) — the same "adopt the whole real system" approach already taken for [[Biti (To Be)|biti]] and [[Personal Pronouns]]. See [[Verb Paradigm (Sketch)]] for the conjugation-class stems this builds on, [[Negation]] for не/нон, and [[../Sisician|Sisician]] for the hub page.
 
 ## Synthetic Core: 2nd Person (sg./pl.) and 1st Person Plural
 
@@ -80,4 +80,4 @@ Built 2026-09-25, closing the one category [[Verbal Categories]] had flagged as 
 
 ---
 
-**Note on status:** exploratory, but on solid ground. The synthetic-cell scope (2sg/1pl/2pl only, not a full six-person paradigm) and нека's etymology (\*nexati, a real pan-Slavic LET-verb) are both confirmed via search this session. немој's etymology (не + a fossilized imperative of moći) is likewise search-confirmed, though at lower resolution than a dictionary citation would give — flagged at the same honesty tier as [[../Words/нон|нон]]'s own Sardinian comparandum: plausible and consistent with what's independently known about Slavic \*mogti, not verified against a primary etymological dictionary (Skok) directly, since this session's network access couldn't reach one. The aspect section's mechanism is solid; its worked example is explicitly deferred pending an actual coined aspectual pair.
+**Note on status:** exploratory, but on solid ground. The synthetic-cell scope (2sg/1pl/2pl only, not a full six-person paradigm) and нека's etymology (\*nexati, a real pan-Slavic LET-verb) are both confirmed via search. немој's etymology (не + a fossilized imperative of moći) is likewise search-confirmed, though at lower resolution than a dictionary citation would give — flagged at the same honesty tier as [[../Words/нон|нон]]'s own Sardinian comparandum: plausible and consistent with what's independently known about Slavic \*mogti, not verified against a primary etymological dictionary (Skok) directly. The aspect section's mechanism is solid; its worked example is explicitly deferred pending an actual coined aspectual pair.

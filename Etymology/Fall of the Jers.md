@@ -1,6 +1,6 @@
 # Fall of the Jers
 
-**Status: always followed.** A standing, pan-Slavic sound change, declared here once (2026-09-19) rather than re-derived on every word page that relies on it — link here instead. See [[../Sisician|Sisician]] for the hub page.
+**Status: always followed.** A standing, pan-Slavic sound change, declared here once rather than re-derived on every word page that relies on it — link here instead. See [[../Sisician|Sisician]] for the hub page.
 
 ## The Jers
 

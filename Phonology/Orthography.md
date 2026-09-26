@@ -2,7 +2,7 @@
 
 Sisician's Cyrillic letter inventory. See [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] § Orthographic History for *why* the language ends up written in Cyrillic despite its Latin-literate founding elite (short version: Cyrillic wins out as the normal literary script from c. 1400 onward; Latin survives only in diplomatic/foreign-trade/family-document contexts). This page is the letter-by-letter mapping itself. See [[../Sisician|Sisician]] for the hub page.
 
-## Consonants (2026-09-19)
+## Consonants
 
 | | Labial | Alveolar | Palatal(ized) | Velar |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ Complete match against every consonant in [[Modern Inventory]] — nothing missi
 - **ӈ** (for the allophonic [ŋ]) — an extended Cyrillic letter from outside the South Slavic tradition (used in various Uralic/Siberian Cyrillic-based orthographies for /ŋ/). Shown in parentheses here because [ŋ] is only an allophone of /n/ before velars, not a separate phoneme — it may not need a dedicated letter at all in practice; flagged for a decision once actual spelling conventions get worked out.
 - **No letters for ć/đ** (Serbian's ћ/ђ) — correctly absent, not an oversight: the vernacular merged these into č/j (see [[../Sources/Late Common Slavic|Sources/Late Common Slavic]] § Decided), so the phonemes don't exist to need letters. (They may still surface in the separate liturgical/OCS-derived written register — see [[../Sources/Old Church Slavonic|Sources/Old Church Slavonic]] § Consonants — which could need its own conventions later; not addressed here.)
 
-## Vowels (confirmed 2026-09-19)
+## Vowels
 
 **/a e i o u/ → а е и о у** — plain standard Cyrillic vowel letters, no surprises, no separate yat-based spelling distinction (unlike Serbian's ije/je Ijekavian convention — Sisician's Ekavian-type yat reflex, per [[../Sources/Late Common Slavic|Sources/Late Common Slavic]] § Dialect Zone, doesn't need one).
 

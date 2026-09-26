@@ -1,6 +1,6 @@
 # Formal Address (ти vs. ви)
 
-Decided 2026-09-19. See [[../Grammar/Personal Pronouns|Grammar/Personal Pronouns]] for the grammatical mechanism (ти = familiar singular, ви = formal singular / true plural) and [[../Words/ти|Words/ти]] for the pronoun's own etymology. See [[../Sisician|Sisician]] for the hub page.
+See [[../Grammar/Personal Pronouns|Grammar/Personal Pronouns]] for the grammatical mechanism (ти = familiar singular, ви = formal singular / true plural) and [[../Words/ти|Words/ти]] for the pronoun's own etymology. See [[../Sisician|Sisician]] for the hub page.
 
 ## A Doubly-Motivated Feature, Not a Simple Inheritance
 
@@ -17,13 +17,13 @@ Worth being precise rather than overclaiming a pedigree this doesn't have: T-V-v
 
 ## The Social Rule — Modeled on German Sie/du
 
-**Default expectation on first contact with a stranger — answering the phone, answering the door, any formal introduction — is ви.** Moving to ти is not automatic with repeated contact or growing familiarity; it requires an **invitation**, mirroring German *Sie*/*du* practice and the tradition of *das Du anbieten* ("offering the du"). Following German norms directly, as asked: the **socially senior party initiates** — the elder, the higher-status person, or the host, depending on context — the same traditional hierarchy German etiquette itself follows (modern German usage has loosened this in some contexts, but the base pattern being modeled here is the traditional one).
+**Default expectation on first contact with a stranger — answering the phone, answering the door, any formal introduction — is ви.** Moving to ти is not automatic with repeated contact or growing familiarity; it requires an **invitation**, mirroring German *Sie*/*du* practice and the tradition of *das Du anbieten* ("offering the du"). Following German norms directly: the **socially senior party initiates** — the elder, the higher-status person, or the host, depending on context — the same traditional hierarchy German etiquette itself follows (modern German usage has loosened this in some contexts, but the base pattern being modeled here is the traditional one).
 
 **Using ти with a stranger, or before that invitation arrives, reads as presumptuous — even rude.** Not a minor slip: a real social misstep, the same weight it carries in traditional German social practice.
 
-## The Invitation Ritual — Proposed 2026-09-19 (Pending Confirmation)
+## The Invitation Ritual (Proposed, Pending Confirmation)
 
-German's *Bruderschaft trinken* (a shared drink/toast that formalizes the switch to *du*, traditionally with linked arms and a cheek-kiss) is the model asked for — similar in spirit, but built here from Sisician's own real cultural material rather than copied directly, per the request for "a similar-but-different induction ritual."
+German's *Bruderschaft trinken* (a shared drink/toast that formalizes the switch to *du*, traditionally with linked arms and a cheek-kiss) is the model — similar in spirit, but built here from Sisician's own real cultural material rather than copied directly.
 
 **Real anchoring material**, all already established or genuinely attested: South Slavic **pobratimstvo** (побратимство) — a real, historically significant folk institution of ritual sworn brotherhood across Serbian, Croatian, Bosnian, and Montenegrin tradition — and the real Byzantine/Orthodox liturgical rite of *adelphopoiesis* ("brother-making"), a genuine historical Church blessing for exactly this kind of bond. Combined with [[../Etymology/Semantic Domains|Etymology/Semantic Domains]]'s established Dalmatian wine culture and [[../Culture/Geography and Economy|Culture/Geography and Economy]]'s core river/bridge identity motif ("we are the people who stand between worlds because the river passes through us"), this pulls on three of Sisician's four cultural strata at once — Slavic folk custom, Orthodox liturgical form, and Dalmatian material culture — rather than being invented from nothing.
 

@@ -10,7 +10,7 @@ The important design principle: **Romance nouns become Slavic nouns.** A Dalmati
 
 > Romance *casa* → hypothetical Sisician **kaza**, declining as: kaza / kaze / kazi / kazu / kazom / kazi
 
-(These exact forms were placeholders when first written — **[[Words/каза|каза]] is now a real, if still exploratory, word entry** confirming the etymology, though its own declension table hasn't been filled in yet.) This is how the language should treat most old loans: full integration into native declension classes, not a parallel Romance-flavored paradigm.
+**[[Words/каза|каза]] is a real, if still exploratory, word entry** confirming this etymology, with its own full declension table built out on that page. This is how the language should treat most old loans: full integration into native declension classes, not a parallel Romance-flavored paradigm.
 
 ## Not a Creole
 

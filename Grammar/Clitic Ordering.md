@@ -1,6 +1,6 @@
 # Clitic Ordering
 
-Decided 2026-09-19. See [[Personal Pronouns]] § Clitics for the forms this orders, and [[Verbal Agreement]] for the pro-drop system this reinforces. See [[../Sisician|Sisician]] for the hub page.
+See [[Personal Pronouns]] § Clitics for the forms this orders, and [[Verbal Agreement]] for the pro-drop system this reinforces. See [[../Sisician|Sisician]] for the hub page.
 
 ## The Real Template (Browne's Ordering)
 
@@ -9,7 +9,7 @@ Real Serbo-Croatian doesn't let clitics scatter freely — they cluster in a str
 **li — AUX (except је) — DAT — ACC/GEN — SE — је (AUX)**
 
 1. **ли** — the yes/no question particle, if present, always comes first in the cluster.
-2. **Auxiliary clitics** from "to be" (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms. (The full "biti" auxiliary paradigm hasn't been built yet — [[Verbal Agreement]] settled that agreement exists and licenses pro-drop, not the specific conjugation. Flagging this as a real dependency: this template already presupposes a "biti"-type auxiliary clitic set we haven't built.) **This slot isn't биti-exclusive**: [[Hteti (To Want) and the Future|Hteti]]'s own future-auxiliary clitic (чу/чеш/че/чемо/чете/че, built 2026-09-25) occupies the identical position — real Browne's ordering already treats "AUX" as a general class of weak verbal clitics, not one verb's alone, confirmed here rather than freshly decided.
+2. **Auxiliary clitics** from "to be" (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms. (The full "biti" auxiliary paradigm hasn't been built yet — [[Verbal Agreement]] settled that agreement exists and licenses pro-drop, not the specific conjugation. Flagging this as a real dependency: this template already presupposes a "biti"-type auxiliary clitic set we haven't built.) **This slot isn't биti-exclusive**: [[Hteti (To Want) and the Future|Hteti]]'s own future-auxiliary clitic (чу/чеш/че/чемо/чете/че) occupies the identical position — real Browne's ordering already treats "AUX" as a general class of weak verbal clitics, not one verb's alone.
 3. **Dative pronominal clitic** — ми, ти, му, јој, нам, вам, им.
 4. **Accusative/genitive pronominal clitic** — ме, те, га, је (3sg fem.), нас, вас, их.
 5. **Reflexive clitic** — се.
@@ -21,13 +21,13 @@ This isn't an arbitrary rule: **је** (3sg auxiliary "is") and **је** (accusa
 
 ## No Instrumental Clitic
 
-**Decided (2026-09-19): no instrumental clitic.** [[Personal Pronouns]]'s instrumental row (мном, тобом, њим/њом, нама, вама, њима) has no short forms, and real Croatian doesn't have any either — instrumental pronouns are always full/stressed. A maximal clitic burst stacks subject agreement (via pro-drop, [[Verbal Agreement]]) + auxiliary + dative + accusative/genitive + reflexive — five things clustering — matching real Croatian exactly, with no invented sixth slot.
+**No instrumental clitic exists.** [[Personal Pronouns]]'s instrumental row (мном, тобом, њим/њом, нама, вама, њима) has no short forms, and real Croatian doesn't have any either — instrumental pronouns are always full/stressed. A maximal clitic burst stacks subject agreement (via pro-drop, [[Verbal Agreement]]) + auxiliary + dative + accusative/genitive + reflexive — five things clustering — matching real Croatian exactly, with no invented sixth slot.
 
 ## је's Fate Doesn't Stop at Word-Ordering
 
 **је was already the most special clitic in this template** (see § above — exiled to the end due to homophony with the accusative/genitive feminine clitic је). It turns out that's not the end of је's idiosyncrasy: [[Past Tense Fusion and Evidentiality]] gives it a genuinely novel further development on top of this ordering quirk — in the past tense specifically, је can fuse onto the following l-participle (creating a new bound gender-marked verb form) or drop entirely (grammaticalizing as hearsay evidentiality), neither of which happens to the other auxiliary clitics (сам/си/smo/сте/su). The single most homophony-burdened clitic in the system is also the one that ends up doing the most grammatical work — not a coincidence forced for effect, just where the pre-existing oddity kept leading.
 
-## Decided (2026-09-25): What Happens to Other Clitics When је Fuses or Drops
+## What Happens to Other Clitics When је Fuses or Drops
 
 **Once је stops being a free clitic, the second-position template doesn't lose its other slots — they just re-anchor to a new host.** The template (li–AUX–DAT–ACC/GEN–SE–је) exists to give floating clitics a fixed landing site; when је itself fuses into the participle or vanishes entirely, the *other* clitics (ли, a dative/accusative pronoun, се) simply cluster after whatever is now the clause's first stressed constituent instead — normally the participle itself, once је is no longer a separate word to anchor on.
 
@@ -41,6 +41,6 @@ This isn't a new mechanism — it's the ordinary second-position rule doing exac
 
 ## Open Items
 
-- ~~The "biti" auxiliary clitic paradigm~~ — **resolved, see [[Biti (To Be)]]**.
-- ~~Whether a fused or dropped past-tense form still participates in this clitic template~~ — **resolved above (2026-09-25)**: yes, via re-anchoring to the new first stressed constituent.
+- See [[Biti (To Be)]] for the full "biti" auxiliary clitic paradigm.
+- A fused or dropped past-tense form still participates in this clitic template, via re-anchoring to the new first stressed constituent (§ above).
 - How this interacts with [[../Grammar/Word Order and Register|Word Order and Register]]'s freer-order/Dalmatian-erudite register — does that register still respect strict second-position clitic clustering, or does clitic rigidity itself become a "homey/plain" marker contrasted with something looser in the erudite register? Not yet considered.

@@ -1,0 +1,16 @@
+---
+name: feedback-no-changelog-in-pages
+description: Vault content pages (Grammar/, Phonology/, Culture/, Sources/, Etymology/, Words/, Texts/, Conlang Workflow.md, Sisician.md) document Sisician's current state only — no date stamps, no "Revised/Corrected/Decided on YYYY-MM-DD," no narrating who caught what or when. That history belongs exclusively in logs/log.md.
+metadata:
+  type: feedback
+---
+
+**Content pages read like a reference grammar/dictionary of Sisician as it stands now — never like a changelog of how the vault arrived there.** Cut entirely from Grammar/, Phonology/, Culture/, Sources/, Etymology/, Words/, Texts/, `Conlang Workflow.md`, and `Sisician.md`: date stamps ("Revised 2026-09-26"), section headers or sentences naming when/why something was decided or corrected, narration of who caught a mistake ("caught by the user," "corrected the same day, caught while deriving X"), and phrases like "this session," "same day," "consulted 2026-09-25." When a decision changes, the page's fact just gets updated in place — written as if it had been right the first time, not as a correction to a visible earlier version.
+
+**Why:** the user's own framing — "so many pages read like a log file, even though we have a log... you're doing double duty a heck of a lot." `logs/log.md` (and its `logs/archive/` + `logs/index.md`) already exists precisely to carry this history; duplicating it into content pages doesn't add anything a reader of the language needs, and it makes pages harder to read as reference material. Caught 2026-09-26 after a full session of exactly this pattern (`Grammar/Definiteness.md` opening with "Decided 2026-09-19; substantially extended 2026-09-26, then corrected the same day," a whole section titled "A Real Correction (2026-09-26): the Article Was Preposed, Not Postposed," `Phonology/Modern Inventory.md`'s "x→ç: A Completed Sound Change... (Revised 2026-09-26)," etc.) — a full retroactive cleanup across all 163 non-`AIOS`/non-`logs` files was done the same day to fix it everywhere at once, not just going forward.
+
+**One thing explicitly NOT cut, confirmed directly by the user: citation-confidence flagging.** Distinguishing a solidly-cited derivation from a speculative extension ("extended, not directly cited," "plausible reconstruction, not an attested primary source") is a fact about the *claim itself* — how much weight a reader should put on it — not about vault history, and stays. Just keep it terse and undated: no session references, no names, no "confirmed this session," just the plain confidence statement.
+
+**Exempt from this rule, by design:** `AIOS/site-map.md` and `AIOS/memory/*.md` (their whole job is tracking what changed and when — that's not duplication, it's their actual purpose) and `logs/log.md`/`logs/archive/`/`logs/index.md` (the log itself). `CLAUDE.md` and `README.md` are project-process documentation, not conlang content, and are unaffected either way.
+
+**How to apply:** before adding prose to any content page, ask whether a reader who only cares about *what Sisician is* needs this sentence. If it's really about *how the vault got here*, it belongs in `logs/log.md` instead, stated once, not duplicated onto the page too.

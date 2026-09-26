@@ -1,6 +1,6 @@
 # Demonstrative Pronouns
 
-Decided 2026-09-23. See [[Personal Pronouns]] for the sibling paradigm this parallels structurally (and shares its *jь etymological material with — see [[../Words/он|Words/он]] and [[Adjective Agreement]]), [[Nominal Morphology]] for the case/gender system this reflects, and [[../Sisician|Sisician]] for the hub page.
+See [[Personal Pronouns]] for the sibling paradigm this parallels structurally (and shares its *jь etymological material with — see [[../Words/он|Words/он]] and [[Adjective Agreement]]), [[Nominal Morphology]] for the case/gender system this reflects, and [[../Sisician|Sisician]] for the hub page.
 
 ## The System: Two-Way, Not Three-Way
 
@@ -25,7 +25,7 @@ Both follow the identical suffixation mechanism, so they're given together. Only
 | **this** (proximal) | [[../Words/овај\|овај]] | [[../Words/ова\|ова]] | [[../Words/ови\|ови]] | [[../Words/ове\|ове]] |
 | **that** (medial) | [[../Words/тај\|тај]] | [[../Words/та\|та]] | [[../Words/ти\|ти]] | [[../Words/те\|те]] |
 
-### Full Case Paradigm (added 2026-09-23)
+### Full Case Paradigm
 
 **Medial ("that") — тај/та:**
 
@@ -95,4 +95,4 @@ Closed-class grammatical vocabulary, same as [[Personal Pronouns]] — no Slavic
 
 ---
 
-**Note on status:** exploratory, same footing as [[Personal Pronouns]] and [[Adjective Agreement]]. Every etymological claim above is either a fresh Wiktionary citation (the *tъ, *ovъ, *jь reconstruction pages and the real *taj*/*ovaj* entries, all consulted 2026-09-23) or an explicit reuse of an already-cited mechanism from an existing vault page — no new uncited sound law introduced.
+**Note on status:** exploratory, same footing as [[Personal Pronouns]] and [[Adjective Agreement]]. Every etymological claim above is either a fresh Wiktionary citation (the *tъ, *ovъ, *jь reconstruction pages and the real *taj*/*ovaj* entries) or an explicit reuse of an already-cited mechanism from an existing vault page — no new uncited sound law introduced.
