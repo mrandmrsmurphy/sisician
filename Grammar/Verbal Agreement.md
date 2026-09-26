@@ -1,6 +1,6 @@
 # Verbal Agreement and Subject Marking
 
-Decided 2026-09-19. See [[Nominal Morphology]] for the number system this agrees with, and [[Word Order and Register]] for the discourse-level pattern this directly enables. See [[../Sisician|Sisician]] for the hub page.
+See [[Nominal Morphology]] for the number system this agrees with, and [[Word Order and Register]] for the discourse-level pattern this directly enables. See [[../Sisician|Sisician]] for the hub page.
 
 ## Subject-Verb Agreement
 

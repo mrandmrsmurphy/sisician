@@ -1,6 +1,6 @@
 # Infinitive Loss and Da-Complementation
 
-Decided 2026-09-19, resolving the open question raised in [[Biti (To Be)]] § Open Question. See [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] for the periodization this timeline runs alongside, and [[../Sisician|Sisician]] for the hub page.
+Resolves the open question raised in [[Biti (To Be)]] § Open Question. See [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] for the periodization this timeline runs alongside, and [[../Sisician|Sisician]] for the hub page.
 
 ## The Trajectory
 
@@ -29,7 +29,7 @@ Reconstructed to a PIE demonstrative root ***do-***, originally a temporal-seque
 
 ## Consequence for Hteti and the Future
 
-**Future I is a direct, concrete instance of this page's own timeline, not just an abstract consequence.** [[Hteti (To Want) and the Future]] (built 2026-09-25) gives Future I an actual paradigm (че/чеш/че/чемо/чете/че) and shows both stages of the recession side by side rather than just the endpoints: **сунце че сијати** (Old/Middle, infinitive-based) and **сунце че да сија** (Modern, да-based). Real BCS itself still keeps both patterns alive today rather than having fully completed the shift — direct, living evidence that this kind of centuries-long coexistence isn't a Sisician-specific invention.
+**Future I is a direct, concrete instance of this page's own timeline, not just an abstract consequence.** [[Hteti (To Want) and the Future]] gives Future I an actual paradigm (че/чеш/че/чемо/чете/че) and shows both stages of the recession side by side rather than just the endpoints: **сунце че сијати** (Old/Middle, infinitive-based) and **сунце че да сија** (Modern, да-based). Real BCS itself still keeps both patterns alive today rather than having fully completed the shift — direct, living evidence that this kind of centuries-long coexistence isn't a Sisician-specific invention.
 
 ## Open Items
 

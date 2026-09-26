@@ -28,6 +28,4 @@ The governing design principle: **every weird feature should have a historical r
 - [[Etymology/Methodology]] — the per-loanword record template, doublets
 - [[Etymology/Semantic Domains]] — which vocabulary domains come from which source language
 
-## Status
-
-As of 2026-09-18: no grammar, phonology, or lexicon has been constructed yet. This vault currently holds only the con-history and design principles harvested from the original brain-dump document ("The Core Idea.md"), which is slated for deletion once fully harvested. [[Conlang Workflow]] Phase 1 ("Establish the pre-founding linguistic base") has not yet started. The native endonym, the name of the people/polity/dynasty, the founder's personal name, and his title are all still undecided — see [[Culture/Founding Myth and Naming]].
+See [[AIOS/site-map]] for what's built and its current status — this hub page stays focused on the pitch and where to read, not a status snapshot that would just go stale.

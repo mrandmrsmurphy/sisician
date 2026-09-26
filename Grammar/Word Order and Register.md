@@ -1,6 +1,6 @@
 # Word Order and Register
 
-Decided 2026-09-19. See [[Design Principles]] and [[Nominal Morphology]] for prior grammar decisions. See [[../Etymology/Semantic Domains|Etymology/Semantic Domains]] for the lexical three/four-layer model this page extends into syntax — **register in Sisician is not just about which words you choose, it's about how you order them.**
+See [[Design Principles]] and [[Nominal Morphology]] for prior grammar decisions. See [[../Etymology/Semantic Domains|Etymology/Semantic Domains]] for the lexical three/four-layer model this page extends into syntax — **register in Sisician is not just about which words you choose, it's about how you order them.**
 
 ## SVO — The "Homey" Baseline
 

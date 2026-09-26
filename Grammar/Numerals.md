@@ -1,6 +1,6 @@
 # Numerals
 
-Decided 2026-09-23. One through ten, following on from [[../Phonology/Phonotactics|Phonotactics]] settling enough of the sound system to check candidate forms against. See [[../Sisician|Sisician]] for the hub page.
+One through ten, following on from [[../Phonology/Phonotactics|Phonotactics]] settling enough of the sound system to check candidate forms against. See [[../Sisician|Sisician]] for the hub page.
 
 ## Method: Croatian-Majority, Occasional Slovene Lean, Grounded Twists
 
@@ -45,4 +45,4 @@ Numbers 3–10 are invariant in real Croatian and Slovene alike, and stay that w
 
 ---
 
-**Note on status:** exploratory, same footing as every other paradigm page. Croatian/Slovene comparanda for 1–5 continue directly from [[../Etymology/Swadesh List|Etymology/Swadesh List]]'s own already-cited data; 6–10 freshly fetched from Wiktionary's Proto-Slavic reconstructions (2026-09-23). The дешет/ној derivations are explicitly the most speculative content on this page, flagged as such on [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] itself rather than smoothed over here.
+**Note on status:** exploratory, same footing as every other paradigm page. Croatian/Slovene comparanda for 1–5 continue directly from [[../Etymology/Swadesh List|Etymology/Swadesh List]]'s own already-cited data; 6–10 are cited from Wiktionary's Proto-Slavic reconstructions. The дешет/ној derivations are explicitly the most speculative content on this page, flagged as such on [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] itself rather than smoothed over here.

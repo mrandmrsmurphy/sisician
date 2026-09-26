@@ -1,6 +1,6 @@
 # Negation
 
-Decided 2026-09-23. See [[../Sisician|Sisician]] for the hub page.
+See [[../Sisician|Sisician]] for the hub page.
 
 ## Two Words, One Real Sisician-Specific Split
 
@@ -24,7 +24,7 @@ Decided 2026-09-23. See [[../Sisician|Sisician]] for the hub page.
 
 ## A Third, Unrelated Negation Item: немој
 
-[[../Grammar/Imperative|Imperative]] (2026-09-25) adds a third negation-related word, **немој(-мо/-те)** — but it isn't a doublet of не or нон, and doesn't extend this page's two-word split. It's a defective, fossilized suppletive auxiliary (не + an old imperative of \*mošti/moći "to be able"), needed specifically because the synthetic imperative can't simply take не- the way an ordinary indicative verb does. See that page for the full account.
+[[../Grammar/Imperative|Imperative]] adds a third negation-related word, **немој(-мо/-те)** — but it isn't a doublet of не or нон, and doesn't extend this page's two-word split. It's a defective, fossilized suppletive auxiliary (не + an old imperative of \*mošti/moći "to be able"), needed specifically because the synthetic imperative can't simply take не- the way an ordinary indicative verb does. See that page for the full account.
 
 ## Open Items
 
