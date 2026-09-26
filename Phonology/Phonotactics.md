@@ -14,7 +14,7 @@ Already-attested evidence from real built words, not invented from a blank slate
 - **Obstruent + nasal** — real and already attested: [[мном]] /mn-/ ("with me"), a genuine two-obstruent-adjacent... no, nasal-initial cluster, matching real Croatian *mnom* exactly.
 - **s/š + obstruent** — already attested: [[скинија]] /sk-/. Real South Slavic also freely allows sm-, sp-, st-, sv- (cf. real BCS *smrt* "death," cited on [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] as the eye-spelling tradition's own worked example — not yet a coined Sisician word, but real evidence the cluster type itself is native and unremarkable).
 - **Three-consonant onsets** (s + obstruent + liquid, e.g. real Croatian *stvar*, *spric-*) — permitted, rarer, not yet exemplified by a built word.
-- **Obstruent + obstruent (stop + stop)** — added 2026-09-23, confirmed by [[../Words/кто|кто]] "who" (/kt-/, real and unremarkable South Slavic, cf. Russian *кто* too, just not previously catalogued here since no built word had shown it yet).
+- **Obstruent + obstruent (stop + stop)** — added 2026-09-23, confirmed by [[../Words/кто|кто]] "who" (/kt-/, real and unremarkable South Slavic, cf. Russian *кто* too, just not previously catalogued here since no built word had shown it yet). **Extended 2026-09-25** to a fricative+fricative instance of the same abstract category: [[../Words/все|все]] "all" (/vs-/), real and unremarkable in exactly the same way.
 
 ## Coda
 
