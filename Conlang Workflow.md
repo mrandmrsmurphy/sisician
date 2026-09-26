@@ -58,7 +58,6 @@ The original plan called for building historically rather than top-down: Phase 1
 - Do not make every noun Romance.
 - Do not give Romance words Romance morphology (see [[Grammar/Design Principles]] — "Romance nouns become Slavic nouns").
 - Do not make the language conveniently regular.
-- Do not make the orthography perfectly phonemic.
 - Do not make every historical borrowing obvious.
 - Do not ignore semantic domains, social class, or religion when deciding where a loanword lands.
 - Do not make Dalmatian survive unchanged until 1800 — it must die as a community language (by ~1300, see [[Culture/History]]).
