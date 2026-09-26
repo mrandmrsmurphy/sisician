@@ -24,12 +24,13 @@ Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has
 | --------- | -------- | -------- | ------------ | ------- | ----- |
 | Stop      | p b      | t d      |              |         | k ɡ   |
 | Affricate |          | ts dz    | tʃ dʒ        |         |       |
-| Fricative | ɸ β      | s z      | ʃ ʒ          |         | x     |
+| Fricative | ɸ β      | s z      | ʃ ʒ          | ç       |       |
 | Nasal     | m        | n        |              | ɲ       |       |
 | Liquid    |          | l r      |              | ʎ       |       |
 | Glide     |          |          |              | j       |       |
 
 - **в/ф are bilabial [β]/[ɸ], not labiodental [v]/[f]** — revised 2026-09-26, see § в/ф: Bilabial, Not Labiodental below. The labiodental place of articulation is no longer used anywhere in the inventory; the column is dropped from the table rather than kept empty.
+- **The old /x/ is now the palatal fricative ç, not velar** — revised 2026-09-26, see § x→ç below. Standard Modern Sisician has no velar fricative at all; [x] and [χ] survive only outside the standard (a genuine non-standard dialect, and deliberate mockery-performance imitating it), not as chart-level phonemes.
 - **[ŋ]** is an allophone of /n/ before velars (place assimilation), not a separate phoneme.
 - 24 consonants + 5 vowels = 29 phonemes total (not counting [ŋ]).
 
@@ -58,11 +59,20 @@ Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has
 - **Syllabic /r/, /l/ — colloquial/fast-speech only.** Standard register replaces with epenthetic **a** + the consonant (vrt→vart, smrt→smart pattern). See [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] and [[../Culture/Accent and the Slavic Boogeyman|Culture/Accent and the Slavic Boogeyman]] for the social mechanism.
 - **Very rarely syllabic**, and specifically attested in slang register: /ʎ/, /n/, /m/, /ɲ/ — unaffected by the above; these were never a standard-register form to begin with.
 
-## /x/ Softening to [ç] — A Register Marker, Not Free Variation (New 2026-09-20)
+## x→ç: A Completed Sound Change, Not a Register Spectrum (Revised 2026-09-26)
 
-**Modeled on real German dialectal ich-Laut/ach-Laut allophony** (the same phoneme surfacing as palatal [ç] near front vowels and velar [x] elsewhere), but repurposed here as a **social**, not purely phonological, split. The phonological conditioning is real and present in every register — /x/ is naturally more fronted, closer to [ç], adjacent to front vowels/consonants — but **prestige ("Dalmatian-philic") speech generalizes the soft [ç] to every position**, smoothing over the phoneme almost everywhere, while unmarked or deliberately "vulgar-coded" speech keeps the harder [x] even in fronting environments — and mocking/caricature speech (see [[../Culture/Accent and the Slavic Boogeyman|Culture/Accent and the Slavic Boogeyman]]) pushes it further back still, into a harsh, exaggerated uvular **[χ]**. The three-way range — prestige [ç], neutral [x], caricatured [χ] — is a single phoneme's register spectrum, not three phonemes.
+**Retired the three-way [ç]/[x]/[χ] register spectrum this section used to describe — [ç] has now categorically won, per [[../AIOS/memory/project_distancing_from_slavic_neighbors|the distancing-from-Slavic-neighbors thread]]'s phonology front.** Until this revision, all three were framed as live options *within the standard language*, chosen by register (prestige speech fronts to [ç], neutral speech keeps conditioned [x], mockery pushes back further to [χ]). That's no longer the model: **standard Modern Sisician's reflex of the old velar fricative is simply [ç], full stop, in every register, the same way б/д/г's own lenition is unconditional rather than register-limited.** There is no longer a "neutral [x]" option inside the standard variety at all.
 
-This connects to a real structural asymmetry already implicit in [[Design Principles]]: /x/ is "consistent with the Slavic norm" precisely because real Vulgar Latin/Dalmatian has no velar or uvular fricative at all (see [[../Sources/Vulgar Latin|Sources/Vulgar Latin]], [[../Sources/Dalmatian|Sources/Dalmatian]]) — /x/ is the one common, everyday sound the Dalmatian prestige layer never touched, which is exactly why it became available as the register's whole battleground.
+**[x] and, further exaggerated, [χ] didn't disappear — they moved outside the standard entirely, into two genuinely different places:**
+
+- **A real non-standard/rural dialect** that never went through the same elite-driven fronting — the same kind of standard-vs-periphery split real language communities actually show (a prestige innovation completing in the capital/court variety while outlying speech keeps the older form), not a register a standard speaker can just dial into.
+- **Deliberate mockery-performance** (see [[../Culture/Accent and the Slavic Boogeyman|Culture/Accent and the Slavic Boogeyman]]), which now means something sharper than it used to: a standard speaker doing "the Slav voice" isn't reverting to an internal option their own speech still has — they're imitating an **outside** dialect, the same othering logic already established for the rest of that page, just carried one step further than the "prestige softens, vulgar-coded keeps it hard" framing did.
+
+**The historical mechanism (real German dialectal ich-Laut/ach-Laut allophony, repurposed as social rather than purely phonological variation) is unchanged — only its endpoint is.** The phonological conditioning that made [ç] a natural outcome near front vowels/consonants was always real; what's revised is that the prestige generalization (soft [ç] in every position) finished rather than staying one option among several.
+
+**This also sharpens a real structural asymmetry already implicit in [[Design Principles]], in a way the old three-way spectrum didn't fully cash out.** /x/ was "consistent with the Slavic norm" precisely because real Vulgar Latin/Dalmatian has no velar or uvular fricative at all (see [[../Sources/Vulgar Latin|Sources/Vulgar Latin]], [[../Sources/Dalmatian|Sources/Dalmatian]]) — the one common, everyday sound the Dalmatian prestige layer never had anything to say about. Real Croatian/Serbian/Bosnian still have a velar /x/ today. **Standard Sisician no longer does** — this is now a genuine, synchronic phonemic difference from the actual Slavic neighbors, not just an available register trick, which is exactly the kind of distancing the thread this decision belongs to is after.
+
+**Still open, not part of this fix:** the syllabic-/r/,/l/ side of the same original three-part decision (§ Syllabic Sonorants above) is still described as colloquial-vs-careful register variation, not yet completed the same categorical way — a separate, still-pending piece of the same phonology front.
 
 ## Intervocalic Lenition: /b, d, g/ → [β, ð, ɣ] (New 2026-09-26)
 
@@ -75,6 +85,6 @@ This connects to a real structural asymmetry already implicit in [[Design Princi
 ## Open Design Notes
 
 - This inventory has no phonemic palatalized-stop series (no distinct /kʲ/, /gʲ/, /tʲ/, /dʲ/), and it shouldn't — a pervasive plain/palatalized pairing across the whole consonant inventory is an East Slavic (Russian-style) feature, not a South Slavic one (see [[Design Principles]] § Palatalization, corrected 2026-09-18). Sisician's /ɲ ʎ/ plus the postalveolar affricates/fricatives /tʃ dʒ ʃ ʒ/ are the standard South Slavic pattern instead: a fixed, closed set of phonemes descending from Common Slavic's historical palatalizations, not a live hard/soft alternation.
-- No /h/ — only the voiceless velar fricative /x/, consistent with the Slavic norm.
+- No /h/, and — per the 2026-09-26 revision above — no standard velar fricative either; the old /x/'s modern standard reflex is palatal /ç/, a real point of divergence from the Slavic norm (real BCS keeps velar /x/) rather than "consistent with" it.
 - Whether this inventory needs vowel length, pitch accent, or a stress system is still undecided.
-- **Held loosely.** This is a fun target sketch, not a commitment — per the user (2026-09-18), phonemes here can be dropped or new ones added if no legitimate historical/phonological process turns out to produce them once Phase 1/3 work starts. The affricate and fricative series (/ts dz/, /tʃ dʒ/, /ʃ ʒ/, /x/) will eventually want a historical account — which come from inherited Slavic palatalization, which from Dalmatian loans reshaped by Slavic phonotactics, which (if any) from later Hungarian/German/Greek contact — but the inventory itself is free to change shape in the meantime.
+- **Held loosely.** This is a fun target sketch, not a commitment — per the user (2026-09-18), phonemes here can be dropped or new ones added if no legitimate historical/phonological process turns out to produce them once Phase 1/3 work starts. The affricate and fricative series (/ts dz/, /tʃ dʒ/, /ʃ ʒ/, /ç/) will eventually want a historical account — which come from inherited Slavic palatalization, which from Dalmatian loans reshaped by Slavic phonotactics, which (if any) from later Hungarian/German/Greek contact — but the inventory itself is free to change shape in the meantime.
