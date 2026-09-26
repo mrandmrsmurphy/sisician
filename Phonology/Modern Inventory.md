@@ -31,6 +31,7 @@ Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has
 
 - **в/ф are bilabial [β]/[ɸ], not labiodental [v]/[f]** — revised 2026-09-26, see § в/ф: Bilabial, Not Labiodental below. The labiodental place of articulation is no longer used anywhere in the inventory; the column is dropped from the table rather than kept empty.
 - **The old /x/ is now the palatal fricative ç, not velar** — revised 2026-09-26, see § x→ç below. Standard Modern Sisician has no velar fricative at all; [x] and [χ] survive only outside the standard (a genuine non-standard dialect, and deliberate mockery-performance imitating it), not as chart-level phonemes.
+- **[ð] and [ɣ] don't get their own chart cells, for the same reason [ŋ] doesn't**: they're conditioned allophones of /d/ and /ɡ/ intervocalically (§ Intervocalic Lenition below), not separate phonemes — the chart lists phonemes, not every allophone, the same convention that already kept [ŋ] out. **[β] looks like the odd one out, sitting right there in the Bilabial/Fricative cell — but that's a coincidence, not an exception**: it's already в's own separate, independent phoneme (§ в/ф above), and б's own intervocalic allophone happens to land on the identical symbol (the partial neutralization already noted in § в/ф). It's charted because в needs charting, not because б's allophone does.
 - **[ŋ]** is an allophone of /n/ before velars (place assimilation), not a separate phoneme.
 - 24 consonants + 5 vowels = 29 phonemes total (not counting [ŋ]).
 
