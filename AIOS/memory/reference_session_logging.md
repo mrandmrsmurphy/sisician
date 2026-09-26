@@ -22,8 +22,13 @@ Entry format:
 
 ## Rotation
 
-Roll `logs/log.md` to a numbered archive (`logs/archive/log-NNN.md`) when it grows unwieldy, mirroring the convention in `../gweddish/logs/`. The user decides when to roll — don't roll unprompted.
+Roll `logs/log.md` to a numbered archive (`logs/archive/log-NNN.md`) when it grows unwieldy, mirroring the convention in `../gweddish/logs/`. The user decides when to roll — don't roll unprompted. First rolled 2026-09-26 (`log.md` → `archive/log-001.md`, covering 2026-09-18 through 2026-09-26).
 
-To roll: `cp logs/log.md logs/archive/log-NNN.md` (verbatim, zero-padded, next sequential number — the first is `log-001.md`), then replace `logs/log.md` with just the standard header plus a line pointing at the new archive: `Previous entries (<start date> through <end date>): [[logs/archive/log-NNN]]`. Never edit the archived copy afterward — it's frozen at the moment of the roll, same append-only-forever rule as the live log.
+To roll:
+1. `cp logs/log.md logs/archive/log-NNN.md` (verbatim, zero-padded, next sequential number — the first is `log-001.md`).
+2. Replace `logs/log.md` with just the standard header plus a line pointing at the new archive: `Previous entries (<start date> through <end date>): [[archive/log-NNN]]. See [[index]] for a summary of what's in each archived file.`
+3. **Add a new entry to `logs/index.md`** (created 2026-09-26 alongside the first roll) — one paragraph summarizing the archived file's contents by date-section, oldest-file-first, appended above the file's own trailing "add a new entry here" marker line.
 
-**Why:** A single flat file eventually gets too large to read/search comfortably in one pass; archiving keeps the live log fast to scan while preserving full history losslessly, without needing git.
+Never edit the archived copy afterward — it's frozen at the moment of the roll, same append-only-forever rule as the live log. The index, by contrast, is *not* append-only in the same strict sense — its entries describe frozen archive files, but nothing stops improving an existing entry's wording later if it turns out unclear (unlike the archive files themselves, or the live log's own past entries).
+
+**Why:** A single flat file eventually gets too large to read/search comfortably in one pass; archiving keeps the live log fast to scan while preserving full history losslessly, without needing git. The index exists because archive files themselves get too numerous to scan by filename alone once there are several — a one-paragraph-per-file summary lets a future session find the right archive without opening each one.
