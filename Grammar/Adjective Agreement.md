@@ -2,6 +2,8 @@
 
 Decided 2026-09-19. See [[Personal Pronouns]] and [[../Words/он|Words/он]] for the *jь etymology this connects to, [[Nominal Morphology]] for the case/gender system this reflects, and [[../Sisician|Sisician]] for the hub page.
 
+**Forward pointer, added 2026-09-26:** this page describes the long/short-form distinction as a *live definiteness marker* — true for most of Sisician's history, but no longer the whole story. [[Definiteness]] § Coexistence, Then Displacement now documents a second, later definiteness system (a productive postposed noun-article, el/li/la/le) that competes with this one from Early Modern Sisician onward and, per that page's leading hypothesis, finally strips this system of its definiteness *function* specifically in the 1800s — the forms below don't change, but what they eventually mean might. Not yet worked into this page's own text below, which still describes the pre-1800s system as settled.
+
 ## The Real Pattern This Maps Onto: Long Form vs. Short Form
 
 What was described — attributive adjectives taking full gender/number/case agreement, predicate adjectives taking only gender/number — isn't a new invention. It's the real, well-documented Slavic **long-form (definite, historically "pronominal") vs. short-form (indefinite, historically "nominal")** adjective distinction, still fully productive in Serbo-Croatian today. Sisician keeps it, mapped directly onto function:

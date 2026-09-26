@@ -12,5 +12,6 @@ Read this first, every session, before touching vault content. Each line points 
 - [Session Logging](memory/reference_session_logging.md) — append-only `logs/log.md` convention; why it exists (no git in this vault)
 - [Prestige Register Principle](memory/project_prestige_register_principle.md) — Sisician should "fancy itself" Romance the way English fancies itself Romance despite being Germanic; idolized Dalmatian pronunciation vs. mocked "Slavic boogeyman" markers (exaggerated [χ], singsong pitch-accent parody, syllabic /r/) — full resolved design at `Culture/Accent and the Slavic Boogeyman.md`
 - [й/ј Letter Confusion](memory/feedback_j_letter_confusion.md) — always use ј (U+0458), never й (U+0439); recurred three times in one session (2026-09-23) and the regular contamination scan doesn't catch it — run a targeted codepoint check on any file with /j/-sound words
+- [Distancing From Slavic Neighbors](memory/project_distancing_from_slavic_neighbors.md) — new 2026-09-26 standing thread: user wants Sisician grammatically/phonologically distinct from Croatian/Slovene (Portuguese-vs-Spanish parallel), not just lexically layered; two fronts open (productive definite article, mid-construction; categorical sound erosion, not started)
 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
