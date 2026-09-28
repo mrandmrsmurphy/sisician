@@ -1,113 +1,175 @@
 # Case Government
 
-What each living case actually *does* — bare-case functions and, following the real Ancient Greek/Slavic model of a single adposition governing different cases for different senses, the multi-case adpositions built on top of them. See [[Nominal Morphology]] for the category system (which cases exist, why locative and most of vocative died) and [[Declension Classes]] for the actual endings — this page is the missing third piece: what a living case *means*, not which cases exist or how they're spelled. See [[../Sisician|Sisician]] for the hub page.
+What each living case actually *does* — bare-case functions, time expressions, and the adpositions that govern more than one case with a different sense for each (the Ancient Greek model, which Slavic shares). See [[Nominal Morphology]] for the category system (which cases exist, why locative and most of vocative died) and [[Declension Classes]] for the actual endings — this page is the third piece: what a living case *means*. See [[../Sisician|Sisician]] for the hub page.
 
 ## Bare-Case Usage
 
-**Nominative** — subject; predicate nominative (X is Y, no case-marking friction since both sides are nominative).
+**Nominative** — subject; predicate nominative.
 
-**Genitive** — possession (the default, unmarked function); **genitive of negation**, real and synchronically alive in Croatian specifically (confirmed via search, not just Russian): a negated verb with an otherwise-accusative object takes genitive instead — **немам времена** "I don't have time," not †немам време; quantity/measure after numerals (the still-open paucal-residue question from [[Nominal Morphology]] § Number lives here too); **source**, but only via a preposition (§ Multi-Case Adpositions below) — genitive never marks source bare.
+**Genitive** — possession (the default function); **genitive of negation** — a negated verb with an otherwise-accusative object takes genitive instead: **немам времена** "I don't have time," not †немам време (real, synchronically alive in Croatian); quantity/measure after numerals (see [[Nominal Morphology]] § Number for the open paucal-residue question); **partitive object** (§ The Genitive/Accusative Alternation below); calendar dates (§ Time Expressions). Genitive never marks source bare — only after a preposition.
 
-**Dative** — recipient (**[[../Words/дати|дати]]**'s whole reason for being); possessor/experiencer datives (real and common cross-Slavic — "боли ме глава"-type constructions) are a real, plausible next step but **not decided here**, flagged rather than invented per this vault's standing policy.
+**Dative** — recipient ([[../Words/дати|дати]]). Possessor/experiencer datives (the real cross-Slavic "боли ме глава" type) are available but not yet decided.
 
-**Accusative** — direct object, the unmarked/default transitive object case; goal-of-motion via preposition (already decided, [[Nominal Morphology]] § Locative); **accusative of extent/duration** — see § Time Expressions below for the full temporal-case system this belongs to.
+**Accusative** — direct object, the default transitive object case; goal of motion after a preposition ([[Nominal Morphology]] § Locative); duration/extent (§ Time Expressions).
 
-**Instrumental** — means/instrument, bare (**[[../Words/фамаља|фамаља]]**-adjacent register-neutral core function, no word built yet to demonstrate it concretely); manner, bare (real Slavic "тихим гласом"-type, "in a quiet voice"); **predicate instrumental** — real, general Slavic bedrock (not freshly cited this session, same evidentiary tier as several other "general Slavic" claims already accepted in this vault): the complement of "become," "be elected/named," etc. takes instrumental rather than nominative (real BCS *postao je liječnikom* "he became a doctor," instrumental, not †liječnik) — no Sisician verb exists yet to host this concretely, flagged as available; comitative, but only via preposition (§ below) — instrumental never marks accompaniment bare, exactly parallel to genitive never marking source bare.
+**Instrumental** — means/instrument; manner ("тихим гласом"-type, "in a quiet voice"); **predicate instrumental** — the complement of "become," "be elected/named" takes instrumental rather than nominative (real BCS *postao je liječnikom* "he became a doctor"; general Slavic, not separately cited); indefinite/habitual time (§ Time Expressions). Instrumental never marks accompaniment bare — only after **с** (§ below), exactly parallel to genitive never marking source bare. No Sisician word yet demonstrates the means, manner, or predicate uses concretely.
 
-## The Genitive/Accusative Alternation — Correcting Last Turn's Hedge
+## The Genitive/Accusative Alternation
 
-**Real, synchronically live in Croatian specifically — not marginal, not archaic, not a Russian-only import as the earlier conversation implied.** A fresh check turned up real BCS syntactic literature (the accusative/genitive alternation is an actively studied phenomenon, not a fossil): the choice between accusative and (partitive) genitive on an otherwise-accusative object is regulated by **weak familiarity and maximality** — accusative signals a familiar, maximal (whole/definite) referent; genitive signals an unfamiliar, non-maximal (partial/indefinite) one. This is exactly "I gave them it" (ACC, the whole, known thing) vs. "I gave them of it" (GEN, some, an unspecified portion) — the construction from two turns ago, now confirmed as ordinary living BCS grammar Sisician simply inherits, not a North-Slavic feature that would need importing or reviving.
+**An otherwise-accusative object can take genitive instead, and the choice carries meaning.** Real, actively studied Croatian syntax, not a fossil: the alternation is regulated by **weak familiarity and maximality** — accusative signals a familiar, whole referent; genitive signals an unfamiliar, partial one. This is "I gave them it" (ACC, the whole known thing) vs. "I gave them of it" (GEN, some unspecified portion).
 
-**Concretely, with [[../Words/дати|дати]]**: **Дао сам му хлеб** (ACC, the [whole, known] bread) vs. **Дао сам му хлеба** (GEN, [some] bread, an unspecified amount) — a real minimal pair, no new morphology needed, since every noun's genitive/accusative singular already differ in the a-declension ([[../Words/дом|дом]]'s own дома vs. дом). The clitic version shows it even more sharply in the **3sg feminine**, where genitive and accusative clitics are formally distinct (**ње** vs. **ју**, per [[Personal Pronouns]]) rather than merely different endings on a full noun — **Дао сам јој ње** ("I gave her some of it") vs. **Дао сам јој њу** ("I gave her it"), the exact minimal pair flagged as a live design question two turns ago. This is also where [[Clitic Ordering]]'s aux-је/genitive-је collision (§ "Ditransitive Stacking: дати") actually surfaces concretely — genitive ње's own clitic је, not accusative ју, is the one that can collide with aux је.
+**With [[../Words/дати|дати]]**: **Дао сам му хлеб** (ACC, the [whole, known] bread) vs. **Дао сам му хлеба** (GEN, [some] bread). No new morphology is needed, since genitive and accusative singular already differ in the a-declension ([[../Words/дом|дом]]: дома vs. дом). The contrast is sharpest in the **3sg feminine clitics**, which are formally distinct (**ње** vs. **ју**, per [[Personal Pronouns]]): **Дао сам јој ње** "I gave her some of it" vs. **Дао сам јој њу** "I gave her it." This genitive-theme reading is exactly where [[Clitic Ordering]]'s aux-је/genitive-је adjacency arises (§ "Ditransitive Stacking: дати") — genitive ње's clitic је, not accusative ју, is the one that can sit next to aux је.
 
 ## Time Expressions
 
-**Sisician inherits the real Slavic system for time, not the Attic Greek one it superficially resembles.** Worth stating precisely, since the two look similar at a glance (both split temporal reference across several cases) but assign the work differently, for real structural reasons.
+**Sisician inherits the Slavic system for time, not the Attic Greek one it superficially resembles.** Both split temporal reference across several cases, but they assign the work differently, for structural reasons.
 
-### The Attic Comparison, Corrected
+### The Attic Comparison
 
-Real Attic Greek (Smyth's grammar), for reference — **not** what Sisician does, just the system the comparison started from: **genitive** = time *within* which, a span (νυκτός, "in the course of a night" — genuinely partitive: a moment somewhere inside a bounded whole); **dative** = time *at* which, a point (τῇ τρίτῃ ἡμέρᾳ, "on the third day") — not a dative-specific function at all, but the job of the old PIE **locative**, which Greek's dative absorbed along with genitive/instrumental into one syncretic case; **accusative** = extent/duration, "for how long," covering the whole span as a measured quantity.
+For reference only — not what Sisician does. Attic Greek (Smyth): **genitive** = time *within* which, a span (νυκτός, "in the course of a night" — partitive: a moment somewhere inside a bounded whole); **dative** = time *at* which, a point (τῇ τρίτῃ ἡμέρᾳ, "on the third day") — really the job of the PIE **locative**, which Greek's dative absorbed; **accusative** = extent, "for how long."
 
-### What Sisician Actually Does — Real, Inherited Slavic Mechanisms
+### The Sisician System
 
-No invention needed anywhere in this table — every cell is a real, independently-attested Slavic fact, not a Sisician-specific reshaping:
+Every cell is an inherited Slavic fact:
 
-| Function | Case | Real comparandum |
+| Function | Case | Comparandum |
 |---|---|---|
-| Duration/extent ("for three days") | **Accusative** | Real Croatian *цео дан* "the whole day" — the one cell that's also a genuine shared Greek/Latin/Slavic PIE inheritance, not a Slavic-only fact |
-| Calendar dates ("on the fifth of January") | **Genitive** | Real BCS *петог јануара* — structurally partitive, "the fifth [day], out of January," the same partitive logic already built for дати's own genitive/accusative theme alternation (§ above), now showing up in a third place |
-| Indefinite/habitual "during" ("at night," "in winter") | **Instrumental** | Real bare instrumental, no preposition — Russian **ночью**, **зимой**; South Slavic **ноћу**, **зими**, **лети** — manner/means (instrumental's core sense) extended metaphorically to "the temporal mode in which" something habitually happens |
-| Specific point/clock time ("at five o'clock") | *(no bare case)* | Real BCS **у** + accusative — prepositional, not a living case function at all |
+| Duration/extent ("for three days") | **Accusative** | Croatian *cijeli dan* "the whole day" — also a genuine shared Greek/Latin/Slavic PIE inheritance |
+| Calendar dates ("on the fifth of January") | **Genitive** | BCS *petog januara* — partitive, "the fifth [day] out of January," the same logic as the genitive/accusative alternation above |
+| Indefinite/habitual "during" ("at night," "in winter") | **Instrumental** | Bare, no preposition — Russian **ночью**, **зимой**; South Slavic **ноћу**, **зими**, **лети** — instrumental's manner sense extended to "the temporal mode in which" something habitually happens |
+| Specific point/clock time ("at five o'clock") | *(no bare case)* | **у** + accusative — prepositional |
 
-**No living temporal function for dative.** Real Slavic never gave dative one, and nothing here motivates inventing one — the point-in-time job real Greek hands to its (locative-descended) dative, real Slavic hands to a preposition instead.
+**No temporal dative.** Slavic never gave dative one; the point-in-time job Greek hands to its locative-descended dative, Slavic hands to a preposition.
 
-### Why the Mapping Differs, Structurally
+### Why the Mapping Differs
 
-**Greek's dative-as-point rides on an absorbed PIE locative; Slavic's dative never absorbed anything comparable.** Slavic kept locative as its own independent living case for most of its history — it's not fused into dative (or any other case) the way Greek's and Latin's oblique-case systems each collapsed several PIE cases into one. Locative dying is a genuinely late, Sisician-specific event ([[Nominal Morphology]] § Locative), and even there its functions redistributed within the *spatial* domain specifically (location/goal→accusative, source→genitive) — that spatial redistribution has no automatic bearing on the *temporal* domain, where Slavic's own inherited system (accusative/genitive/instrumental/preposition, per the table above) already covers every needed function without borrowing logic from the locative's own separate fate.
+**Greek's dative-as-point rides on an absorbed PIE locative; Slavic's dative never absorbed anything comparable.** Slavic kept locative as an independent case for most of its history rather than fusing it into another. Sisician's own loss of the locative ([[Nominal Morphology]] § Locative) redistributed its *spatial* functions (location/goal→accusative, source→genitive); that has no bearing on the temporal domain, where the inherited system above already covers every function.
 
-**Latin's ablative does both of Greek's jobs at once** (*illo die* "on that day" *and* *tribus diebus* "within three days," same case, no split) because Latin's ablative is itself a *triple*-fused PIE case (ablative+instrumental+locative) — it doesn't need two cases where Greek needs two, because it's already doing the combined work on its own. But Vulgar Latin lost the ablative entirely, merging it into accusative ([[../Sources/Vulgar Latin|Sources/Vulgar Latin]], already established) — so Dalmatian inherited no distinct temporal-case system to contribute at all, just one general oblique case shading into prepositional marking. **Romance contributes nothing to this system**, which is itself a small, clean confirmation of [[../Etymology/Semantic Domains|Semantic Domains]]'s own design target — core grammatical machinery (case syntax squarely included) stays Slavic, Dalmatian's influence living in vocabulary and register instead.
+**Latin's ablative does both of Greek's jobs at once** (*illo die* "on that day" and *tribus diebus* "within three days") because it is itself a fusion of the PIE ablative, instrumental, and locative. But Vulgar Latin merged the ablative into the accusative ([[../Sources/Vulgar Latin|Sources/Vulgar Latin]]), so Dalmatian had no distinct temporal-case system to contribute — one general oblique case shading into prepositional marking. **Romance contributes nothing here**, consistent with [[../Etymology/Semantic Domains|Semantic Domains]]'s design target: core grammatical machinery stays Slavic, and Dalmatian's influence lives in vocabulary and register.
 
-**Not yet exemplified with real Sisician vocabulary** — no words for seasons, times of day, or calendar months exist yet in [[../Words|Words/]], so this section states the rule (real, inherited, decided) without a concrete worked sentence. A natural target once that vocabulary gets coined, not invented here to force an example.
+No season, time-of-day, or month vocabulary exists yet in [[../Words|Words/]], so this system has no worked Sisician sentence.
 
 ## Multi-Case Adpositions
 
-**The real Slavic (and, per your own Ancient Greek comparison, cross-linguistically ordinary) pattern: one adposition, different case, different sense.** Two families, kept structurally distinct because they arose from genuinely different historical causes — worth not conflating them even though both look like "one preposition, two cases" on the surface.
+**One adposition, different case, different sense.** Three groups, kept distinct because they arose from different causes, even though all look like "one preposition, several cases" on the surface.
 
 ### с — Comitative/Instrumental vs. Source/Genitive
 
-**Real Common Slavic \*sъ(n)**, from PIE **\*ḱom** — the same root as Latin **cum**, confirmed via search as a single lexeme whose case government varies by sense, not two homophonous prepositions that merged (a cleaner story than the vault's own с/съ speculation two turns ago suggested it might need to be). Sisician's **с** (Fall of the Jers, weak final yer drops — trivial, the same mechanism as every other native monosyllable):
+Common Slavic **\*sъ(n)**, from PIE **\*ḱom** — the same root as Latin **cum**; a single lexeme whose case government varies by sense, not two merged homophones. Sisician **с** (the weak final yer drops, per the [[../Etymology/Fall of the Jers|Fall of the Jers]]):
 
-- **с + instrumental** = comitative "with," the direct partner to instrumental's already-established bare "means" sense — **пошао с женом**-type, "went with a woman" (real BCS, cited two turns ago as the accompaniment case that doesn't incorporate).
-- **с + genitive** = source, "off of, down from" — a real, finer-grained sense than the already-established **од** (general "from," genitive-governing, cited inline via [[../Words/одовде|одовде]]'s own etymology — not yet its own [[../Words|Words/]] page either), distinguishing "off a surface" from "away from a place/person" the way real Slavic keeps both prepositions rather than merging them. **Which specific contexts trigger с vs. од is a real open item**, not resolved here — both are genitive-governing and both mean roughly "from," and the vault doesn't yet have a rule for when a speaker reaches for one over the other.
+- **с + instrumental** = comitative "with," the partner of instrumental's bare "means" sense — **пошао с женом**, "went with a woman."
+- **с + genitive** = source, "off of, down from" — the source partner of **на** "on/onto," distinct from **из** "out of" (partner of **у**) and **од** "from [a person or place]" (partner of **код**/**к**; cited in [[../Words/одовде|одовде]]'s etymology). See § Location Expressions for the full pairing.
 
 ### за / под / над / пред / меју — Location vs. Direction
 
-**Confirmed via search for both Russian and Croatian specifically** (not a Russian-only pattern being imported): a small closed set of adpositions alternates **instrumental for static location** and **accusative for motion into that location** — за/под "behind"/"under" showing the clearest documented alternation in both languages, над/пред patterning the same way. **меju is flagged as the possible outlier**: the Russian source found между staying instrumental regardless of motion/stasis, not alternating like the others — not independently confirmed for BCS specifically, so treat меju's own behavior as an open item rather than assumed to match the rest of the set.
+A small closed set alternates **instrumental for static location** and **accusative for motion to that location** — attested for both Russian and Croatian, clearest for за/под, with над/пред/меју patterning the same way (BCS *došao je među nas* "he came among us," accusative). **меју also takes genitive**, for "between [two]," and so governs three cases — see [[../Words/меју|меју]].
 
-Citation forms (mechanical, no new sound changes — Fall of the Jers for под/над, real BCS's own regular liquid-metathesis outcome for пред, the already-decided ć/đ→č/j merger applied to real među's ђ, giving меју not †међу):
+Citation forms, derived with established sound changes only — the Fall of the Jers for под/над, BCS's regular liquid-metathesis outcome for пред, and the ć/đ→č/j merger applied to real *među* (giving меју, not †међу):
 
-| Real Common Slavic | Sisician | Instrumental (location) | Accusative (direction) |
+| Common Slavic | Sisician | Instrumental (location) | Accusative (direction) |
 |---|---|---|---|
-| \*za | за | "behind" (static) | "to behind" (motion) |
-| \*podъ | под | "under" (static) | "to under" (motion) |
-| \*nadъ | над | "above" (static) | "to above" (motion) |
-| \*perdъ | пред | "in front of" (static) | "to in front of" (motion) |
-| \*medju | меју | "between/among" (static — and possibly motion too, see above) | (open) |
+| \*za | за | "behind" | "to behind" |
+| \*podъ | под | "under" | "to under" |
+| \*nadъ | над | "above" | "to above" |
+| \*perdъ | пред | "in front of" | "to in front of" |
+| \*medju | меју | "among" (and genitive: "between [two]") | "into the midst of" |
 
-**Not built as individual [[../Words|Words/]] pages yet** — these are citation forms given for the grammar-level pattern, the same way [[Imperative]] introduced **нека**/**немој** inline before either got its own dedicated word page. Coining them properly (full etymology, register, etc.) is a natural next step if wanted, not done here.
+**This alternation was never locative-based.** It is a different mechanism from the classic Slavic locative/accusative alternation (*u kući* "in the house" vs. *u kuću* "into the house"). за/под/над/пред/меју marked static location with instrumental, a living case, so the locative's death left them untouched.
 
-### Why This Doesn't Reopen the Locative Question
+### Former Locative-Governing Prepositions
 
-**Important, and easy to get backwards**: this instrumental/accusative alternation is a **structurally different mechanism** from the classic Slavic locative/accusative alternation (real *u kući* "in the house," locative vs. *u kuću* "into the house," accusative) that [[Nominal Morphology]] already collapsed entirely into accusative-only when locative died (§ "Locative — lost"). за/под/над/пред/меју never used locative for their static sense in the first place — they used instrumental, which is still a living case, completely unaffected by locative's death. So this page's multi-case adpositions aren't a locative revival in disguise; they're an independent system that happened to survive the same historical event untouched, because it was never built on the case that died.
+**Every preposition that governed locative keeps its word and its senses; only the case changes.** The locative's loss reassigns government preposition by preposition — no preposition merges into another. The reassignment follows one rule:
 
-## The Comitative Plural — A Genuine Verb-Complex Quirk
+- **Where a preposition's locative and accusative senses were location vs. goal of the same spatial relation, both collapse onto accusative.** This is **у** "in, into" and **на** "on, onto" ([[Nominal Morphology]] § Locative) — the one place the locative's loss actually removes a contrast, making у/на monovalent.
+- **Everywhere else, the locative sense moves to genitive.** A preposition whose locative sense was distinct from its accusative sense keeps both, now as genitive/accusative. A locative-only preposition becomes genitive-only.
 
-**Real, cited, and specifically Slavic (not a Russian-only oddity)**: search confirms this construction is documented for Russian, Polish, *and* Czech under the term **Plural Pronoun Construction (PPC)** — a plural pronoun combined with a с+instrumental comitative phrase, real Russian **мы с Петей** ("we with Petya"), genuinely ambiguous between "we [some other, unstated group] with Petya" and "Petya and I" (Petya folded *into* the "we" itself, with no coordinated subject NP anywhere in the sentence).
+| Preposition | Former government | Sisician government |
+|---|---|---|
+| **у** "in/into" | locative (in) / accusative (into) | **accusative** for both |
+| **на** "on/onto" | locative (on) / accusative (onto) | **accusative** for both |
+| **при** "at, by, in the presence of" | locative only | **genitive** only |
+| **о** | locative "about, concerning" / accusative "against, in contact with" | **genitive** "about" / **accusative** "against" |
+| **по** | locative "around, throughout; according to; after" / accusative "for (to fetch); distributive" | **genitive** for the locative senses / **accusative** unchanged |
 
-**Adopted for Sisician, following the real Slavic-family precedent directly**: **ми с [instrumental NP]** licenses the same two readings, and — this is the actual "weird case entering the verb complex" payoff from two turns ago — the verb takes ordinary **plural** agreement either way, even in the exclusive reading where only one overt participant (the с-phrase) is named alongside the (covert, pro-dropped) speaker. This is real polypersonal-flavored agreement: a comitative-marked instrumental phrase is doing work that would ordinarily require a coordinated subject, without one ever appearing.
+**при** survives mostly in fixed expressions: **бити некоме при руке** "to be at hand for someone" (genitive руке, from рука, not yet its own page) and **при тога** "moreover, in doing so" (genitive [[Demonstrative Pronouns|тога]]). The same genitive тога gives **о тога** "about that" and **по тога** "according to that, by that."
 
-**The real cross-linguistic ambiguity is a feature, not a gap to resolve**: same honesty tier as every other accepted homophony in this vault (aux/genitive је, ми as both 1pl nominative and dative clitic) — context disambiguates in real Russian/Polish/Czech, and there's no reason Sisician would need a rule the source languages don't have either.
+**при and код don't collide.** Both are now genitive "at/near" prepositions, but **код** (genitive in the source too, "at X's place") is the productive, open-class spatial preposition, while при is largely confined to fixed idioms. They are differentiated by productivity and register, not by case — the same way the vault's other near-synonym pairs coexist (дом/каза, не/нон).
+
+**по's distributive construction**, which in real BCS reaches into nominative, genitive, and dative as well, is not affected by the locative question and is not yet worked out for Sisician.
+
+## Location Expressions
+
+**Sisician marks spatial path — where, whither, whence — the Slavic way, and more conservatively than its BCS neighbors.** Like § Time Expressions, the system resembles Attic Greek at a glance but is built from inherited Slavic material.
+
+### The Attic Comparison
+
+For reference only. In Attic Greek the preposition supplies the geometry and the case supplies the path: **dative** = where (the absorbed PIE locative), **accusative** = whither, **genitive** = whence (the absorbed PIE ablative). A single preposition can take all three — παρά + dative "beside," + accusative "to beside," + genitive "from beside."
+
+### The Sisician System
+
+Slavic splits the same three paths differently: the case still carries the path, but whence is marked by a separate **source preposition** paired with each where/whither preposition, always governing genitive.
+
+| Geometry | Where | Whither | Whence |
+|---|---|---|---|
+| in | **у** + accusative | **у** + accusative | **из** + genitive |
+| on | **на** + accusative | **на** + accusative | **с** + genitive |
+| at (a person, a place) | **код** + genitive (**при** + genitive in fixed idioms) | **к** + dative | **од** + genitive |
+| behind | **за** + instrumental | **за** + accusative | **иза** + genitive |
+| under | **под** + instrumental | **под** + accusative | **испод** + genitive |
+| above | **над** + instrumental | **над** + accusative | **изнад** + genitive |
+| in front of | **пред** + instrumental | **пред** + accusative | **испред** + genitive |
+| among / between | **меју** + instrumental (among); **меју** + genitive (between two) | **меју** + accusative | **измеју** + genitive |
+
+**The whence column is a closed, regular pattern: every source preposition takes genitive.** This is the one path Sisician marks as consistently as Greek does — genitive-for-source, the same function genitive already has with **од** and **с**.
+
+**к + dative** ("toward, to [a person]") is dative's one spatial use — the goal-of-motion extension of its recipient sense, standard across Slavic.
+
+### The из- Compounds Keep Their Source Meaning
+
+**иза, испод, изнад, испред, измеју mean "from behind, from under, from above, from in front of, from among/between" — whence only.** They are **из** + the simple preposition, with the usual simplifications (the zz geminate of из+за reduces to иза; regressive devoicing gives испод, испред). In real BCS these same compounds have bleached into plain static "behind/under/above/in front of," competing with за/под/над/пред + instrumental. Sisician keeps the older source meaning, as Russian из-за/из-под do. The forms match BCS; the meanings stay conservative.
+
+**The result is a complete three-way path system for за/под/над/пред** — instrumental/accusative/genitive, where/whither/whence — with the whence cell carried by the из- compound rather than the bare preposition. It is as close to Greek's παρά-type preposition as inherited Slavic material allows.
+
+### Where у and на Lose the Contrast
+
+**у and на are the one place where and whither are not distinguished**: both take accusative ([[Nominal Morphology]] § Locative), so "in the house" and "into the house" have the same preposition and case. The contrast is carried elsewhere:
+
+- **by the verb** — a motion verb means whither, a stative verb means where, as in Italian *in casa*;
+- **by the adverbs** — the where/whither pairs **[[../Words/кде|кде]]**/**[[../Words/камо|камо]]** and **[[../Words/овде|овде]]**/**[[../Words/овамо|овамо]]** keep the distinction lexically.
+
+Whence is never ambiguous: it always has its own preposition (из, с). With [[../Words/дом|дом]]: **у дом** "in the house" / "into the house," **из дома** "out of the house."
+
+Each preposition in the table has its own [[../Words|Words/]] page: [[../Words/у|у]], [[../Words/из|из]], [[../Words/на|на]], [[../Words/с|с]], [[../Words/код|код]], [[../Words/при|при]], [[../Words/к|к]], [[../Words/од|од]], [[../Words/за|за]], [[../Words/под|под]], [[../Words/над|над]], [[../Words/пред|пред]], [[../Words/меју|меју]], [[../Words/иза|иза]], [[../Words/испод|испод]], [[../Words/изнад|изнад]], [[../Words/испред|испред]], [[../Words/измеју|измеју]]; plus [[../Words/о|о]] and [[../Words/по|по]] (§ Former Locative-Governing Prepositions).
+
+## The Comitative Plural
+
+**A plural pronoun plus a с+instrumental phrase can denote a group that includes the с-phrase's referent.** Documented for Russian, Polish, and Czech as the **Plural Pronoun Construction**: Russian **мы с Петей** ("we with Petya") is ambiguous between "we [some group] with Petya" and "Petya and I," Petya folded into the "we" with no coordinated subject anywhere.
+
+**Sisician has the same construction**: **ми с [instrumental NP]** licenses both readings, and the verb is plural either way — even in the reading where only one person besides the (pro-dropped) speaker is involved. A comitative instrumental does the work of a coordinated subject without one appearing. The ambiguity is resolved by context, as in the source languages.
 
 ## What This Doesn't License
 
-**No noun incorporation.** The instrument/comitative incorporability asymmetry from two turns ago (tools incorporate into verbs cross-linguistically far more readily than comitative accompaniers do) is real typology, but it's typology from languages that *have* noun incorporation — Slavic doesn't, and grafting it onto Sisician would be importing a genuinely foreign structural feature rather than pulling on a thread already present in the grammar. Everything on this page stays within real Slavic case/adposition mechanics.
+**No noun incorporation.** Instruments incorporate into verbs cross-linguistically far more readily than comitatives do, but that asymmetry belongs to languages *with* noun incorporation. Slavic has none, and Sisician doesn't import it.
 
-**No locative revival.** See § "Why This Doesn't Reopen the Locative Question" above — [[Nominal Morphology]]'s decision stands untouched.
+**No locative revival.** The instrumental/accusative adpositions and the genitive reassignments above are not a locative in disguise.
 
-**No temporal dative, despite Attic Greek's own dative doing exactly this job.** See § Time Expressions — Greek's dative-as-point-in-time rides on an absorbed PIE locative Slavic's dative never picked up; real Slavic hands the same job to a preposition instead, and Sisician follows that, not Greek.
+**No temporal dative**, despite Attic Greek's dative doing exactly that job (§ Time Expressions).
+
+**No static use of the из- compounds.** иза/испод/изнад/испред/измеју are whence-only; static "behind/under/above/in front of/among" is за/под/над/пред/меју + instrumental, and static "between [two]" is меју + genitive (the job real BCS gives *između*).
 
 ## Related
 
-- [[Nominal Morphology]] — the case *inventory* this page assumes (which cases live, which died and why).
-- [[Declension Classes]] — the actual *endings* realizing these cases on real nouns.
-- [[../Words/дати|дати]] — the concrete verb whose ditransitive syntax first raised the genitive/accusative alternation question this page resolves.
-- [[Clitic Ordering]] § "Ditransitive Stacking: дати" — the aux-је/genitive-је collision that the genitive-partitive reading (§ above) actually activates.
-- [[Personal Pronouns]] § Clitics — ње/ју's formal distinctness is what makes the genitive/accusative alternation visible in clitic pronouns, not just full nouns.
-- [[../Words/одовде|одовде]] — where the already-established genitive-governing "from" (**од**, not yet its own word page) is cited, now joined by с's own genitive sense.
-- [[../Sources/Vulgar Latin|Sources/Vulgar Latin]] — where the ablative's real merger into accusative is already established, the reason § Time Expressions finds Dalmatian contributing nothing to Sisician's own temporal-case system.
-- [[../Etymology/Semantic Domains|Etymology/Semantic Domains]] — § Time Expressions' finding (core grammar stays Slavic, Romance contributes nothing here) is a direct confirmation of this page's own stated design target.
-- [[Verbal Agreement]] — the pro-drop/agreement system the comitative plural's own plural-with-one-overt-participant pattern quietly bends.
+- [[Nominal Morphology]] — the case inventory this page assumes.
+- [[Declension Classes]] — the endings realizing these cases.
+- [[../Words/дати|дати]] — the ditransitive verb behind the genitive/accusative alternation.
+- [[Clitic Ordering]] § "Ditransitive Stacking: дати" — the aux-је/genitive-је adjacency the partitive reading produces.
+- [[Personal Pronouns]] § Clitics — ње/ју's formal distinctness.
+- [[Demonstrative Pronouns]] — тога, the genitive in при тога/о тога/по тога.
+- [[../Words/одовде|одовде]] — where **од** is cited.
+- [[../Sources/Vulgar Latin|Sources/Vulgar Latin]] — the ablative's merger into accusative.
+- [[../Etymology/Semantic Domains|Etymology/Semantic Domains]] — the "core grammar stays Slavic" target.
+- [[Verbal Agreement]] — the agreement system the comitative plural bends.
 
 ---
 
-**Note on status:** exploratory, mixed evidentiary tiers by section — the genitive/negation, genitive/accusative alternation, за/под/над/пред instrumental/accusative pattern, с's PIE *ḱom etymology, the comitative Plural Pronoun Construction, and § Time Expressions' whole comparative apparatus (real Smyth's-grammar Attic facts, real Slavic instrumental/genitive temporal usage, real Latin ablative facts) are all freshly search-confirmed this session, cited rather than assumed. Predicate instrumental is general Slavic bedrock, not freshly cited, same honesty tier as several other "general Slavic" claims already accepted elsewhere in the vault. меju's own instrumental-only-no-alternation status and the с-vs-од source-preposition division of labor are both explicitly flagged open, not resolved. The за/под/над/пред/меju citation forms are mechanical sound-change applications, not yet built out into full [[../Words|Words/]] pages, and § Time Expressions is stated as a rule with no concrete Sisician sentence yet, since no season/time-of-day/calendar vocabulary has been coined.
+**Note on status:** exploratory. Cited: genitive of negation; the genitive/accusative alternation and its familiarity/maximality conditioning; the за/под/над/пред instrumental/accusative alternation; с's etymology; the Plural Pronoun Construction; the Attic, Slavic, and Latin temporal-case facts; and the BCS government of у, на, при, о, по, код, and the из- compounds (genitive). General Slavic, not separately cited: predicate instrumental; the у/из, на/с, код–к/од where-whither/whence pairing; к + dative. The genitive reassignments of при/о/по are applications of [[Nominal Morphology]]'s redistribution rule, not attested forms; the source-only meaning of the из- compounds is a deliberate conservative choice (matching Russian, not BCS). меју + genitive "between [two]" is a deliberate extension (after Russian archaic между + genitive and BCS *između* + genitive), not attested for *među* itself. Open: по's distributive. Every preposition on this page has its own [[../Words|Words/]] page.

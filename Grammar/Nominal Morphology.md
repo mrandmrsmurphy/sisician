@@ -44,7 +44,7 @@ The locative is the most vulnerable of the seven Slavic cases, for a simple reas
 | Locative | **Lost** — redistributed by preposition: location and goal → accusative; source → genitive (see [[Interrogatives]]) |
 | Vocative | **Lost** — fossils only, chiefly religious address; exact fossils not yet chosen |
 
-Not yet addressed on this page: actual declension paradigms/endings for any noun class (including how [[../Words/дом|дом]], [[../Words/каза|каза]], [[../Words/скинија|скинија]], [[../Words/икос|икос]] would actually decline) — this page settles the *category system*, not the *forms*. **See [[Case Government]] (new 2026-09-28) for what each living case actually does** — bare-case functions, the genitive/accusative partitive alternation, and multi-case adpositions (с, за/под/над/пред/меју) — the third piece alongside this page's categories and [[Declension Classes]]'s endings.
+Not yet addressed on this page: actual declension paradigms/endings for any noun class (including how [[../Words/дом|дом]], [[../Words/каза|каза]], [[../Words/скинија|скинија]], [[../Words/икос|икос]] would actually decline) — this page settles the *category system*, not the *forms*. **See [[Case Government]] for what each living case actually does** — bare-case functions, time expressions, the genitive/accusative partitive alternation, and multi-case adpositions, including how each former locative-governing preposition (у, на, при, о, по) is reassigned — the third piece alongside this page's categories and [[Declension Classes]]'s endings.
 
 ## A General Principle Worth Reusing: Functional Load
 
