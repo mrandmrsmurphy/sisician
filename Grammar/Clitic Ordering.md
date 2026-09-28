@@ -39,6 +39,16 @@ All three illustrated with [[../Words/респонџати|респонџати]
 
 This isn't a new mechanism — it's the ordinary second-position rule doing exactly what it already does (attach to the first stressed constituent), just noting explicitly that a fused or dropped past tense changes *which word* that is. No clitic loses its slot; the anchor point moves.
 
+## Ditransitive Stacking: дати
+
+**Every clitic verb built before this one only ever filled one of DAT/ACC/GEN at a time** — [[../Words/респонџати|респонџати]]'s "answered him" fills DAT alone, ordinary transitive verbs fill ACC/GEN alone. [[../Words/дати|дати]] ("to give") is the first verb whose real argument structure needs a dative recipient *and* an accusative theme in the same clause — the first real test of whether the template's adjacent DAT and ACC/GEN slots (§ The Real Template above) actually stack the way they're ordered to. They do, with no new rule needed:
+
+- **Дам ти га.** "I give it to you." — present tense, no auxiliary clitic in play (present tense never takes one); the finite verb **дам** itself is the clause's first stressed constituent (subject јаз pro-dropped, per [[Verbal Agreement]]), and the clitic cluster **ти(DAT)–га(ACC)** immediately follows it, in the template's fixed order.
+- **Отац му га је дао.** "Father gave it to him." — past tense, conservative/unfused: **Отац** is the first stressed constituent, and the full three-clitic cluster **му(DAT)–га(ACC)–је(AUX, exiled last per § above)** fills second position before the participle **дао**.
+- **Дала му се.** "She gave herself to him." — reflexive: **се** fills the object slot itself rather than stacking with a separate ACC/GEN clitic, so only DAT+SE (two of the five slots) are active here, not three.
+
+**No collision, unlike aux је's own famous homophony problem.** The accusative/genitive slot's 3sg feminine forms are **ју** (accusative, "her/it") and **је** (genitive) — distinct from each other and from aux је in the accusative case specifically, so a ditransitive sentence with a feminine theme (e.g. "gave her/it [fem.] to him," **Дао му ју је**) never risks the ACC-slot је colliding with AUX је the way a genitive-theme sentence still could. The system's one real ambiguity risk stays exactly where [[Personal Pronouns]] and § Why је Is Exiled to the End already located it — genitive је, not accusative ју — confirmed rather than complicated by дати's own new two-clitic case. **This genitive-theme case isn't hypothetical — see [[Case Government]]'s genitive/accusative partitive alternation**: "gave her some of it" genuinely does need genitive ње/је (**Дао сам јој ње**), not accusative њу/ју, putting the collision case into real, motivated use rather than a corner case nobody would ever hit.
+
 ## Open Items
 
 - See [[Biti (To Be)]] for the full "biti" auxiliary clitic paradigm.
