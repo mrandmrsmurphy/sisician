@@ -197,6 +197,12 @@ One file per word, filename = the Cyrillic citation form (matching the sibling `
 |---|---|---|
 | `Texts/Conlang Syntax Test Cases.md` | **New (2026-09-23).** The real, external "Conlang Syntax Test Cases" 218-sentence list (culled from a larger 1200-sentence collection to remove near-duplicate syntax), all 218 numbered and cited verbatim from the real source. A scaffold, same spirit as `Etymology/Swadesh List.md` — check here before translating a sentence, fill in gradually, one at a time, never mass-completed. **First translations (2026-09-25)**: items 1–2 ("The sun shines"/"The sun is shining") both render as **Сунце сија.** once `Words/сунце.md` and `Words/сијати.md` both existed — a genuine Slavic/English typological point noted explicitly (the imperfective present covers both readings, no separate progressive) rather than left looking like an oversight. **Item 3 added same day**: "The sun shone" gets all three `Past Tense Fusion and Evidentiality.md` registers spelled out (conservative/witnessed/hearsay), the first sentence to actually demonstrate the evidential contrast rather than just the grammar page describing it. **Item 4 added same day**: "The sun will shine" gives Future I its first worked example, both the infinitive-based and да-based stages side by side (**Сунце че сијати** / **Сунце че да сија**), per `Grammar/Hteti (To Want) and the Future.md`. **Item 5 added same day**: "The sun has been shining" — real Slavic has no present-perfect-continuous at all (confirmed via search), so it renders as ordinary present + newly-coined `Words/веч.md` ("already"): **Сунце веч сија**. **Item 6 added same day**: "The sun is shining again" — plain SVO + newly-coined `Words/опет.md` ("again"): **Сунце опет сија**, no aspectual complication this time | Exploratory; 6/218 translatable so far — most items still need vocabulary that doesn't exist yet |
 
+## images/
+
+| File | Purpose | Status |
+|---|---|---|
+| `images/scene.png` | **New (2026-09-30).** AI-generated illustration of a feast day at the Siscia crossing, c. 1350: fortress on Roman foundations, Byzantine-rite church, toll chain, salt/timber barges, townspeople in Dalmatian-patrician and Posavina-style dress. Embedded on `Sisician.md` and `Culture/Geography and Economy.md` § The River as Cultural Structure | Illustrative; clothing/architecture shown is not established canon |
+
 ---
 
 ## Where New Content Belongs
@@ -211,6 +217,7 @@ One file per word, filename = the Cyrillic citation form (matching the sibling `
 | A word | `Words/[Cyrillic spelling].md` | `Etymology/Semantic Domains.md` if it establishes a new domain pattern |
 | A loanword's etymology | Follow the template in `Etymology/Methodology.md`, on the word's own page | — |
 | A resolved naming question | `Culture/Founding Myth and Naming.md` § Naming | `AIOS/memory/reference_naming_status.md` |
+| An image / illustration | `images/[descriptive-name].png`, embedded with `![[images/…]]` | This site-map's images/ table |
 | A construction-workflow phase advancing | `AIOS/memory/reference_construction_workflow.md` (the "Current phase" line) | `Conlang Workflow.md` if the phase description itself changes |
 
 ---

@@ -20,6 +20,7 @@ Keep top-level folders by domain, not by date. Suggested structure (create folde
 - `Words/` — one file per word, filename = the Cyrillic citation form (matching the sibling `../gweddish` vault's own convention of filename = the word's own script)
 - `Etymology/` — word origins and derivations, if Sisician has in-fiction history
 - `Texts/` — sample sentences, translated passages, glossed texts
+- `images/` — illustrations (e.g. AI-generated scenes), embedded in notes with `![[images/…]]`; depicted details aren't canon unless a text page adopts them
 - `Culture/` — worldbuilding notes for speakers of the language, con-history, political identity, etc.
 - `Sisician.md` — the hub/splash page linking out to every major section (already exists)
 
