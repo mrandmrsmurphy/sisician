@@ -5,7 +5,7 @@ metadata:
   type: reference
 ---
 
-This vault is not a git repository, so there is no commit history to reconstruct what changed and why across sessions. `logs/log.md` is an append-only log: each session adds a new dated entry at the **bottom** of the file and never edits or deletes a prior entry.
+The vault is now a git clone of `mrandmrsmurphy/sisician` (with Obsidian auto-backup commits), but `logs/log.md` stays the record of *what was decided and why*, which commit messages don't capture. It is an append-only log: each session adds a new dated entry at the **bottom** of the file and never edits or deletes a prior entry.
 
 Entry format:
 
@@ -16,7 +16,7 @@ Entry format:
 - [any word/page created, deleted, or restructured this session, one bullet each]
 ```
 
-**Why:** Without git, the only record of "what got created/deleted/restructured and when" is whatever gets written down. A flat append-only log is cheap to maintain and never needs reconciling with anything else.
+**Why:** Originally written when the vault had no git; the only record of "what got created/deleted/restructured and when" is whatever gets written down. A flat append-only log is cheap to maintain and never needs reconciling with anything else.
 
 **How to apply:** At the end of any session that creates, deletes, or restructures pages (not routine single-word additions unless notable), add one dated entry to `logs/log.md`. Keep entries terse — bullet points, not prose. Never rewrite or remove a past entry, even if it turns out to be wrong; add a new entry that corrects it instead. This is a log, not a memory — don't duplicate durable rules here, just record what happened and when. Durable rules belong in `AIOS/memory/` and the index at `AIOS/memory-index.md`.
 
