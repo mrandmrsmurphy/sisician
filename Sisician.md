@@ -2,6 +2,9 @@
 
 Splash page — hub for the con-history and conlang. This is a fictional language and alternate-history project: a South Slavic language reshaped by a long-vanished Dalmatian Romance elite.
 
+![[images/scene.png]]
+*A feast day at the Siscia crossing: the fortress on its Roman foundations, the Byzantine-rite church, the toll chain across the river, and townspeople in Dalmatian-patrician and Posavina-style dress. AI-generated illustration; the clothing is illustrative, not established canon.*
+
 ## The Pitch
 
 > **Slavic grammar + Romance vocabulary + Orthodox Christian civilization.**

@@ -43,10 +43,14 @@ Every sentence below needs at least one main verb; the verbs currently built are
 *Commentary (2026-09-25):* Plain SVO plus [[../Words/опет|опет]] ("again"), the user's own proposed form and etymology — Common Slavic **\*opętь** (*\*o-* + *\*pęta* "heel," literally "back on the heel"), confirmed via search. No aspectual complication the way item 5's веч had: опет is an ordinary repetition adverb, not standing in for a missing tense/aspect category. The fourth word in this vault to reuse the ę→e denasalization mechanism (after [[../Words/ме|ме]], [[../Words/те|те]], [[../Words/веч|веч]]) and the first with no accompanying dialect fork or jotation at all.
 
 ## 7. The sun will shine tomorrow.
-*(untranslated)*
+**Сунце че да сија јутро.** (Modern Sisician) / **Сунце че сијати јутро.** (Old/Middle Sisician)
+
+*Commentary:* Item 4's future plus [[../Words/јутро|јутро]], the bare neuter noun used adverbially — "morning" and "tomorrow" are one word, as in German *morgen*, with no fused preposition (unlike Croatian *sutra*). Placement after the verb is the default here, not a fixed rule; see [[../Grammar/Word Order and Register|Word Order and Register]].
 
 ## 8. The sun shines brightly.
-*(untranslated)*
+**Сунце сија светао.**
+
+*Commentary:* [[../Words/светао|светао]] is an adjective used as an adverb: the masculine singular short form, unchanged, as in Romanian *frumos* — see [[../Grammar/Adjective Agreement|Adjective Agreement]] § Adjective to Adverb. It looks like it agrees with сунце (which takes masculine agreement), but it's the adverb strategy, not agreement; the two are indistinguishable here.
 
 ## 9. The bright sun shines.
 *(untranslated)*

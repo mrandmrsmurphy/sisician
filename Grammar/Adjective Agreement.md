@@ -64,9 +64,16 @@ No locative row — per standing convention, dead cases aren't mentioned even in
 
 **Note the plural forms are identical between the two tables** (нуви/нуве) — this isn't a mistake; it's the real, already-noted fact that the short/long opposition never lived in the plural to begin with, so the "definite" plural row above and the "indefinite" plural row above are the same forms doing double duty, not two independent paradigms that happen to coincide.
 
+## Adjective to Adverb
+
+**An adjective's adverb is its masculine singular short form, unchanged.** No suffix, no separate form: [[../Words/светао|светао]] is both "bright" and "brightly" (**Сунце сија светао**), as Romanian *frumos* is both "beautiful" and "beautifully."
+
+**Why not the usual Slavic strategy.** Most Slavic languages use the neuter nominative/accusative singular (BCS *lijepo*, Russian *хорошо*); Czech and Polish also keep a dedicated \*-ě adverb (*dobře*, *dobrze*). Neither is available here: the neuter merger leaves adjectives no neuter form, and a dedicated suffix would be new invention. The Romanian model is the same one the neuter merger itself follows.
+
+**Cost, accepted:** every adjective is homophonous with its adverb. The adverb never takes case or agreement, so the short form's lack of case (above) is what lets it work.
+
 ## Explicitly Not Yet Built
 
-- **Comparative and superlative degree** — not addressed at all.
-- **Adjective-to-adverb derivation** — not addressed.
+- **Comparative and superlative degree** — not addressed at all, including comparative adverbs.
 - **A real soft-stem lexical adjective** to confirm the -ега/-ему pattern concretely, once one exists in [[../Words|Words/]].
 - **Whether a given adjective's long form always tracks its own stem consonant this cleanly**, or whether analogical leveling (the same kind of force that produced [[../Grammar/Personal Pronouns|Personal Pronouns]]'s ЊЕХ) might blur the hard/soft split over time — not yet considered.

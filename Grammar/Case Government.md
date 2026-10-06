@@ -58,7 +58,7 @@ No season, time-of-day, or month vocabulary exists yet in [[../Words|Words/]], s
 Common Slavic **\*sъ(n)**, from PIE **\*ḱom** — the same root as Latin **cum**; a single lexeme whose case government varies by sense, not two merged homophones. Sisician **с** (the weak final yer drops, per the [[../Etymology/Fall of the Jers|Fall of the Jers]]):
 
 - **с + instrumental** = comitative "with," the partner of instrumental's bare "means" sense — **пошао с женом**, "went with a woman."
-- **с + genitive** = source, "off of, down from" — the source partner of **на** "on/onto," distinct from **из** "out of" (partner of **у**) and **од** "from [a person or place]" (partner of **код**/**к**; cited in [[../Words/одовде|одовде]]'s etymology). See § Location Expressions for the full pairing.
+- **с + genitive** = source, "off of, down from" — the source partner of **на** "on/onto," distinct from **из** "out of" (partner of **у**) and **од** "from [a person or place]" (partner of **код**; cited in [[../Words/одовде|одовде]]'s etymology). See § Location Expressions for the full pairing.
 
 ### за / под / над / пред / меју — Location vs. Direction
 
@@ -80,20 +80,20 @@ Citation forms, derived with established sound changes only — the Fall of the 
 
 **Every preposition that governed locative keeps its word and its senses; only the case changes.** The locative's loss reassigns government preposition by preposition — no preposition merges into another. The reassignment follows one rule:
 
-- **Where a preposition's locative and accusative senses were location vs. goal of the same spatial relation, both collapse onto accusative.** This is **у** "in, into" and **на** "on, onto" ([[Nominal Morphology]] § Locative) — the one place the locative's loss actually removes a contrast, making у/на monovalent.
+- **Where a preposition's locative and accusative senses were location vs. goal of the same spatial relation, the location sense moves to instrumental and the goal stays accusative.** This is **у** "in, into" and **на** "on, onto" — the contrast survives in a new case, supplied by a calque on Latin *in* (§ у and на: The Latin Calque).
 - **Everywhere else, the locative sense moves to genitive.** A preposition whose locative sense was distinct from its accusative sense keeps both, now as genitive/accusative. A locative-only preposition becomes genitive-only.
 
 | Preposition | Former government | Sisician government |
 |---|---|---|
-| **у** "in/into" | locative (in) / accusative (into) | **accusative** for both |
-| **на** "on/onto" | locative (on) / accusative (onto) | **accusative** for both |
+| **у** "in/into" | locative (in) / accusative (into) | **instrumental** (in) / **accusative** (into) |
+| **на** "on/onto" | locative (on) / accusative (onto) | **instrumental** (on) / **accusative** (onto) |
 | **при** "at, by, in the presence of" | locative only | **genitive** only |
 | **о** | locative "about, concerning" / accusative "against, in contact with" | **genitive** "about" / **accusative** "against" |
 | **по** | locative "around, throughout; according to; after" / accusative "for (to fetch); distributive" | **genitive** for the locative senses / **accusative** unchanged |
 
-**при** survives mostly in fixed expressions: **бити некоме при руке** "to be at hand for someone" (genitive руке, from рука, not yet its own page) and **при тога** "moreover, in doing so" (genitive [[Demonstrative Pronouns|тога]]). The same genitive тога gives **о тога** "about that" and **по тога** "according to that, by that."
+**при** is a fossil, antiquated and confined to fixed expressions: **бити некоме при руке** "to be at hand for someone" (genitive руке, from рука, not yet its own page) and **при тога** "moreover, in doing so" (genitive [[Demonstrative Pronouns|тога]]). The same genitive тога gives **о тога** "about that" and **по тога** "according to that, by that."
 
-**при and код don't collide.** Both are now genitive "at/near" prepositions, but **код** (genitive in the source too, "at X's place") is the productive, open-class spatial preposition, while при is largely confined to fixed idioms. They are differentiated by productivity and register, not by case — the same way the vault's other near-synonym pairs coexist (дом/каза, не/нон).
+**код has displaced при.** With код covering both "within" (genitive) and "beside" (instrumental), при has no productive work left — the same fate as real Serbian *pri*, which *kod* has largely replaced.
 
 **по's distributive construction**, which in real BCS reaches into nominative, genitive, and dative as well, is not affected by the locative question and is not yet worked out for Sisician.
 
@@ -111,9 +111,10 @@ Slavic splits the same three paths differently: the case still carries the path,
 
 | Geometry | Where | Whither | Whence |
 |---|---|---|---|
-| in | **у** + accusative | **у** + accusative | **из** + genitive |
-| on | **на** + accusative | **на** + accusative | **с** + genitive |
-| at (a person, a place) | **код** + genitive (**при** + genitive in fixed idioms) | **к** + dative | **од** + genitive |
+| in | **у** + instrumental | **у** + accusative | **из** + genitive |
+| on | **на** + instrumental | **на** + accusative | **с** + genitive |
+| at, within (X's place) | **код** + genitive | **код** + dative | **од** + genitive |
+| at, beside | **код** + instrumental | **код** + accusative | **од** + genitive |
 | behind | **за** + instrumental | **за** + accusative | **иза** + genitive |
 | under | **под** + instrumental | **под** + accusative | **испод** + genitive |
 | above | **над** + instrumental | **над** + accusative | **изнад** + genitive |
@@ -122,22 +123,52 @@ Slavic splits the same three paths differently: the case still carries the path,
 
 **The whence column is a closed, regular pattern: every source preposition takes genitive.** This is the one path Sisician marks as consistently as Greek does — genitive-for-source, the same function genitive already has with **од** and **с**.
 
-**к + dative** ("toward, to [a person]") is dative's one spatial use — the goal-of-motion extension of its recipient sense, standard across Slavic.
+**код + dative** ("to X's place") is dative's one spatial use — the goal-of-motion extension of its recipient sense. It replaced the old simple preposition **[[../Words/к|к]]** + dative, now a fossil (§ код: Within vs. Beside).
 
 ### The из- Compounds Keep Their Source Meaning
 
 **иза, испод, изнад, испред, измеју mean "from behind, from under, from above, from in front of, from among/between" — whence only.** They are **из** + the simple preposition, with the usual simplifications (the zz geminate of из+за reduces to иза; regressive devoicing gives испод, испред). In real BCS these same compounds have bleached into plain static "behind/under/above/in front of," competing with за/под/над/пред + instrumental. Sisician keeps the older source meaning, as Russian из-за/из-под do. The forms match BCS; the meanings stay conservative.
 
-**The result is a complete three-way path system for за/под/над/пред** — instrumental/accusative/genitive, where/whither/whence — with the whence cell carried by the из- compound rather than the bare preposition. It is as close to Greek's παρά-type preposition as inherited Slavic material allows.
+**The result is a complete three-way path system for у/на/за/под/над/пред** — instrumental/accusative/genitive, where/whither/whence — with the whence cell carried by the из- compound rather than the bare preposition. It is as close to Greek's παρά-type preposition as inherited Slavic material allows.
 
-### Where у and на Lose the Contrast
+### у and на: The Latin Calque
 
-**у and на are the one place where and whither are not distinguished**: both take accusative ([[Nominal Morphology]] § Locative), so "in the house" and "into the house" have the same preposition and case. The contrast is carried elsewhere:
+**у and на take instrumental for where and accusative for whither**, like за/под/над/пред. With [[../Words/дом|дом]]:
 
-- **by the verb** — a motion verb means whither, a stative verb means where, as in Italian *in casa*;
-- **by the adverbs** — the where/whither pairs **[[../Words/кде|кде]]**/**[[../Words/камо|камо]]** and **[[../Words/овде|овде]]**/**[[../Words/овамо|овамо]]** keep the distinction lexically.
+- **у домом** "in the house" / **у дом** "into the house" / **из дома** "out of the house"
+- **на домом** "on the house" / **на дом** "onto the house" / **с дома** "off the house"
 
-Whence is never ambiguous: it always has its own preposition (из, с). With [[../Words/дом|дом]]: **у дом** "in the house" / "into the house," **из дома** "out of the house."
+**This is marked but universal.** No other Slavic variety uses instrumental after "in" or "on" (BCS, Slovene, and Russian all use the locative), so it is one of the most recognizably Sisician features of the grammar. But it is not a register feature: it is the only way to say "in" or "on" a place, in every register from liturgy to the street.
+
+**How it arose.** The locative's loss ([[Nominal Morphology]] § Locative) left у and на with accusative alone, collapsing "in" with "into." Two pressures filled the gap with instrumental, reinforcing each other:
+
+- **A calque on Latin *in*.** Latin marks the same contrast with *in* + ablative "in" vs. *in* + accusative "into" (*in civitate* / *in civitatem*). The Latin ablative had itself absorbed the Indo-European instrumental, so Latin-literate clerks equated Slavic instrumental with Latin ablative, and rendered *in* + ablative as у + instrumental.
+- **Analogy with за/под/над/пред**, which already marked where with instrumental and whither with accusative. у and на joining them made the pattern general across the spatial prepositions.
+
+The usage began in the chancery register and spread downward into all speech — the same scribal-prestige route as the eye-spelling tradition and the revived article ([[../Culture/Sociolinguistic History|Sociolinguistic History]]). Unlike those, it did not stay a marked written variant: because it restored a contrast every speaker needed, it became the only form.
+
+The where/whither adverb pairs **[[../Words/кде|кде]]**/**[[../Words/камо|камо]]** and **[[../Words/овде|овде]]**/**[[../Words/овамо|овамо]]** mark the same distinction lexically.
+
+### код: Within vs. Beside
+
+**код splits "at" into two senses by case, each with a where and a whither — four cases in all.** Real BCS *kod* + genitive covers both — *kod kuće* "at home" (within) and *kod mosta* "by the bridge" (beside). Sisician divides them:
+
+| Case | Sense | With [[../Words/дом|дом]] | With [[../Words/ти|ти]] / [[../Words/она|она]] |
+|---|---|---|---|
+| **Genitive** | at, within: at X's place, in X's household or premises | **код дома** "at home" | **код тебе** "at your place"; **код ње** "at her place" |
+| **Dative** | to X's place | **код дому** "to the house" | **код теби** "to your place"; **код њој** "to her place" |
+| **Instrumental** | at, beside: physically next to | **код домом** "next to the house" | **код тобом** "beside you"; **код њом** "beside her" |
+| **Accusative** | to beside | **код дом** "to beside the house" | **код тебе** "to beside you"; **код њу** "to beside her" |
+
+**Two paths, one source.** Within is genitive (where) / dative (whither); beside is instrumental (where) / accusative (whither). Both share **од** + genitive for whence.
+
+**код + dative replaced к.** Real Slavic says "to X's place" with the simple preposition *k* + dative. Sisician lost it: a bare к fuses with the next word into an initial cluster ([kt-], [kp-], [kɲ-] in **к њему**), which sounds overly Slavic to Sisician ears, and код — itself к + од — was ready to be heard as the fuller form of к. [[../Words/к|к]] survives only in fixed phrases, mostly before vowel-initial words, where no cluster arises. The same step also left [[../Words/при|при]] with nothing to do; it is likewise a fossil.
+
+**Marked but universal**, like у/на + instrumental: no other Slavic variety splits *kod* this way, but the distinction is standard in every register.
+
+**How it arose: analogy alone.** Once у, на, за, под, над, and пред all marked physical location with instrumental and motion to it with accusative, that pair became *the* case frame of spatial position. код was pulled into it for plain adjacency, and its inherited genitive narrowed to the reading genitive already favored — "within X's domain," the possessive sense of French *chez* (from *casa*) or Russian *у меня* "at my place." Unlike у/на, no Latin calque is involved: Latin separates these senses lexically (*apud* vs. *iuxta*), not by case.
+
+**Genitive and accusative coincide for most pronouns and animate masculine nouns** (тебе, мене, њега, нас, вас), so **код тебе** is either "at your place" or "to beside you." The verb disambiguates — stative for the first, motion for the second — the same way у/на worked before the instrumental arose. Feminine singular and inanimate nouns keep all three apart (код ње / код њој / код њу / код њом; код дома / код дому / код дом / код домом).
 
 Each preposition in the table has its own [[../Words|Words/]] page: [[../Words/у|у]], [[../Words/из|из]], [[../Words/на|на]], [[../Words/с|с]], [[../Words/код|код]], [[../Words/при|при]], [[../Words/к|к]], [[../Words/од|од]], [[../Words/за|за]], [[../Words/под|под]], [[../Words/над|над]], [[../Words/пред|пред]], [[../Words/меју|меју]], [[../Words/иза|иза]], [[../Words/испод|испод]], [[../Words/изнад|изнад]], [[../Words/испред|испред]], [[../Words/измеју|измеју]]; plus [[../Words/о|о]] and [[../Words/по|по]] (§ Former Locative-Governing Prepositions).
 
@@ -172,4 +203,4 @@ Each preposition in the table has its own [[../Words|Words/]] page: [[../Words/�
 
 ---
 
-**Note on status:** exploratory. Cited: genitive of negation; the genitive/accusative alternation and its familiarity/maximality conditioning; the за/под/над/пред instrumental/accusative alternation; с's etymology; the Plural Pronoun Construction; the Attic, Slavic, and Latin temporal-case facts; and the BCS government of у, на, при, о, по, код, and the из- compounds (genitive). General Slavic, not separately cited: predicate instrumental; the у/из, на/с, код–к/од where-whither/whence pairing; к + dative. The genitive reassignments of при/о/по are applications of [[Nominal Morphology]]'s redistribution rule, not attested forms; the source-only meaning of the из- compounds is a deliberate conservative choice (matching Russian, not BCS). меју + genitive "between [two]" is a deliberate extension (after Russian archaic между + genitive and BCS *između* + genitive), not attested for *među* itself. Open: по's distributive. Every preposition on this page has its own [[../Words|Words/]] page.
+**Note on status:** exploratory. Cited: genitive of negation; the genitive/accusative alternation and its familiarity/maximality conditioning; the за/под/над/пред instrumental/accusative alternation; с's etymology; the Plural Pronoun Construction; the Attic, Slavic, and Latin temporal-case facts; and the BCS government of у, на, при, о, по, код, and the из- compounds (genitive). General Slavic, not separately cited: predicate instrumental; the у/из, на/с, код–к/од where-whither/whence pairing; к + dative. The genitive reassignments of при/о/по are applications of [[Nominal Morphology]]'s redistribution rule, not attested forms; the source-only meaning of the из- compounds is a deliberate conservative choice (matching Russian, not BCS). код's four-case system (genitive "within," dative "to X's place," instrumental "beside," accusative "to beside"), with к and при reduced to fossils, is a deliberate innovation by analogy with the spatial prepositions, attested in no Slavic variety. у/на + instrumental for location is a deliberate innovation (calque on Latin *in* + ablative, reinforced by analogy with за/под/над/пред), attested in no Slavic variety. меју + genitive "between [two]" is a deliberate extension (after Russian archaic между + genitive and BCS *između* + genitive), not attested for *među* itself. Open: по's distributive. Every preposition on this page has its own [[../Words|Words/]] page.

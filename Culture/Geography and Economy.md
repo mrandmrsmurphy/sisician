@@ -42,6 +42,9 @@ The basic economic principle: **the dynasty owns the bottleneck rather than the 
 
 ## The River as Cultural Structure
 
+![[images/scene.png]]
+*The Siscia crossing: toll chain, salt and timber barges, and the fortress reusing Roman stonework (AI-generated illustration; clothing not canon).*
+
 The Sava should be more than scenery — it is the organizing geographical metaphor of the civilization. It connects the Adriatic hinterland, Bosnia, Siscia, Srem, Pannonia, the Danube, and Byzantine/Balkan routes, carrying timber, salt, grain, hides, people, soldiers, merchants, news, religious ideas, and political power. Sisician identity can develop around the concept: *we are the people who stand between worlds because the river passes through us.* This is not merely political — it should influence poetry, architecture, trade, legal terminology, folklore, saints, military symbolism, geography, and political mythology.
 
 ## The Roman Layer
