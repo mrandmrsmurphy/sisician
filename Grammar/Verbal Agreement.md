@@ -21,5 +21,5 @@ The verb agrees with its subject in **person** (1st/2nd/3rd) and **number** (sin
 
 ## Open Items
 
-- Actual verb agreement endings/paradigm (the specific forms for each person/number) haven't been built yet — this page settles that agreement and pro-drop exist, not their shape.
+- ~~Actual verb agreement endings/paradigm (the specific forms for each person/number)~~ — **present-tense paradigms built, see [[Verb Paradigm (Sketch)]]**: full person/number tables for all three conjugation classes (a/e/i). Non-present endings (aorist/imperfect) remain open, per [[Verbal Categories]].
 - Whether contrastive/emphatic overt subject pronouns show any Dalmatian-vs-Slavic register split of their own (paralleling [[Word Order and Register]]'s word-order register system) hasn't been considered.

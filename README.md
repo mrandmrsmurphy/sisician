@@ -20,11 +20,13 @@ The governing design principle is that **every unusual feature should have a his
 - **`Grammar/`** — morphology and syntax, one page per topic (pronouns, numerals, negation, verbal categories, etc.)
 - **`Etymology/`** — sound-change chains, comparative Swadesh data, semantic-domain layering
 - **`Words/`** — the lexicon, one file per word (filename = the word's own Cyrillic spelling)
+- **`Texts/`** — sample texts and translated sentences (the 218-item Conlang Syntax Test Cases scaffold, filled in gradually)
+- **`AIOS/`** — durable project memory and the vault site-map for AI-assisted work (read `AIOS/memory-index.md` first)
 - **`logs/log.md`** — an append-only session log of what's been built, when, and why
 
 ## Status
 
-Actively under construction. Phonology, core grammar (pronouns, demonstratives, adjectives, verbal system), and a growing lexicon (pronouns, numerals one through ten, negation, and a handful of content words) are built out; a full sound-change derivation chain connects the modern target back to the real historical sources. See [AIOS/memory/reference_construction_workflow.md](AIOS/memory/reference_construction_workflow.md) for the live, detailed status, or [logs/log.md](logs/log.md) for the session-by-session history.
+Actively under construction. Phonology and core grammar (pronouns, demonstratives, adjectives, case government, the verbal system) are built out, along with a lexicon of 138 word pages: the full personal-pronoun, demonstrative, and interrogative paradigms, twenty prepositions, numerals one through ten, the не/нон negation split, and six verbs including the first ditransitive (дати). The `Texts/` scaffold has its first translated sentences in place, and a full sound-change derivation chain connects the modern target back to the real historical sources. See [AIOS/memory/reference_construction_workflow.md](AIOS/memory/reference_construction_workflow.md) for the live, detailed status, or [logs/log.md](logs/log.md) for the session-by-session history.
 
 ## Working on this vault
 

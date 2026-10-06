@@ -22,12 +22,12 @@ Your guessed list (present, past, two futures, pluperfect, "something irrealis")
 |---|---|---|
 | **Present** | finite present | Confirmed — [[Verbal Agreement]]'s paradigm |
 | **Past** | Perfect: [[Biti (To Be)]]'s short/clitic present + l-participle | Confirmed as the *main* past — see § Aorist/Imperfect below for what else is competing for this slot |
-| **Future I** | че-clitic + infinitive **or** че-clitic + да + present | A direct consequence of [[Infinitive Loss and Da-Complementation]]: the future is exactly the kind of control context да was already established to invade, so Future I's construction follows the same historical timeline (infinitive-based in Old/Middle Sisician, да-based by the modern period). **See [[Hteti (To Want) and the Future]]**: че's own full paradigm (from Common Slavic \*xъtěti "to want," the vault's second major suppletive-feeling auxiliary after биti) — *сунце че сијати* / *сунце че да сија* "the sun will shine" |
+| **Future I** | че-clitic + infinitive **or** че-clitic + да + present | A direct consequence of [[Infinitive Loss and Da-Complementation]]: the future is exactly the kind of control context да was already established to invade, so Future I's construction follows the same historical timeline (infinitive-based in Old/Middle Sisician, да-based by the modern period). **See [[Hteti (To Want) and the Future]]**: че's own full paradigm (from Common Slavic \*xъtěti "to want," the vault's second major suppletive-feeling auxiliary after бити) — *сунце че сијати* / *сунце че да сија* "the sun will shine" |
 | **Future II (Futur Exact)** | [[Biti (To Be)]]'s **будем**-paradigm + l-participle | This is *why* будем was built in the first place; used in subordinate temporal/conditional clauses |
 | **Pluperfect** | biti's own past + l-participle of the main verb | [[Biti (To Be)]]'s own l-participle (био/била/били/биле) is the piece that makes this buildable; e.g. *био сам радио* "I had worked" |
 | **Conditional ("irrealis")** | бих-series (fossilized aorist, [[Biti (To Be)]]) + l-participle | This is what "something irrealis" is reaching for — real BCS's actual irrealis category is the Conditional, not a separate mood family; e.g. *радио бих* "I would work" |
 
-**Consequence: the l-participle is now a real priority, not a side note.** Four of these six categories (Perfect, Pluperfect, Future II, Conditional) all need it. [[Biti (To Be)]] already flagged the l-participle as unbuilt and specifically noted it's where the neuter merger (masculine singular / feminine plural) has to apply directly — this is no longer a someday task, it's blocking most of the tense system.
+**Consequence: the l-participle sits at the center of the tense system.** Four of these six categories (Perfect, Pluperfect, Future II, Conditional) all need it — and it is built: the participle itself, and [[Biti (To Be)]]'s specifically-noted point that the neuter merger (masculine singular / feminine plural) has to apply directly to it, are both worked out in [[Past Tense Fusion and Evidentiality]] and [[Biti (To Be)]] (био/била/били/биле).
 
 ## The Aorist and Imperfect — a Category You Didn't Mention, With a Good Home
 
@@ -63,7 +63,7 @@ The supine (a distinct Common Slavic/Proto-Slavic verb form used specifically af
 | A-type | vowel-final (гледа-, респонџа-) | suffix attaches directly, nothing to jotate | гледати, [[../Words/респонџати\|респонџати]] | **гледање** "watching," **респонџање** "answering" |
 | I-type | consonant-final root, old thematic *-i-* jotates it before the suffix lands | д+ј→џ (Sisician's own ć/đ merger, first seen in *native* word-formation rather than borrowed material) | радити | **раџење** "working, doing" |
 | E-type | consonant-final root, thematic *-e-* is not yod-derived, no jotation | none | нести | **несење** "carrying" |
-| Root ends in a vowel immediately before infinitive *-ти* | no consonant at all for *-en-* to extend — \*-ьje attaches straight to root+*t* | т+ј→ч (the -če allomorph named above) | [[Biti (To Be)\|биti]] | **биче** "being, existence, entity" |
+| Root ends in a vowel immediately before infinitive *-ти* | no consonant at all for *-en-* to extend — \*-ьje attaches straight to root+*t* | т+ј→ч (the -če allomorph named above) | [[Biti (To Be)\|бити]] | **биче** "being, existence, entity" |
 
 **биче is the concrete -če example** — and it's a strong one: real Croatian's own **biće** ("being, existence, creature") is exactly this same *bytьje* formation (t+j→ć, Croatian's un-merged outcome), and real Croatian **piće** ("drink, beverage," from *piti* "to drink," the exact same vowel-root-before-*ti* shape as biti) independently confirms this isn't a one-off coincidence but a real, productive pattern for this specific stem shape.
 
@@ -74,7 +74,7 @@ The supine (a distinct Common Slavic/Proto-Slavic verb form used specifically af
 ## Not Yet Done
 
 - Actual aorist/imperfect endings, and the register-split's practical trigger conditions (decided in principle, not in form).
-- The passive participle (real Slavic -n/-t adjectival participle, distinct from the l-participle) — not yet built; its own agreement paradigm and the periphrastic passive voice it would enable (биti + passive participle) are both still open.
+- The passive participle (real Slavic -n/-t adjectival participle, distinct from the l-participle) — not yet built; its own agreement paradigm and the periphrastic passive voice it would enable (бити + passive participle) are both still open.
 - Present participles (real Slavic adverbial -ći and a rarer OCS-flavored adjectival type) — not yet considered in any form.
 - The да-construction's internal syntax (flagged in [[Infinitive Loss and Da-Complementation]], still open).
 

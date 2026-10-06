@@ -9,9 +9,9 @@ Real Serbo-Croatian doesn't let clitics scatter freely — they cluster in a str
 **li — AUX (except је) — DAT — ACC/GEN — SE — је (AUX)**
 
 1. **ли** — the yes/no question particle, if present, always comes first in the cluster.
-2. **Auxiliary clitics** from "to be" (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms. (The full "biti" auxiliary paradigm hasn't been built yet — [[Verbal Agreement]] settled that agreement exists and licenses pro-drop, not the specific conjugation. Flagging this as a real dependency: this template already presupposes a "biti"-type auxiliary clitic set we haven't built.) **This slot isn't биti-exclusive**: [[Hteti (To Want) and the Future|Hteti]]'s own future-auxiliary clitic (чу/чеш/че/чемо/чете/че) occupies the identical position — real Browne's ordering already treats "AUX" as a general class of weak verbal clitics, not one verb's alone.
+2. **Auxiliary clitics** from бити (је excepted, see below) — 1sg/2sg/1pl/2pl/3pl forms (сам/си/смо/сте/су; the full paradigm is built, see [[Biti (To Be)]]). **This slot isn't бити-exclusive**: [[Hteti (To Want) and the Future|Hteti]]'s own future-auxiliary clitic (чу/чеш/че/чемо/чете/че) occupies the identical position — real Browne's ordering already treats "AUX" as a general class of weak verbal clitics, not one verb's alone.
 3. **Dative pronominal clitic** — ми, ти, му, јој, нам, вам, им.
-4. **Accusative/genitive pronominal clitic** — ме, те, га, је (3sg fem.), нас, вас, их.
+4. **Accusative/genitive pronominal clitic** — ме, те, га, ју (3sg fem. acc.) / је (3sg fem. gen.), нас, вас, их/ех.
 5. **Reflexive clitic** — се.
 6. **је (3sg auxiliary "is")** — placed last, separately from the other auxiliary clitics.
 
@@ -25,7 +25,7 @@ This isn't an arbitrary rule: **је** (3sg auxiliary "is") and **је** (accusa
 
 ## је's Fate Doesn't Stop at Word-Ordering
 
-**је was already the most special clitic in this template** (see § above — exiled to the end due to homophony with the accusative/genitive feminine clitic је). It turns out that's not the end of је's idiosyncrasy: [[Past Tense Fusion and Evidentiality]] gives it a genuinely novel further development on top of this ordering quirk — in the past tense specifically, је can fuse onto the following l-participle (creating a new bound gender-marked verb form) or drop entirely (grammaticalizing as hearsay evidentiality), neither of which happens to the other auxiliary clitics (сам/си/smo/сте/su). The single most homophony-burdened clitic in the system is also the one that ends up doing the most grammatical work — not a coincidence forced for effect, just where the pre-existing oddity kept leading.
+**је was already the most special clitic in this template** (see § above — exiled to the end due to homophony with the accusative/genitive feminine clitic је). It turns out that's not the end of је's idiosyncrasy: [[Past Tense Fusion and Evidentiality]] gives it a genuinely novel further development on top of this ordering quirk — in the past tense specifically, је can fuse onto the following l-participle (creating a new bound gender-marked verb form) or drop entirely (grammaticalizing as hearsay evidentiality), neither of which happens to the other auxiliary clitics (сам/си/смо/сте/су). The single most homophony-burdened clitic in the system is also the one that ends up doing the most grammatical work — not a coincidence forced for effect, just where the pre-existing oddity kept leading.
 
 ## What Happens to Other Clitics When је Fuses or Drops
 

@@ -4,7 +4,7 @@
 
 ## Vowels
 
-Five vowels: **/a e i o u/**. No length, tone/pitch-accent, or stress system has been specified yet — open question, not yet decided (Serbo-Croatian-style South Slavic languages typically have pitch accent and vowel length, so this is worth a deliberate decision rather than a silent omission).
+Five vowels: **/a e i o u/**. Stress is decided — root-anchored, not a mechanical syllable-count rule; see § Prosody below. Vowel length and tone/pitch-accent remain unspecified — open questions, not yet decided (Serbo-Croatian-style South Slavic languages typically have pitch accent and vowel length, so these are worth a deliberate decision rather than a silent omission).
 
 ### No Separate Diphthong Inventory — Vj Is Just V + Consonant /j/
 
@@ -69,7 +69,7 @@ Sisician doesn't need a Romance-style phonemic diphthong inventory (the way Lati
 
 **This is a genuine, synchronic phonemic difference from the actual Slavic neighbors, not just an available register trick.** /x/ would otherwise be "consistent with the Slavic norm" — real Vulgar Latin/Dalmatian has no velar or uvular fricative at all (see [[../Sources/Vulgar Latin|Sources/Vulgar Latin]], [[../Sources/Dalmatian|Sources/Dalmatian]]), the one common, everyday sound the Dalmatian prestige layer never had anything to say about. Real Croatian/Serbian/Bosnian still have a velar /x/ today. **Standard Sisician no longer does.**
 
-**Syllabic /r/,/l/ (§ Syllabic Sonorants above) is still colloquial-vs-careful register variation, not yet completed the same categorical way** — an open, separate piece of the same broader distancing goal.
+**Syllabic-/r/ suppression (§ Syllabic Sonorants above) is decided for the standard the same way** — standard spelling and careful speech always insert the epenthetic vowel — **but unlike x→ç it has not swept the colloquial/fast-speech register**, where the bare syllabic consonant survives as the ordinary casual form.
 
 ## Intervocalic Lenition: /b, d, g/ → [β, ð, ɣ]
 
@@ -83,5 +83,5 @@ Sisician doesn't need a Romance-style phonemic diphthong inventory (the way Lati
 
 - This inventory has no phonemic palatalized-stop series (no distinct /kʲ/, /gʲ/, /tʲ/, /dʲ/), and it shouldn't — a pervasive plain/palatalized pairing across the whole consonant inventory is an East Slavic (Russian-style) feature, not a South Slavic one (see [[Design Principles]] § Palatalization). Sisician's /ɲ ʎ/ plus the postalveolar affricates/fricatives /tʃ dʒ ʃ ʒ/ are the standard South Slavic pattern instead: a fixed, closed set of phonemes descending from Common Slavic's historical palatalizations, not a live hard/soft alternation.
 - No /h/, and no standard velar fricative either; the old /x/'s modern standard reflex is palatal /ç/, a real point of divergence from the Slavic norm (real BCS keeps velar /x/) rather than "consistent with" it.
-- Whether this inventory needs vowel length, pitch accent, or a stress system is still undecided.
+- Whether this inventory needs vowel length or pitch accent is still undecided; stress is decided — root-anchored (§ Prosody).
 - **Held loosely.** This is a target sketch, not a commitment — phonemes here can be dropped or new ones added if no legitimate historical/phonological process turns out to produce them. The affricate and fricative series (/ts dz/, /tʃ dʒ/, /ʃ ʒ/, /ç/) will eventually want a historical account — which come from inherited Slavic palatalization, which from Dalmatian loans reshaped by Slavic phonotactics, which (if any) from later Hungarian/German/Greek contact — but the inventory itself is free to change shape in the meantime.

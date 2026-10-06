@@ -29,7 +29,7 @@ The source row forces the same historical choice [[Interrogatives]] § Where, Wh
 ## Open Items
 
 - The distal row (онде/онамо/*"thence-yonder"*) is available by the identical mechanism whenever a three-way distance contrast is asked for — same footing as [[Demonstrative Pronouns]]'s unbuilt *онај*.
-- Whether Latin AB ever extends further into this paradigm (colonizing одовде/одтамо's slot the way it did абкле's) is an open question, not a rejected one — see [[../Words/абкле|абкле]]'s own still-unresolved "why whence and not которое generalized" question, which the same uncertainty would need to be resolved before extending the pattern.
+- Whether Latin AB ever extends further into this paradigm (colonizing одовде/одтамо's slot the way it did абкле's) is an open question, not a rejected one — see [[../Words/абкле|абкле]]'s own still-unresolved "why whence generalized into ordinary speech while [[../Words/куи|куи]] stayed confined to the legal register" question ([[Interrogatives]] § Open Items), which the same uncertainty would need to be resolved before extending the pattern.
 
 ---
 

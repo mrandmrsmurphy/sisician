@@ -32,6 +32,10 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 
 **Item 71 "hair": Proto-Slavic is given as \*vòlsъ, not "*vlosъ."** The OCS standalone appendix's own Cyrillic citation (власъ, unambiguously *vlasъ*) — read together with the regular South Slavic liquid-metathesis pattern already visible one row up at item 72 (*golva* → OCS глава *glava*) — indicates власъ/*vlasъ* is the regular metathesized OCS reflex of \*vòlsъ. A cross-check inference from real attested spelling and a real, independently-established sound pattern, not a fresh citation of its own.
 
+## Notes on Gaps
+
+**Two different kinds of empty cell, deliberately not merged.** A blank cell in the **Sisician** column means "not yet coined" — no [[../Words|Words/]] page exists for that item, and per the vault's standing rule against inventing vocabulary unprompted (see § Purpose and Column Choices), the cell stays blank until one does. A blank or "—" cell in any *other* column means a real gap in that language's own attestation or source appendix — Dalmatian and Sardinian are both genuinely incomplete in their source lists (§ Sources), so their "—" cells are real attested gaps, not omissions on this page's part. This page is a research scaffold — a standing map of what's been coined and what hasn't, with the comparanda pre-assembled for whenever a given item does get built — not a todo list; the blank Sisician cells are its normal resting state, not defects.
+
 ## Pronouns and Demonstratives (1–16)
 
 | # | English | Proto-Slavic | OCS | Serbo-Croatian | Slovene | Vulgar Latin | Dalmatian | Sardinian | Sisician |

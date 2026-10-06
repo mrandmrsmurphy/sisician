@@ -70,7 +70,7 @@ Dalmatian degeminates (loses double/geminate consonants), unlike Italo-Romance, 
 
 Consonant+yod clusters /tj/ /kj/ and /dj/ /gj/ merge into affricate outcomes — separately from, and despite, the preservation facts above (clusters palatalize even though plain intervocalic stops and pre-front-vowel velars don't). Confirmed examples for the voiceless pair (/tj/, /kj/ → **č**): **mrča < MYRTEA** "myrtle," **nevča < NĚPTIA**. The voiced pair (/dj/, /gj/) gives the parallel voiced affricate **dž** (matching the general "affricate reflexes" description).
 
-Real comparative Romance confirms the same d+yod mechanism directly: Latin **RADIUS** "ray, spoke" → Italian **raggio** [ˈraddʒo]; Latin **DIURNUM** "daily" → Italian **giorno** [ˈdʒorno] — both well-attested /dj/-cluster-to-[dʒ] outcomes, the voiced counterpart of the exact mechanism already cited for mrča/nevča. Not a Dalmatian-attested example the way those two are — the same evidentiary tier as дешет/ноj's Sardinian comparanda elsewhere in this vault.
+Real comparative Romance confirms the same d+yod mechanism directly: Latin **RADIUS** "ray, spoke" → Italian **raggio** [ˈraddʒo]; Latin **DIURNUM** "daily" → Italian **giorno** [ˈdʒorno] — both well-attested /dj/-cluster-to-[dʒ] outcomes, the voiced counterpart of the exact mechanism already cited for mrča/nevča. Not a Dalmatian-attested example the way those two are — the same evidentiary tier as дешет/ној's Sardinian comparanda elsewhere in this vault.
 
 ## Intervocalic /s/ Voices to [z]
 
@@ -110,9 +110,9 @@ Two rare, individually-motivated pathways (not blanket rules) are available for 
 1. **Morpheme/word-boundary reanalysis**: a Latin or Dalmatian sequence where /t/+/s/ or /d/+/z/ end up adjacent only because they belonged to two separate original words or morphemes, later fused/univerbated into a single Sisician word, could surface with a genuine ts/dz cluster — not a sound law, a one-off junctural accident, the same rarity class as [[../Words/абкле|абкле]]'s hybrid compounding.
 2. **Dialect-contact borrowing**: a word could enter Sisician via a differently-behaving neighboring real Dalmatian-speaking center (Zadar, Krk/Vegliote, and Ragusa were three genuinely distinct, only loosely-related Dalmatian varieties — § What's Real vs. What's Ours to Build above) rather than through Zadar's own main chain, carrying real Vegliote's own ts/dz outcome instead of Zadar's č/dž.
 
-Neither is built yet; flagged as available, rare, lexically-specific texture for a future word — exactly the status дешет and ноj had before they existed.
+Neither is built yet; flagged as available, rare, lexically-specific texture for a future word — exactly the status дешет and ној had before they existed.
 
-No specific Zadar-Dalmatian phoneme inventory has been assembled as a single table yet — the individual sound changes above are decided piecemeal; someone (a future session, or now) still needs to compile them into one coherent phoneme-by-phoneme picture and check they don't conflict with each other.
+The c. 1000 Zadar-Dalmatian baseline still hasn't been compiled into a single phoneme-by-phoneme table — the individual sound changes above are decided piecemeal. The c. 1300 end-stage section below does perform that reconciliation for the terminal stage (checking the consonants directly against real Vegliote's attested inventory and Sisician's own target); what remains open is the equivalent one-table picture for the earlier baseline.
 
 ## End-Stage Phonology: Zadar-Dalmatian, c. 1300 (Just Before Extinction)
 
@@ -140,9 +140,9 @@ No specific Zadar-Dalmatian phoneme inventory has been assembled as a single tab
 
 ### Prosody — The Real Payoff, and Where Sisician's Own Open Question Gets Resolved
 
-**This directly resolves an open question already sitting on [[../Phonology/Modern Inventory|Phonology/Modern Inventory]] and [[Vulgar Latin]]'s own pages: the source of Sisician's "penultimate stress, with many exceptions."** [[Vulgar Latin]] § Stress already flags that Classical Latin's own stress rule (penult if heavy, otherwise antepenult) independently leans penultimate-with-exceptions, "worth keeping in mind once the Dalmatian-loanword stress-adaptation rules get worked out." Here is that resolution:
+**This is where the loanword side of [[../Phonology/Modern Inventory|Phonology/Modern Inventory]]'s root-anchored stress (§ Prosody) actually comes from.** [[Vulgar Latin]] § Stress already flags that Classical Latin's own stress rule (penult if heavy, otherwise antepenult) independently leans penultimate-with-exceptions — the same surface shape root-anchored stress takes on short words. Here is how the two loan strata land:
 
-- **Words borrowed from Dalmatian *before* c. 1300's heavy convergence** (Phase 2, the initial bilingual generations) carry their **original Latin-descended stress pattern** into Sisician largely unchanged — these are the genuine "exceptions" to Sisician's otherwise-regular pattern, a real, motivated fossil layer rather than an arbitrary irregularity.
+- **Words borrowed from Dalmatian *before* c. 1300's heavy convergence** (Phase 2, the initial bilingual generations) carry their **original Latin-descended stress pattern** into Sisician largely unchanged — these are the genuine exceptions to Sisician's root-anchored default, a real, motivated fossil layer rather than an arbitrary irregularity.
 - **Dalmatian's own last generations of speakers, by 1300, were themselves already pronouncing Dalmatian with prosody drifting toward the surrounding Kajkavian accentual system** — a real, well-documented general effect of language death (a dying language's last fluent-to-semi-fluent speakers typically show substantial phonological transfer from their dominant L1, since the dying language functions as an effectively-L2 system even for people who "still speak it"). Words absorbed from *this* end-stage Dalmatian arrive already prosodically Slavic-shaped, needing no separate adaptation step.
 
 This gives the stress-exception pattern a genuine two-layer historical explanation — not "Dalmatian words are irregular" as a bare fact, but "early loans fossilize the donor language's own real stress rule; late loans arrive pre-adapted" — exactly the kind of "every weird feature should have a historical reason" result [[../Conlang Workflow|Conlang Workflow]] calls for.

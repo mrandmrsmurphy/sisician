@@ -9,14 +9,18 @@ Sisician's Cyrillic letter inventory. See [[../Culture/Sociolinguistic History|C
 | Nasal | m м | n н | ɲ њ | (ŋ ӈ) |
 | Stop (voiceless) | p п | t т | | k к |
 | Stop (voiced) | b б | d д | | g г |
-| Fricative (voiceless) | f ф | s с | š ш | x х |
-| Fricative (voiced) | v в | z з | ž ж | |
+| Fricative (voiceless) | ɸ ф | s с | š ш, ç х | |
+| Fricative (voiced) | β в | z з | ž ж | |
 | Affricate (voiceless) | | c ц | č ч | |
 | Affricate (voiced) | | dz ѕ | dž џ | |
 | Liquid | | l л | ʎ љ | |
 | Liquid/Glide | | r р | j ј | |
 
-Complete match against every consonant in [[Modern Inventory]] — nothing missing, nothing extra. **Note the "Palatal(ized)" column groups true palatals (ɲ ʎ j) with postalveolars (š ž č dž)** — a simplification for readability (Slavic phonological description often treats these together as the "soft" series), not a claim that š ž č dž are phonetically palatal rather than postalveolar; [[Modern Inventory]]'s own table keeps them in separate IPA columns.
+Complete match against every consonant in [[Modern Inventory]] — nothing missing, nothing extra. **Note the "Palatal(ized)" column groups true palatals (ɲ ʎ j, and the fricative ç) with postalveolars (š ž č dž)** — a simplification for readability (Slavic phonological description often treats these together as the "soft" series), not a claim that š ž č dž are phonetically palatal rather than postalveolar; [[Modern Inventory]]'s own table keeps them in separate IPA columns.
+
+**Two letters whose phonetic value isn't the obvious one:**
+- **х spells /ç/, the palatal fricative** — Standard Modern Sisician has no velar fricative at all (see [[Modern Inventory]] § x→ç). Historical/dialectal [x] survives only outside the standard (a non-standard dialect, and the mockery register imitating it — see [[../Culture/Accent and the Slavic Boogeyman|Culture/Accent and the Slavic Boogeyman]]), never as a standard phoneme.
+- **ф/в are bilabial [ɸ]/[β], not labiodental [f]/[v]** — a headline inventory decision (see [[Modern Inventory]] § в/ф); the letters themselves are the standard Cyrillic ones, unchanged.
 
 **Real-world basis for each letter choice:**
 - м н п т д к г ф в с з ш ж ц ч л р — standard Cyrillic, shared across Serbian/Russian/Macedonian.

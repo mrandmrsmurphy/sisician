@@ -6,7 +6,7 @@ A real, external resource — not this vault's own invention — used across the
 
 ## Status: A Scaffold, Not a Todo List to Clear in One Sitting
 
-Every sentence below needs at least one main verb; [[../Words/бити|бити]], [[../Words/респонџати|респонџати]], and [[../Words/сијати|сијати]] are the verbs currently built. Most of this list needs vocabulary (nouns, adjectives, more verbs) that doesn't exist yet, so most items remain untranslated — that's expected, not a regression.
+Every sentence below needs at least one main verb; the verbs currently built are [[../Words/бити|бити]], [[../Words/хтети|хтети]], [[../Words/респонџати|респонџати]], [[../Words/сијати|сијати]], [[../Words/љубити|љубити]], and [[../Words/дати|дати]]. Most of this list needs vocabulary (nouns, adjectives, more verbs) that doesn't exist yet, so most items remain untranslated — that's expected, not a regression.
 
 **The same standing rule as [[../Etymology/Swadesh List|Etymology/Swadesh List]] applies here**: this page exists to be checked before coining a word or filling in a sentence, and to be revisited gradually — one sentence at a time, with its own real citation and derivation, the same way every [[../Words|Words/]] page has been built so far — never mass-completed in one sitting. Fill in a **Translation** and **Commentary** under a sentence only when it's actually been worked out with the same rigor as everything else in this vault, not as a placeholder guess.
 

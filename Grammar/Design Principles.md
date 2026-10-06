@@ -1,10 +1,10 @@
 # Grammar: Design Principles
 
-No grammar has been constructed yet (see [[Conlang Workflow]] — Phase 1 not started). This page records the design targets and constraints agreed on before construction begins. See [[Sisician]] for the hub page.
+This page records the standing design targets and constraints for Sisician's grammar, agreed on before construction began and still in force across the built grammar pages (see [[Conlang Workflow]] for the construction phases themselves). See [[Sisician]] for the hub page.
 
 ## Do Not Romance-ify the Morphology
 
-The grammatical skeleton should remain **South Slavic**. A possible inherited case system: nominative, genitive, dative, accusative, instrumental, locative, vocative. (The precise modern inventory can be reduced or reorganized later if the historical phonology suggests it.)
+The grammatical skeleton should remain **South Slavic**. The inherited starting point is the full Common Slavic seven-case system: nominative, genitive, dative, accusative, instrumental, locative, vocative. The settled modern inventory is smaller — five living cases plus vocative fossils, with the locative eliminated — see [[Nominal Morphology]] for the decided system.
 
 The important design principle: **Romance nouns become Slavic nouns.** A Dalmatian-derived noun should not retain a Romance declension merely because its root is Romance. The conceptual model developed in discussion:
 
