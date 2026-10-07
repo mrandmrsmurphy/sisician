@@ -12,7 +12,9 @@ Only the five living cases appear (locative and vocative are gone, per [[Nominal
 | Genitive | [[мене]] ([[ме]]) | [[тебе]] ([[те]]) | [[њега]] ([[га]]) | [[ње]] ([[је]]) | [[нас]] | [[вас]] | [[њих]] ([[их]]) | [[њех]] ([[ех]]) |
 | Dative | [[мени]] ([[ми]]) | [[теби]] ([[ти]]) | [[њему]] ([[му]]) | [[њој]] ([[јој]]) | [[нама]] ([[нам]]) | [[вама]] ([[вам]]) | [[њима]] ([[им]]) | [[њима]] ([[им]]) |
 | Accusative | [[мене]] ([[ме]]) | [[тебе]] ([[те]]) | [[њега]] ([[га]]) | [[њу]] ([[ју]]) | [[нас]] | [[вас]] | [[њих]] ([[их]]) | [[њех]] ([[ех]]) |
-| Instrumental | [[мном]] | [[тобом]] | [[њим]] | [[њом]] | [[нама]] | [[вама]] | [[њима]] | [[њима]] |
+| Instrumental | [[њом]] | [[тобом]] | [[њим]] | [[њом]] | [[нама]] | [[вама]] | [[њима]] | [[њима]] |
+
+*The 1sg and 3sg-feminine instrumental cells are the same form, **њом**: the old мном lost its initial cluster (mn- → ɲ, [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 14) and merged with the feminine. Accepted as a merger, not repaired; there is no instrumental clitic, so context decides.*
 
 Parenthesized forms are the short/enclitic (unstressed) variants, kept alongside the full/stressed forms exactly as in real Croatian — see § Clitics below for what this actually commits us to.
 

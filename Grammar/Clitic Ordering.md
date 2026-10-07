@@ -21,7 +21,7 @@ This isn't an arbitrary rule: **је** (3sg auxiliary "is") and **је** (accusa
 
 ## No Instrumental Clitic
 
-**No instrumental clitic exists.** [[Personal Pronouns]]'s instrumental row (мном, тобом, њим/њом, нама, вама, њима) has no short forms, and real Croatian doesn't have any either — instrumental pronouns are always full/stressed. A maximal clitic burst stacks subject agreement (via pro-drop, [[Verbal Agreement]]) + auxiliary + dative + accusative/genitive + reflexive — five things clustering — matching real Croatian exactly, with no invented sixth slot.
+**No instrumental clitic exists.** [[Personal Pronouns]]'s instrumental row (њом, тобом, њим, њом, нама, вама, њима) has no short forms, and real Croatian doesn't have any either — instrumental pronouns are always full/stressed. A maximal clitic burst stacks subject agreement (via pro-drop, [[Verbal Agreement]]) + auxiliary + dative + accusative/genitive + reflexive — five things clustering — matching real Croatian exactly, with no invented sixth slot.
 
 ## је's Fate Doesn't Stop at Word-Ordering
 

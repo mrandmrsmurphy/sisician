@@ -11,7 +11,7 @@ Not an exhaustive syllable inventory — a lightweight target sketch, the same "
 Already-attested evidence from real built words, not invented from a blank slate:
 
 - **Obstruent + liquid/glide** — the most common South Slavic cluster type (тр-, др-, кр-, гл-, пл-, тв-, св-, дв-…). "Two" (not yet coined) will be this pattern, /dv-/, whenever it's built.
-- **Obstruent + nasal** — real and already attested: [[мном]] /mn-/ ("with me"), a genuine two-obstruent-adjacent... no, nasal-initial cluster, matching real Croatian *mnom* exactly.
+- **No nasal + nasal onsets.** /mn-/ was real Slavic (Croatian *mnom*, *mnogo*) but is removed: word-initial /mn/ becomes /ɲ/ ([[../Etymology/Sisician Sound Changes|Sisician Sound Changes]] § 14), so [[њом]] "with me" is now spelled and sounded the same as "with her". Earlier versions of this page cited мном as evidence for an obstruent+nasal onset; that label was wrong (nasal+nasal is a plateau), and the cluster no longer exists anyway.
 - **s/š + obstruent** — already attested: [[скинија]] /sk-/. Real South Slavic also freely allows sm-, sp-, st-, sv- (cf. real BCS *smrt* "death," cited on [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] as the eye-spelling tradition's own worked example — not yet a coined Sisician word, but real evidence the cluster type itself is native and unremarkable).
 - **Three-consonant onsets** (s + obstruent + liquid, e.g. real Croatian *stvar*, *spric-*) — permitted, rarer, not yet exemplified by a built word.
 - **Obstruent + obstruent (stop + stop, and fricative + fricative)** — confirmed by [[../Words/кто|кто]] "who" (/kt-/, real and unremarkable South Slavic, cf. Russian *кто* too) and [[../Words/все|все]] "all" (/vs-/, the fricative+fricative instance of the same abstract category).
@@ -44,4 +44,4 @@ Not re-derived here — see [[Modern Inventory]] § Prosody (root-anchored stres
 
 ---
 
-**Note on status:** exploratory, same footing as [[Modern Inventory]]. Grounded in already-attested built words ([[мном]], [[скинија]], [[дом]]) plus real, general South Slavic/BCS phonotactic typology, not a specific cited source — the same evidentiary category as several already-accepted "bedrock-confident general Slavic" claims elsewhere in this vault, e.g. [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]]'s own instrumental *-ojǫ→-om ending.
+**Note on status:** exploratory, same footing as [[Modern Inventory]]. Grounded in already-attested built words ([[скинија]], [[дом]]) plus real, general South Slavic/BCS phonotactic typology, not a specific cited source — the same evidentiary category as several already-accepted "bedrock-confident general Slavic" claims elsewhere in this vault, e.g. [[../Etymology/Sisician Sound Changes|Sisician Sound Changes]]'s own instrumental *-ojǫ→-om ending.

@@ -12,22 +12,22 @@ Dalmatian is classified as **Italo-Dalmatian**, grouped with **Western Romance**
 
 Real Dalmatian syntax remains essentially undocumented (per [[../Sources/Dalmatian|Sources/Dalmatian]]), so this is an extension grounded in what Dalmatian demonstrably *is* — a Western Romance sister of Italian and Venetian — rather than a direct citation of an attested Vegliote article paradigm.
 
-## Channel 2: The Antiquarian Revival — el/li/la/le, Preposed and Free-Standing
+## Channel 2: The Antiquarian Revival — el/ʎi/la/le, Preposed and Free-Standing
 
 Real Dalmatian's spoken erosion and its *written* legal/notarial register didn't move at the same speed — the same asymmetry already established for Latin itself ([[../Culture/Sociolinguistic History|Sociolinguistic History]]'s "Latin survives... in diplomatic/foreign-trade/family-document contexts," the exact channel [[../Words/куи|куи]] and [[../Words/абкле|абкле]] already came from). Starting in Early Modern Sisician (c. 1350–1650) — the same period and social class as the "Eye-Spelling" tradition ([[../Culture/Sociolinguistic History|Sociolinguistic History]] § The "Eye-Spelling" Tradition) — literate, Dalmatian-philic elites went looking in Dalmatian's own written record for a more authentically Dalmatian way to mark definiteness than the "merely Slavic" long-form adjective they'd inherited, found the ordinary preposed article **el/la** (sg.) / **li/le** (pl.), and began generalizing it productively — placed *before* the noun, exactly where it always belonged. This is a conscious, elite-driven revival project, not organic drift — a deliberate act of linguistic self-distancing, not an accident of contact.
 
-**Real grounding:** el/la/le are exactly the shape of real living Venetian/ordinary-Italian articles (Venetian *el* for masc.sg. specifically; *la/le* match ordinary Italian fem. sg./pl.); *li* matches a real attested Old Italian/Tuscan masculine-plural variant (modern standard Italian *gli*). This is a plausible reconstruction for the Adriatic Dalmatian dialect area, not a directly attested Vegliote primary source — the same evidentiary tier as [[../Words/ној|ној]]'s own proposed NOVEM-erosion.
+**Real grounding:** el/la/le are exactly the shape of real living Venetian/ordinary-Italian articles (Venetian *el* for masc.sg. specifically; *la/le* match ordinary Italian fem. sg./pl.); the masculine plural is palatalized, *ʎi* (spelled **љи**), from Latin ILLI by the same -LL- + front vowel palatalization as modern standard Italian *gli* /ʎi/ (recalled, not freshly cited). This is a plausible reconstruction for the Adriatic Dalmatian dialect area, not a directly attested Vegliote primary source — the same evidentiary tier as [[../Words/ној|ној]]'s own proposed NOVEM-erosion.
 
 ### Gender/Number Assignment — Falls Out of the Neuter Merger for Free
 
 | | Singular | Plural |
 |---|---|---|
-| Masculine | **ел** | **ли** |
+| Masculine | **ел** | **љи** |
 | Feminine | **ла** | **ле** |
 
 **No new agreement machinery needed.** [[Nominal Morphology]]'s neuter merger already sends every old-neuter-singular referent to masculine and every old-neuter-plural referent to feminine — so an old-neuter-singular noun simply takes **ел**, an old-neuter-plural noun simply takes **ле**, the identical mapping already used for [[../Words/он|он]], [[../Words/тај|тај]], and [[../Words/овај|овај]]. This slots directly into a category that already exists rather than requiring a new one.
 
-### Mechanics: Preposed, Free-Standing, Invariant Across Case
+### Mechanics: Preposed, Free-Standing, Invariant Across Case (Until the 1800s)
 
 **The article is a separate word placed before the noun and agrees only in gender/number — it does not decline for case at all**, matching every one of its real Western Romance relatives directly (Italian/Spanish/French articles are all case-invariant) rather than the German-style pattern (a preposed article *can* case-decline, when the host language keeps living case). This matches what Dalmatian's actual closest relatives do. The noun keeps its own full, ordinary case declension completely untouched — the article sits in front of it and never interacts with its ending.
 
@@ -35,11 +35,11 @@ Real Dalmatian's spoken erosion and its *written* legal/notarial register didn't
 
 | Case | Singular | Plural |
 |---|---|---|
-| Nominative | ел дом | ли домови |
-| Genitive | ел дома | ли домова |
-| Dative | ел дому | ли домовима |
-| Accusative | ел дом | ли домове |
-| Instrumental | ел домом | ли домовима |
+| Nominative | ел дом | љи домови |
+| Genitive | ел дома | љи домова |
+| Dative | ел дому | љи домовима |
+| Accusative | ел дом | љи домове |
+| Instrumental | ел домом | љи домовима |
 
 A small, genuinely minor word-boundary question remains open: **ла**/**ле** end in a vowel, so a vowel-initial noun immediately after them (e.g. a hypothetical *ла + икос*) creates an ordinary cross-word vowel hiatus — real Western Romance languages sometimes elide this (French/Italian *l'ami*, not *le ami*) and sometimes just tolerate it. Not decided here; plenty of real languages simply leave word-boundary hiatus alone.
 
@@ -67,11 +67,48 @@ Not lost everywhere — fossilized specifically as a **prefix** on a handful of 
 
 ## Coexistence, Then Displacement (Early Modern Through the 1800s)
 
-**The two systems ran side by side for centuries, genuinely redundant on the same noun phrase, before one displaced the other — and only recently.** From the Channel 2 revival's own start (Early Modern Sisician, c. 1350–1650) through most of Modern Standard Sisician, an attributive definite noun phrase marks definiteness *twice*: once on the adjective (long form, per [[Adjective Agreement]]) and once again with the preposed article (ел/ли/ла/ле). This isn't a design flaw — genuine grammatical redundancy during a slow grammaticalization shift is real and well-attested cross-linguistically, and Sisician's own founding premise (a small, prestigious elite reshaping a majority vernacular's grammar over centuries, not an instant switch) predicts exactly this kind of long overlap rather than a clean handoff.
+**The two systems ran side by side for centuries, genuinely redundant on the same noun phrase, before one displaced the other — and only recently.** From the Channel 2 revival's own start (Early Modern Sisician, c. 1350–1650) through most of Modern Standard Sisician, an attributive definite noun phrase marks definiteness *twice*: once on the adjective (long form, per [[Adjective Agreement]]) and once again with the preposed article (ел/љи/ла/ле). This isn't a design flaw — genuine grammatical redundancy during a slow grammaticalization shift is real and well-attested cross-linguistically, and Sisician's own founding premise (a small, prestigious elite reshaping a majority vernacular's grammar over centuries, not an instant switch) predicts exactly this kind of long overlap rather than a clean handoff.
 
-**Full displacement is recent — the 1800s, not the revival's own start.** By the 1800s, the article had been productive, obligatory, and unambiguous for centuries; the adjective long/short-form contrast, by comparison, had never been more than a matching redundancy once the article already carried the same information. Sometime in the 1800s, the adjective system's own definiteness *function* finally gave way — the same slow "a redundant category loses its job to a competitor" pattern already seen elsewhere in this project ([[Adjective Agreement]]'s own indefinite oblique paradigm dying out, [[../Words/абкле|абкле]] displacing native одкле).
+**Full displacement is recent — the 1800s, not the revival's own start.** By the 1800s, the article had been productive, obligatory, and unambiguous for centuries; the adjective long/short-form contrast had never been more than a matching redundancy once the article already carried the same information. In the 1800s the long forms were lost outright, the same slow "a redundant category loses its job to a competitor" pattern already seen elsewhere in this project ([[../Words/абкле|абкле]] displacing native одкле).
 
-**What happens to the long/short-form adjective distinction once it stops meaning "definite/indefinite" — leading hypothesis, not fully resolved:** real modern Serbo-Croatian's own long/short adjective distinction has, in fact, already drifted away from a live definiteness contrast toward something closer to a syntactic-position marker (long form as the default/unmarked attributive shape, short form surviving mainly in predicate position and fixed expressions) — a genuine, independently-attested real-world parallel for exactly the kind of semantic bleaching this page needs. The leading hypothesis is that Sisician's own long/short split undergoes the same repurposing in the 1800s, just triggered by direct competition from the newly-dominant article rather than happening on its own — the long form keeps existing as a form, it just stops being *about* definiteness. This is an open item, not a decision.
+**What survives: the short forms, because they were simpler.** Speakers kept the shorter, caseless indefinite forms and let the long ones go, so adjectives were left with only gender and number agreement, no case and no definiteness. This is the decided outcome, not a hypothesis; an earlier idea, that the long forms would be repurposed as a syntactic-position marker (as real modern Serbo-Croatian is drifting), was set aside. [[Adjective Agreement]] § The Modern System describes the result. Fossils remain where the old long form was lexicalized as a name, such as [[../Words/сисачки|сисачки]].
+
+## Case on the Article (From the 1800s): Slavic Endings on the ILLE Root
+
+**When the article took over the adjective's definiteness job in the 1800s, it also began to decline for case.** It was reanalyzed as a demonstrative-type determiner, the role the old *jь long-form suffix had played, and it picked up the pronoun ending family already behind [[../Words/тај|тај]], [[../Words/он|он]] and the old long-form adjective: -ога, -ому, -им, -их, -ој, -у, -ом.
+
+**The paradigm** (stem **л-**; the masculine singular nominative **ел** keeps its Venetian shape):
+
+| Case | Masc. sg. | Fem. sg. | Plural |
+|---|---|---|---|
+| Nominative | ел | ла | **љи** (m.) / ле (f.) |
+| Genitive | лога | ле | лих |
+| Dative | лому | лој | **љим** |
+| Accusative | ел (inanim.) / лога (anim.) | лу | ле |
+| Instrumental | лим | лом | **љим** |
+
+**Etymology, step by step:**
+
+1. **Latin to Dalmatian.** Vulgar Latin ILLE, ILLA, ILLI, ILLAE give *el, la, ʎi, le*. The geminate -LL- palatalizes to /ʎ/ before the front vowel -I-, as in Italian *gli* /ʎi/, in the plural masculine ILLI and the dative/ablative plural ILLIS. The other forms keep plain л.
+2. **The revival (c. 1350–1650).** The article returns as a free-standing, case-invariant word (above).
+3. **A coincidence sets up the analogy.** The nominatives **ла, ле** already match the demonstrative's **та, те**, and **љи** differs from **ти** only in its first consonant. Speakers can therefore extract **л-** as the article's stem, with the vowel marking gender and number. Only **ел** does not fit.
+4. **The 1800s.** By proportional analogy, **тај : тога :: ел : лога**, and **та : ту :: ла : лу**, the article takes тај's endings on the stem л-. The plural dative/instrumental ending -им is added to the palatalized stem, giving **љим**, which is how the ILLIS reflex reaches the Slavic ending.
+
+Lenition gives лога [ɣ], and the х of **лих** is /ç/.
+
+**Syncretisms, inherited from the тај pattern:** **ле** is both feminine genitive singular and the plural nominative (f.)/accusative; the masculine accusative singular follows the noun's animacy. The palatalization breaks one тај syncretism: **љим** (plural dative/instrumental) now differs from **лим** (masculine singular instrumental). It also separates the masculine plural **љи** from the question clitic **ли** ([[Clitic Ordering]]).
+
+**Double marking, on purpose.** The noun keeps its own case endings, so the case is marked twice, on the article and on the noun. Many nouns appear without an article, so the noun's own endings cannot be dropped.
+
+| Phrase | Gloss |
+|---|---|
+| лога дома | "of the house" |
+| лому дому | "to the house" |
+| лим домом | "with the house" |
+| лој кази | "to the building" |
+| лу казу | "the building" (acc.) |
+
+**Substantivized adjectives** get their case from the article alone, since the adjective is caseless: **лога светао** "of the bright one," **лој светла** "to the bright one (f.)," see [[Adjective Agreement]] § Substantivized Adjectives.
 
 ## On "a Complicated Set of Changes by This Point"
 
@@ -79,10 +116,12 @@ The clean story — short-form adjective + *jь* = long-form adjective — is th
 
 ## Explicitly Not Yet Built
 
-- **Actual prefix-fossil vocabulary** — no Sisician toponym, family name, or fixed oath carrying a frozen ел-/ли-/ла-/ле- prefix has been coined yet; nothing currently in [[../Words|Words/]] needs retroactive marking (none of дом/каза/скинија/икос/нув are Dalmatian-loan toponyms/bynames/oaths).
+- **Stress on the case-inflected article.** The nominatives are unstressed proclitics; whether the longer oblique forms (лога, лому) keep stress or cliticize is undecided.
+- **Plural dative/instrumental forms by the pronoun pattern** (-има, as in нама/њима) vs. the тим-type -им used here.
+- **Actual prefix-fossil vocabulary** — no Sisician toponym, family name, or fixed oath carrying a frozen ел-/љи-/ла-/ле- prefix has been coined yet; nothing currently in [[../Words|Words/]] needs retroactive marking (none of дом/каза/скинија/икос/нув are Dalmatian-loan toponyms/bynames/oaths).
 - The step-by-step historical derivation from short-form+*jь* to the modern long-form endings (see § On "a Complicated Set of Changes" above).
 - Whether **ла**/**ле** elide before a vowel-initial noun (§ Mechanics above) — a real but minor open question.
-- **The exact 1800s mechanism for the adjective long/short-form's semantic repurposing** (§ Coexistence, Then Displacement above) — a leading hypothesis is named (bleaching toward a syntactic-position marker, paralleling real modern BCS), but not derived step by step the way [[Adjective Agreement]]'s own indefinite-oblique loss was.
+- **The 1800s loss of the long forms** is decided, but not derived step by step (which case forms went first, whether pronoun-like uses lingered).
 - **Retrofitting existing noun `Words/` pages** ([[../Words/дом|дом]], [[../Words/каза|каза]], [[../Words/сунце|сунце]], etc.) with a definite-article example in their own text — none have been updated yet; дом's full paradigm was worked at the page level here, not written back into `Words/дом.md` itself.
 - Whether the article ever interacts with attributive-adjective agreement beyond simple word order (e.g. does an adjective between the article and noun ever trigger anything) — not considered.
 
