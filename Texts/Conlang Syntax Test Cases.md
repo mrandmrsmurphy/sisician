@@ -12,54 +12,62 @@ Every sentence below needs at least one main verb; the verbs currently built are
 
 ---
 
+*Only present-day Sisician is documented here, not historical stages. Every sentence carries the preposed article **ел** ([[../Grammar/Definiteness|Definiteness]]) for "the sun".*
+
 ## 1. The sun shines.
-**Сунце сија.**
+**Ел сунце сија.**
 
 *Commentary (2026-09-25):* сунце (sun, masc.-agreeing neuter, nom.sg.) + сија (сијати "to shine," 3sg present). Plain SVO, no complications — the first sentence on this whole 218-item list to actually get filled in, and it took [[../Words/сунце|сунце]] and [[../Words/сијати|сијати]] both existing first (сунце was coined 2026-09-24 specifically prompted by this sentence; сијати closes the gap it left open).
 
 ## 2. The sun is shining.
-**Сунце сија.** *(identical to item 1)*
+**Ел сунце сија.** *(identical to item 1)*
 
 *Commentary:* Real Slavic imperfective present tense covers both the general-truth reading ("the sun shines [as a fact of nature]") and the in-progress reading ("the sun is shining [right now]") with the same form — there's no separate progressive construction, the same way real Croatian *sunce sja* does double duty for both English sentences. Not a gap; a genuine typological difference from English, worth stating explicitly rather than leaving these two items looking accidentally unfinished.
 
 ## 3. The sun shone.
-**Сунце је сијао.** (conservative) / **Сунце сјѝјао.** (witnessed, ordinary spoken default) / **Сунце сијао.** (hearsay/reportative)
+**Ел сунце је сијао.** (conservative) / **Ел сунце сјѝјао.** (witnessed, ordinary spoken default) / **Ел сунце сијао.** (hearsay/reportative)
 
 *Commentary (2026-09-25):* Three genuinely different sentences, not stylistic variants of one — [[../Grammar/Past Tense Fusion and Evidentiality|Past Tense Fusion and Evidentiality]]'s three-way contrast, applied to [[../Words/сијати|сијати]]'s own l-participle **сијао** (masc. sg. — сунце takes masculine agreement, not a separate neuter form, per the neuter merger; this is the first sentence in the whole list to actually show that consequence rather than just state it). **Сунце је сијао** is the plain, unmarked report of a fact you'd find in older or more formal registers. **Сунце сјѝјао** — је's own glide fuses onto the participle and metathesizes past the root-initial /s/ (је+сијао → /j/+/s/, a Sonority Sequencing violation repaired the same way радити's /j/+/r/ already was) — is the ordinary modern spoken default: *you saw it yourself*. **Сунце сијао**, with the auxiliary dropped rather than fused, is specifically the hearsay/reportative form: *you're told the sun shone* (yesterday, in the old story, as the elders say) rather than reporting something you witnessed firsthand — the register of legend and myth, not a live weather report. Working out this sentence is what caught a real error in [[../Words/бити|бити]]'s own је-fusion (јбио → corrected to бјио) and surfaced a brand-new repair (copy-vowel epenthesis) for [[../Words/сијати|сијати]]'s own plural; see that word's own Past Tense section for both.
 
 ## 4. The sun will shine.
-**Сунце че сијати.** (Old/Middle Sisician, infinitive-based) / **Сунце че да сија.** (Modern Sisician, да-based)
+**Ел сунце че да сија.**
 
-*Commentary (2026-09-25):* [[../Grammar/Hteti (To Want) and the Future|Future I]] — че (from Common Slavic \*xъtěti "to want," the short/clitic present of [[../Words/хтети|хтети]]) plus a verbal complement whose shape tracks [[../Grammar/Infinitive Loss and Da-Complementation|Infinitive Loss and Da-Complementation]]'s own timeline: the infinitive [[../Words/сијати|сијати]] in the older stages, да + ordinary present (**сија**, unchanged from item 1) by the modern period. Not two competing translations — one older, one newer, the same way real BCS itself still shows both patterns coexisting rather than one having fully displaced the other. Negated ("the sun will not shine"): **сунце нече да сија**, не́че being the fused negative present, the same small "glued negation" class [[../Words/бити|бити]]'s нисам already belongs to.
+*Commentary (2026-09-25):* [[../Grammar/Hteti (To Want) and the Future|Future I]] — че (from Common Slavic \*xъtěti "to want," the short/clitic present of [[../Words/хтети|хтети]]) plus a verbal complement whose shape tracks [[../Grammar/Infinitive Loss and Da-Complementation|Infinitive Loss and Da-Complementation]]'s own timeline: да + ordinary present (**сија**, unchanged from item 1), the modern outcome of the infinitive's recession. Negated ("the sun will not shine"): **ел сунце нече да сија**, не́че being the fused negative present, the same small "glued negation" class [[../Words/бити|бити]]'s нисам already belongs to.
 
 ## 5. The sun has been shining.
-**Сунце веч сија.**
+**Ел сунце веч сија.**
 
 *Commentary (2026-09-25):* Slavic has no direct equivalent to the English present perfect continuous — confirmed via search this session, not assumed. Real Croatian/Serbian doesn't grammaticalize "has been -ing" at all; it just reaches for the ordinary present tense plus **већ** ("already"), since the action is ongoing (hence present), not completed (hence not any kind of perfect). [[../Words/веч|веч]], coined for exactly this gap, continues that same real strategy: **сунце сија** ("the sun shines," items 1–2) plus **веч** reframes the same present-tense statement as something that had *already* started — the adverb carries the entire semantic weight English puts on the verb's own morphology. Real, not invented: the underlying gap (no BCS present-perfect-continuous) and the fix (already + present) are both attested; only the specific Sisician form of "already" (веч, via the ć→č merger) is this vault's own regular derivation from real Common Slavic \*vęťь.
 
 ## 6. The sun is shining again.
-**Сунце опет сија.**
+**Ел сунце опет сија.**
 
 *Commentary (2026-09-25):* Plain SVO plus [[../Words/опет|опет]] ("again"), the user's own proposed form and etymology — Common Slavic **\*opętь** (*\*o-* + *\*pęta* "heel," literally "back on the heel"), confirmed via search. No aspectual complication the way item 5's веч had: опет is an ordinary repetition adverb, not standing in for a missing tense/aspect category. The fourth word in this vault to reuse the ę→e denasalization mechanism (after [[../Words/ме|ме]], [[../Words/те|те]], [[../Words/веч|веч]]) and the first with no accompanying dialect fork or jotation at all.
 
 ## 7. The sun will shine tomorrow.
-**Сунце че да сија јутро.** (Modern Sisician) / **Сунце че сијати јутро.** (Old/Middle Sisician)
+**Ел сунце че да сија јутро.**
 
 *Commentary:* Item 4's future plus [[../Words/јутро|јутро]], the bare neuter noun used adverbially — "morning" and "tomorrow" are one word, as in German *morgen*, with no fused preposition (unlike Croatian *sutra*). Placement after the verb is the default here, not a fixed rule; see [[../Grammar/Word Order and Register|Word Order and Register]].
 
 ## 8. The sun shines brightly.
-**Сунце сија светао.**
+**Ел сунце сија светао.**
 
 *Commentary:* [[../Words/светао|светао]] is an adjective used as an adverb: the masculine singular short form, unchanged, as in Romanian *frumos* — see [[../Grammar/Adjective Agreement|Adjective Agreement]] § Adjective to Adverb. It looks like it agrees with сунце (which takes masculine agreement), but it's the adverb strategy, not agreement; the two are indistinguishable here.
 
 ## 9. The bright sun shines.
-*(untranslated)*
+**Ел светао сунце сија.**
+
+*Commentary:* Attributive adjective, which now takes only gender and number ([[../Grammar/Adjective Agreement|Adjective Agreement]] § The Modern System): [[../Words/светао|светао]], masculine singular, because [[../Words/сунце|сунце]] takes masculine agreement under the neuter merger. There is no case agreement and no long form; definiteness is carried by the article **ел** alone ([[../Grammar/Definiteness|Definiteness]]). The attributive светао is the same form as item 8's adverb and the predicate in **ел сунце је светао**. Order is article, adjective, noun, the SVO/homey default; see [[../Grammar/Word Order and Register|Word Order and Register]].
 
 ## 10. The sun is rising now.
-*(untranslated)*
+**Ел сунце сада васходи.**
+
+*Commentary:* [[../Words/васходити|васходити]] "to rise" (imperfective, so the present means "is rising"), from OCS въсходити, with [[../Words/сада|сада]] "now." Adverb between subject and verb, the same default position as веч and опет in items 5 and 6.
 
 ## 11. All the people shouted.
-*(untranslated)*
+**Все ел гужва је кричала.** (conservative) / **Все ел гужва крјѝчала.** (witnessed) / **Все ел гужва кричала.** (hearsay)
+
+*Commentary:* [[../Words/все|все]] "all," [[../Words/гужва|гужва]] "crowd," [[../Words/кричати|кричати]] "to shout," in the three-way past contrast of item 3. "The people" is rendered as a singular collective, so the verb agrees as feminine singular (кричала), not plural. **все is used here in its one built form**, the frozen quantifier, placed before the article, as English "all the" does. That page marks все as a frozen substantivized cell with no agreeing paradigm, and "all the crowd" is an adjectival use, so this sentence leans on a gap: whether все should be given a full agreeing paradigm (Slovene *vsa množica* type) is open. The fused witnessed form is the cluster-onset case worked out on the кричати page.
 
 ## 12. Some of the people shouted.
 *(untranslated)*

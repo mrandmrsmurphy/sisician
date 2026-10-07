@@ -62,7 +62,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | # | English | Proto-Slavic | OCS | Serbo-Croatian | Slovene | Vulgar Latin | Dalmatian | Sardinian | Sisician |
 |---|---|---|---|---|---|---|---|---|---|
 | 17 | all | *vьśь | вьсь | сав | vse | *totu | tot | totu | [[../Words/все\|все]] (Slovene/Kajkavian-leaning pick — see [[../Words/все\|все]]) |
-| 18 | many | *mъnogъ, *mъnogo | мъногъ | много | veliko, mnogo | *multi | un maur | tantu |   |
+| 18 | many | *mъnogъ, *mъnogo | мъногъ | много | veliko, mnogo | *multi | un maur | tantu | [[../Words/њоги|њоги]] (pl. adj.), [[../Words/маног|маног]] (adv.) |
 | 19 | some | *nekoliko |   | неколико | nekoliko, nekaj | *aliquem, *alc unus, *qual c *unus | certioin | carchi |   |
 | 20 | few | *malъ | мало | мало | malo | *pauci | un pauk | pacu |   |
 | 21 | other | *drugъ | инъ | други | drugi | *altru | jultro, jiltri | — |   |
