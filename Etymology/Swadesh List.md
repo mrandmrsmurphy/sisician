@@ -74,17 +74,17 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 
 ## Dimension Adjectives (27–35)
 
-| # | English | Proto-Slavic | OCS | Serbo-Croatian | Slovene | Vulgar Latin | Dalmatian | Sardinian | Sisician |
-|---|---|---|---|---|---|---|---|---|---|
-| 27 | big | *golěmъ, *velikъ | великъ | велик | velik | *grande | maur, luarg | mannu |   |
-| 28 | long | *dьlgъ | дльгъ | дуг | dolg | *longu | luang | longu |   |
-| 29 | wide | *širokъ | широкъ | широк | širok | *largu | luarg | — |   |
-| 30 | thick | *tъlstъ | дебелъ | дебео | debel | *grossu, *spissu | dais | — |   |
-| 31 | heavy | *tęžьkъ | тѧжькъ | тежак | težek, težak | *grave, *pesant | pesunt | pesante |   |
-| 32 | small | *drebьnъ, *malъ, *xudъ | малъ | мали | majhen | *piccolo, *pittitus | pedlo | — | [[../Words/мао\|мао]] (also "few," item 20) |
-| 33 | short | *kortъkъ | кратъкъ | кратак | kratek | *curtu (*corto) | kort | curtu |   |
-| 34 | narrow | *ǫzъkъ, *těsnъ | ѫзъкъ | узак | ozek | *estricto (*strictus) | — | — |   |
-| 35 | thin | *tьnъkъ | тьнъкъ | танак | tanek | *sottile (*subtilis), *magro (*macer) | — | — |   |
+| #   | English | Proto-Slavic           | OCS     | Serbo-Croatian | Slovene      | Vulgar Latin                          | Dalmatian   | Sardinian | Sisician                                    |
+| --- | ------- | ---------------------- | ------- | -------------- | ------------ | ------------------------------------- | ----------- | --------- | ------------------------------------------- |
+| 27  | big     | *golěmъ, *velikъ       | великъ  | велик          | velik        | *grande                               | maur, luarg | mannu     | [[../Words/велик\|велик]]                   |
+| 28  | long    | *dьlgъ                 | дльгъ   | дуг            | dolg         | *longu                                | luang       | longu     | [[../Words/даог\|даог]]                     |
+| 29  | wide    | *širokъ                | широкъ  | широк          | širok        | *largu                                | luarg       | —         | [[../Words/широк\|широк]]                   |
+| 30  | thick   | *tъlstъ                | дебелъ  | дебео          | debel        | *grossu, *spissu                      | dais        | —         |                                             |
+| 31  | heavy   | *tęžьkъ                | тѧжькъ  | тежак          | težek, težak | *grave, *pesant                       | pesunt      | pesante   |                                             |
+| 32  | small   | *drebьnъ, *malъ, *xudъ | малъ    | мали           | majhen       | *piccolo, *pittitus                   | pedlo       | —         | [[../Words/мао\|мао]] (also "few," item 20) |
+| 33  | short   | *kortъkъ               | кратъкъ | кратак         | kratek       | *curtu (*corto)                       | kort        | curtu     |                                             |
+| 34  | narrow  | *ǫzъkъ, *těsnъ         | ѫзъкъ   | узак           | ozek         | *estricto (*strictus)                 | —           | —         |                                             |
+| 35  | thin    | *tьnъkъ                | тьнъкъ  | танак          | tanek        | *sottile (*subtilis), *magro (*macer) | —           | —         |                                             |
 
 ## People (36–44)
 
