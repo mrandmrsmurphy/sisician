@@ -28,7 +28,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 - Slovene: [Appendix:Slovene Swadesh list](https://en.wiktionary.org/wiki/Appendix:Slovene_Swadesh_list).
 - Vulgar Latin: [Appendix:Vulgar Latin Swadesh list](https://en.wiktionary.org/wiki/Appendix:Vulgar_Latin_Swadesh_list).
 - Dalmatian: [Appendix:Dalmatian Swadesh list](https://en.wiktionary.org/wiki/Appendix:Dalmatian_Swadesh_list) — genuinely incomplete in the source itself, per real Dalmatian's extremely limited attestation (the language went extinct in 1898 with a single final speaker). Gaps marked "—" below are real attested gaps, not omissions on this page's part.
-- Dalmatian, items 34 and 35 only: the Wiktionary appendix has no entry, so these two cells come from the Vegliote glossary of Bartoli's *Il Dalmatico* (a transcription of it is at [ebin.pub](https://ebin.pub/il-dalmatico-glossario-dalmatian-glossary.html)): *muogro* "magro" (thin) and *strat*, *striat* "stretto" (narrow; feminine *striata*). Read from a transcription via a fetch tool, not from the book, so the spellings, including the diacritics Bartoli uses, are unchecked. No entry for "sottile" is in it.
+- Dalmatian, items 34, 35, 70, 116, 119, 123, 126, 133, 135, 144, 191 and 193 only: the Wiktionary appendix has no entry, so these two cells come from the Vegliote glossary of Bartoli's *Il Dalmatico* (a transcription of it is at [ebin.pub](https://ebin.pub/il-dalmatico-glossario-dalmatian-glossary.html)): *muogro* "magro" (thin) and *strat*, *striat* "stretto" (narrow; feminine *striata*). Read from a transcription via a fetch tool, not from the book, so the spellings, including the diacritics Bartoli uses, are unchecked. No entry for "sottile" is in it. Item 70: *páina* "penna" (plural *paine*), the only feather gloss in it (no "piuma"); that is < *penna* with the same ai outcome as *dais*. Items 116, 119, 123, 126 (infinitives in *-uor*/*-uar*): *ponżu͡ór* "pungere" (§47; *foruar(me)* §84 also glossed "pungere", not used), *notúor* "nuotare" (§42), *koligu͡ór* "coricare" (§42; a "lay down" gloss, not "giacere," which has no entry, so a loose match for "lie"), *zeru̯ar* "girare" (§84; also *vultuót* "voltato" §316, a participle). Items 133, 135, 144: *soku͡ór* "asciugare" (§27; < *exsuccare*, matching the Vulgar Latin column), *spangro* "spingere" (§83; the attested form ends in -o, so probably a finite form, not an infinitive; Latin *pulsare* itself is not what it reflects, as it is < *expingere*), *ku̯ar* "corre" (§§42, 86, 160; a 3sg gloss of "run," not specifically of liquid flow, so a loose match). Item 143: no "galleggiare" entry; *notúor* "nuotare" is the swim word (item 119) and is not used for "float." Cell left "—." Items 191, 193: *tajúnt* (masculine, §45) and *talianta*/*tal'ente* (feminine, §§1, 54, 61), all glossed "tagliente" ("cutting," a loose match for "sharp": a different word from *acuto*); *lois* "liscio" (§85; the ai/oi outcome is unremarked). Items 190 and 192: nothing for "round" (only the noun *čirkul* "circolo") or "dull"; cells left "—."
 - Sardinian (Logudorese): [Appendix:Sardinian Swadesh list](https://en.wiktionary.org/wiki/Appendix:Sardinian_Swadesh_list), spot-checked against [Appendix:Italo-Dalmatian Swadesh lists](https://en.wiktionary.org/wiki/Appendix:Italo-Dalmatian_Swadesh_lists) (which also carries a Logudorese Sardinian column alongside Italian/Neapolitan/Sicilian — no Vulgar Latin or Dalmatian there, confirmed before relying on it). Also genuinely incomplete in the source — gaps marked "—" are real, not this page's omissions.
 
 **Item 71 "hair": Proto-Slavic is given as \*vòlsъ, not "*vlosъ."** The OCS standalone appendix's own Cyrillic citation (власъ, unambiguously *vlasъ*) — read together with the regular South Slavic liquid-metathesis pattern already visible one row up at item 72 (*golva* → OCS глава *glava*) — indicates власъ/*vlasъ* is the regular metathesized OCS reflex of \*vòlsъ. A cross-check inference from real attested spelling and a real, independently-established sound pattern, not a fresh citation of its own.
@@ -94,8 +94,8 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 36 | woman | *žena | жена | жена | ženska | *femina | femia | femina |   |
 | 37 | man  | *mǫžь | мѫжь | мушкарац | moški | *homo | jomno, vair | omine |   |
 | 38 | man  | *čelověkъ | чловѣкъ | човек, човјек | človek | *persona | jomno | persona |   |
-| 39 | child | *čędo, *dětь, *orbę | дѣть, отрокъ | дете, дијете | otrok, dete | *infante | kratoir | — |   |
-| 40 | wife | *žena | жена | жена, супруга | žena | *mulier | mulier | — |   |
+| 39 | child | *čędo, *dětь, *orbę | дѣть, отрокъ | дете, дијете | otrok, dete | *infante | kratoir | pitzinnu |   |
+| 40 | wife | *žena | жена | жена, супруга | žena | *mulier | mulier | pobidda |   |
 | 41 | husband | *mǫžь | мѫжь | муж, супруг | mož | *marito | marait | maridu |   |
 | 42 | mother | *mati | мати | мати, мајка | mati | *mater | njena | mama |   |
 | 43 | father | *baťa, *otъ, *otьcь | отьць | отац | oče | *pater | tuota | babbu |   |
@@ -145,7 +145,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 |---|---|---|---|---|---|---|---|---|---|
 | 68 | horn | *rogъ | рогъ | рог | rog | *cornu (*corno) | kuarno | corru |   |
 | 69 | tail | *xvostъ | опашъ, хвостъ | реп | rep | *coda (*cauda) | kauda | coa |   |
-| 70 | feather | *pero | перо | перо | pero | *penna, *pluma | — | pinna |   |
+| 70 | feather | *pero | перо | перо | pero | *penna, *pluma | páina (Bartoli) | pinna |   |
 | 71 | hair | *vòlsъ | власъ | коса, длака, влас | lasje | *pelo (*pilus), *capello (*capillu) | kapei | pilos |   |
 | 72 | head | *golva | глава | глава | glava | *capo (*capu, *capitia), *testa | kup | conca |   |
 | 73 | ear | *uxo | оухо | ухо, уво | uho | *oricla (*auricula, *auris) | orakla | orija |   |
@@ -206,14 +206,14 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 113 | hit | *udariti | оударити | ударати | udariti | *colpare | botur | colpare |   |
 | 114 | cut | *krojiti, *rězati, *tęti | сѣщи, рѣзати | сећи, сјећи, резати | rezati | *taliare | taljur | tagliare, mutzare |   |
 | 115 | split | *děliti, *cěpiti | дѣлити, расцѣпити | делити, дијелити | razcepiti | *dividere | spartar | dividire, ispartzire |   |
-| 116 | stab | *bosti, *kolti | бости | убости | zabosti, zbosti | *pungere | — | pugnalare, istoccadare |   |
+| 116 | stab | *bosti, *kolti | бости | убости | zabosti, zbosti | *pungere | ponżu͡ór (Bartoli) | pugnalare, istoccadare |   |
 | 117 | scratch | *drapati, *draskati | чесати | чешати | praskati | *radere | gratuar | iscarrafare |   |
 | 118 | dig | *kopati, *ryti | копати | копати | kopati | *excavare | pasnur | iscavare |   |
-| 119 | swim | *pluti | плавати | пливати | plavati | *nadare | — | nadare |   |
+| 119 | swim | *pluti | плавати | пливати | plavati | *nadare | notúor (Bartoli) | nadare |   |
 | 120 | fly | *letěti | летѣти | летети, летјети | leteti | *volare | svolur | bolare |   |
 | 121 | walk | *xoditi | ходити | ходати | hoditi | *caminare, *andare | kaminur | caminare |   |
 | 122 | come | *jьti | прити | долазити | priti | *venire | venir | bennere |   |
-| 123 | lie (as in a bed) | *ležati (state), *leťi (action) | лежати | лежати | ležati | *iacere | — | giacchire |   |
+| 123 | lie (as in a bed) | *ležati (state), *leťi (action) | лежати | лежати | ležati | *iacere | koligu͡ór (Bartoli) | giacchire |   |
 | 124 | sit | *sěděti (state), *sěsti (action) | сѣдѣти | седети, сједити | sedeti | *sedentare, *assedere | sentur | sentare |   |
 | 125 | stand | *stojati (state), *stati (action) | стати | стајати | stati | *stare in pede | stur | istare in cambas |   |
 
@@ -221,16 +221,16 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 
 | # | English | Proto-Slavic | OCS | Serbo-Croatian | Slovene | Vulgar Latin | Dalmatian | Sardinian | Sisician |
 |---|---|---|---|---|---|---|---|---|---|
-| 126 | turn | *vьrtěti |   | скренути | obrniti | *girare, *virare, *tornare | — | boltare |   |
+| 126 | turn | *vьrtěti |   | скренути | obrniti | *girare, *virare, *tornare | zeru̯ar (Bartoli) | boltare |   |
 | 127 | fall | *pasti | пасти, падати | пасти | pasti | *cadere | kadar | ruere |   |
 | 128 | give | *dati | дати, даꙗти | дати | dati | *dare, *donare | duor | dare |   |
 | 129 | hold | *dьržati | дрьжати | држати | držati | *tenere | tenar | tennere |   |
 | 130 | squeeze | *tiskati, *žęti |   | стиснути, стећи | stiskati | *exprimere, *premere | shtrengar | ispremere |   |
 | 131 | rub | *terti | трьти | трљати | drgniti | *fricare | jongar | frigare |   |
 | 132 | wash | *myti | мꙑти | прати | umivati | *lavare | lavuar | illoddiare |   |
-| 133 | wipe | *brъsati, *brysati |   | брисати | brisati | *exsucare, *essugare | — | assugare |   |
+| 133 | wipe | *brъsati, *brysati |   | брисати | brisati | *exsucare, *essugare | soku͡ór (Bartoli) | assugare |   |
 | 134 | pull | *dьrpati, *tęťi, *vaditi |   | вући | vleči | *tirare, *trahere, *trago | strasinur | tirare |   |
-| 135 | push | *butati, *pьxati, *rinǫti |   | гурати | potisniti | *pulsare | — | ispinghere |   |
+| 135 | push | *butati, *pьxati, *rinǫti |   | гурати | potisniti | *pulsare | spangro (Bartoli) | ispinghere |   |
 | 136 | throw | *kydati, *mesti, *metati, *verťi | врѣщи | бацити, вргнути | vreči | *iectare, *lanceare | truar | frundire |   |
 | 137 | tie | *verzti, *vьrzati, *vęzati | вѧзати | везати | vezati | *ligare, *aptare | liguar | ligare |   |
 | 138 | sew | *šiti | шити | шити | šivati | *cosere, *consuere | koser | cosire |   |
@@ -239,7 +239,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 141 | sing | *pěti | пѣти | певати, пјевати | peti | *cantare | kantur | cantare |   |
 | 142 | play | *jьgrati | играти | играти | igrati | *iocare, *jugare | jukur | giogare |   |
 | 143 | float | *plavati, *plyti | плавати, плоути | плутати, пловити | plavati | *fluctuare, *flotare | — | gallizare |   |
-| 144 | flow | *strujiti, *teťi | тещи | тећи | teči | *fluere, *currere | — | iscurrere |   |
+| 144 | flow | *strujiti, *teťi | тещи | тећи | teči | *fluere, *currere | ku̯ar (Bartoli) | iscurrere |   |
 | 145 | freeze | *mьrzěti, *mьrznǫti | помръзнѫти | заледити, смрзнути | zamrzniti | *gelare, *congelare | glazir | astragare |   |
 | 146 | swell | *bręknǫti, *puxnǫti | надѫти, отѣкати | отећи, набрекнути | oteči | *inflare | — | abburvuddare |   |
 
@@ -306,9 +306,9 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 188 | dirty | *mьrsьnъ | *(marked uncertain in source: gnĭsivŭ, skvrĭnavŭ)* | прљав | umazan | *sordido | spuarc | isporcu |   |
 | 189 | straight | *prostъ | правъ, равьнъ | прав, раван | raven | *recto | drat | drittu |   |
 | 190 | round | *krǫglъ | *(marked uncertain in source: krǫglŭ)* | обао, округао | okrogel | *rotondo | — | redundu |   |
-| 191 | sharp | *bridъkъ, *ostrъ | остръ | оштар | oster | *acuto | — | arrodadu |   |
+| 191 | sharp | *bridъkъ, *ostrъ | остръ | оштар | oster | *acuto | tajúnt, talianta (Bartoli) | arrodadu |   |
 | 192 | dull | *tǫpъ | *(marked uncertain in source: tǫpŭ)* | туп | top | *muttius | — | atturussu |   |
-| 193 | smooth | *gladъkъ | гладъкъ | гладак | gladek | *liscio | — | liju |   |
+| 193 | smooth | *gladъkъ | гладъкъ | гладак | gladek | *liscio | lois (Bartoli) | liju |   |
 | 194 | wet | *mokrъ, *vьlgъkъ | мокръ | мокар | moker | *baneum | joit | bagnadu |   |
 | 195 | dry | *suxъ | соухъ | сув | suh | *seco | sak | siccu |   |
 | 196 | correct | *pravъ, *věrьnъ | правъ | тачан, точан | pravilen | *correcto | drat, jost | giustu |   |
