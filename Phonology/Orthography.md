@@ -4,17 +4,17 @@ Sisician's Cyrillic letter inventory. See [[../Culture/Sociolinguistic History|C
 
 ## Consonants
 
-| | Labial | Alveolar | Palatal(ized) | Velar |
-|---|---|---|---|---|
-| Nasal | m м | n н | ɲ њ | (ŋ ӈ) |
-| Stop (voiceless) | p п | t т | | k к |
-| Stop (voiced) | b б | d д | | g г |
-| Fricative (voiceless) | ɸ ф | s с | š ш, ç х | |
-| Fricative (voiced) | β в | z з | ž ж | |
-| Affricate (voiceless) | | c ц | č ч | |
-| Affricate (voiced) | | dz ѕ | dž џ | |
-| Liquid | | l л | ʎ љ | |
-| Liquid/Glide | | r р | j ј | |
+|                       | Labial | Alveolar | Palatal(ized) | Velar |
+| --------------------- | ------ | -------- | ------------- | ----- |
+| Nasal                 | m м    | n н      | ɲ њ           | (ŋ ӈ) |
+| Stop (voiceless)      | p п    | t т      |               | k к   |
+| Stop (voiced)         | b б    | d д      |               | g г   |
+| Fricative (voiceless) | ɸ ф    | s с      | š ш, ç х      |       |
+| Fricative (voiced)    | β в    | z з      | ž ж           |       |
+| Affricate (voiceless) |        | c ц      | č ч           |       |
+| Affricate (voiced)    |        | dz ѕ     | dž џ          |       |
+| Liquid                |        | l л      | ʎ љ           |       |
+| Liquid/Glide          |        | r р      | j ј           |       |
 
 Complete match against every consonant in [[Modern Inventory]] — nothing missing, nothing extra. **Note the "Palatal(ized)" column groups true palatals (ɲ ʎ j, and the fricative ç) with postalveolars (š ž č dž)** — a simplification for readability (Slavic phonological description often treats these together as the "soft" series), not a claim that š ž č dž are phonetically palatal rather than postalveolar; [[Modern Inventory]]'s own table keeps them in separate IPA columns.
 
