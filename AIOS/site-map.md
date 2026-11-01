@@ -224,8 +224,8 @@ One file per word, filename = the Cyrillic citation form (matching the sibling `
 | File | Purpose | Status |
 |---|---|---|
 | `images/scene.png` | **New (2026-09-30).** AI-generated illustration of a feast day at the Siscia crossing, c. 1350: fortress on Roman foundations, Byzantine-rite church, toll chain, salt/timber barges, townspeople in Dalmatian-patrician and Posavina-style dress. Embedded on `Sisician.md` and `Culture/Geography and Economy.md` § The River as Cultural Structure | Illustrative; clothing/architecture shown is not established canon |
-| `images/flag.png` | **New (2026-11-01).** AI-generated full-size flag image, embedded on `Culture/Flag.md` | Design canon (see Flag page); rendering details illustrative |
-| `images/flag sm.png` | **New (2026-11-01).** Smaller version of the flag, made by the user | Same as above |
+| `images/flag.png` | **New (2026-11-01).** AI-generated full-size flag image. Local only: git-ignored and not in the repository; `Culture/Flag.md` embeds `flag sm.png` instead | Design canon (see Flag page); rendering details illustrative |
+| `images/flag sm.png` | **New (2026-11-01).** Smaller version of the flag, made by the user; embedded on `Culture/Flag.md` and `README.md` | Same as above |
 
 ---
 

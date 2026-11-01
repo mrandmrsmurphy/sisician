@@ -2,7 +2,7 @@
 
 See [[Sisician]] for the hub page, [[Culture/Political Identity]] for the political logic the flag compresses, and [[Culture/Religion]] for the Byzantine-rite side.
 
-![[images/flag.png]]
+![[images/flag sm.png]]
 
 ## Design
 

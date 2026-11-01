@@ -24,6 +24,7 @@ Keep top-level folders by domain, not by date. Suggested structure (create folde
 - `Culture/` — worldbuilding notes for speakers of the language, con-history, political identity, etc.
 - `Sisician.md` — the hub/splash page linking out to every major section (already exists)
 - `README.md` — repo readme
+- `LICENSE.md`, `CONTRIBUTING.md`, `ATTRIBUTION.md` — CC BY-SA 4.0 licence, contribution rules, third-party credits
 - `Conlang Workflow.md` — workflow notes
 - `conflict-files-obsidian-git.md` — notes on Obsidian Git sync conflicts
 

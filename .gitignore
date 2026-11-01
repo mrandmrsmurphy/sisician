@@ -3,3 +3,9 @@
 .DS_Store
 
 .obsidian/plugins/obsidian-git/data.json
+
+# Local tool state
+.claude/
+
+# Full-size flag kept locally (images/flag sm.png is the tracked version)
+images/flag.png
