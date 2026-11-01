@@ -25,6 +25,7 @@ The governing design principle: **every weird feature should have a historical r
 - [[Culture/Political Identity]] — the three-part survival strategy, why neither Hungary nor Byzantium conquers it
 - [[Culture/Founding Myth and Naming]] — the founder, the founding myth, marriage as the language engine, open naming questions
 - [[Culture/Sociolinguistic History]] — generation-by-generation language shift, the castle as sprachbund, the linguistic-stage periodization
+- [[Culture/Flag]] — the national flag: Byzantine purple and gold, the Sava as a wavy band, a plain Greek cross
 - [[Conlang Workflow]] — design method, six-phase construction order, what not to do
 - [[Grammar/Design Principles]] — target case system, "Romance nouns become Slavic nouns"
 - [[Phonology/Design Principles]] — adaptation-not-import principle, hard/soft consonants
