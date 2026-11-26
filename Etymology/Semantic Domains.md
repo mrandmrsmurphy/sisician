@@ -58,6 +58,8 @@ A mature Sisician lexicon should feel like it has three great historical layers:
 
 **Layer III — Greek/Slavonic Heaven:** the words of God, Church, liturgy, theology, philosophy, saints, Scripture, sacrament.
 
+**First real cluster:** the [[../Texts/Pater Noster|Pater Noster]] vocabulary — [[../Words/царство|царство]], [[../Words/насуштни|насуштни]], and [[../Words/иже|иже]] are genuine Church Slavonic liturgical imports, while the prayer's native words (отац, небо, име, хлеб, волја…) show the Layer I bedrock the liturgical register sits on top of. See [[../Texts/Pater Noster|the prayer page]].
+
 This gives the culture an internally meaningful lexical map, and echoes [[Culture/Religion]]'s formulation: *Romance for city, Slavic for earth, Slavonic/Greek for heaven.*
 
 **First worked example:** the "home/house" concept, across *four* words, since the Greek/Church-Slavonic layer split into two distinct registers — [[Words/дом|дом]] (native, warm, "the cozy feel of English *home*"), [[Words/каза|каза]] (Dalmatian, formal/architectural, secular), [[Words/скинија|скинија]] (Greek via Church Slavonic, the mystical "dwelling of God with humanity," Revelation 21:3/John 1:14 — a register with no direct English counterpart), and [[Words/икос|икос]] (Greek direct, not via Church Slavonic, the "household/community of God" sense, Ephesians 2:19/1 Timothy 3:15 — belonging rather than presence). Illustrates that even within one semantic layer, the *pathway* (via OCS vs. direct Greek contact) can itself carry meaning. See the [[Words/дом|дом]] page and its three siblings for the full derivations.

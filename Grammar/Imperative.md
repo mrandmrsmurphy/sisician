@@ -69,6 +69,10 @@ Closes the category [[Verbal Categories]] flags as "confirmed, no forms yet." Co
 
 **Slavic — and Sisician — don't do this.** Aspect isn't a stem-alternation within one verb; it's a lexical property distinguishing two *separate*, usually formally related, verbs (an imperfective/perfective pair, e.g. real Croatian *sjedati*/*sjesti* "to be sitting down" / "to sit down [once]"). So the Ancient-Greek-style contrast surfaces here as: **conjugate whichever member of the aspectual pair you mean, using the identical synthetic/jussive endings above** — no separate "perfective imperative ending" exists, because the perfectivity already lives in the verb you picked, not in the imperative morphology layered on top of it. **Сједни!** (perfective, "sit down! [one bounded act]") vs. its imperfective partner's own imperative (ongoing/habitual "keep sitting," "be seated [as a state]") would be the worked example — but Sisician doesn't yet have an actual coined aspectual pair to demonstrate this with concretely; [[Verb Paradigm (Sketch)]]'s own "Aspect pairs" item is still open, and per this vault's standing policy against inventing vocabulary unprompted, no pair is coined here just to fill this example. The mechanism is fully decided; a concrete Sisician sentence pair is the next real gap once an aspectual pair exists.
 
+## Liturgical Fossils: да-Jussive and не + Imperative in the Pater Noster
+
+The [[../Texts/Pater Noster|Pater Noster]] preserves two older constructions against this page's productive system, deliberately: **да** + present as jussive (да се свети, where the productive jussive is нека) and **не** + synthetic imperative (не веди нас у напаст, where the productive negative is немој + да). This is exactly what real liturgical texts do — the living BCS prayer itself keeps *ne vodi nas u napast* against the productive *nemoj* rule. The fossils are confined to that text; they do not license either construction in ordinary modern use.
+
 ## Related
 
 - [[Verbal Categories]] — this page finally fills the "confirmed, no forms yet" imperative row.

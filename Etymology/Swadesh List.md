@@ -259,10 +259,10 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 156 | stone | *kamy, *kamorъ | камꙑ | камен, стена, стијена | kamen | *petra, *pietra, *pedra | pitra | pedra |   |
 | 157 | sand | *pěsъkъ | пѣсъкъ | песак, пијесак | pesek | *arena, *sablo | sablaun, salbaun | rena |   |
 | 158 | dust | *porxъ, *pylь, *pьrstь | прахъ | прах | prah | *pulvis, *pulus | pulvro | pruine |   |
-| 159 | earth | *zemľa | землꙗ | земља | zemlja | *terra | tiara | terra |   |
+| 159 | earth | *zemľa | землꙗ | земља | zemlja | *terra | tiara | terra | [[../Words/земља\|земља]] |
 | 160 | cloud | *obolkъ | облакъ | облак | oblak | *nube, *nubes, *nuvola | neo | nue |   |
 | 161 | fog | *mьgla | мьгла | магла | megla | *nebula | — | neula |   |
-| 162 | sky | *nebo | небо | небо | nebo | *caelo | cil | chelu |   |
+| 162 | sky | *nebo | небо | небо | nebo | *caelo | cil | chelu | [[../Words/небо\|небо]] |
 | 163 | wind | *větrъ | вѣтръ | ветар, вјетар | veter | *vento | viant | bentu |   |
 | 164 | snow | *sněgъ | снѣгъ | снег, снијег | sneg | *nivo | nai | nie |   |
 | 165 | ice | *ledъ | ледъ | лед | led | *gielu | glaz | ghiatzu, astragu |   |
@@ -288,7 +288,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | # | English | Proto-Slavic | OCS | Serbo-Croatian | Slovene | Vulgar Latin | Dalmatian | Sardinian | Sisician |
 |---|---|---|---|---|---|---|---|---|---|
 | 177 | night | *noťь | нощь | ноћ | noč | *nocte | nuat | notte |   |
-| 178 | day | *dьnь | дьнь | дан | dan | *dia | dai | die |   |
+| 178 | day | *dьnь | дьнь | дан | dan | *dia | dai | die | [[../Words/дан\|дан]] |
 | 179 | year | *godъ, *lěto | лѣто | година, лето, љето | leto | *anno | jan | annu |   |
 | 180 | warm | *teplъ, *toplъ | топлъ | топао | topel | *calidus | cuald | calidu |   |
 
@@ -327,7 +327,7 @@ This page puts the standard 207-item Swadesh core-vocabulary list side by side a
 | 204 | and | *a, *i | и | и | in | *et | e | e |   |
 | 205 | if | *jako | аще | ако | če, ako | *si | se | si |   |
 | 206 | because | *bo | понеже | зато, ради, јер | ker | *porque | perko | pro itte |   |
-| 207 | name | *jьmę | имѧ | име | ime | *nomine | naum | nomene |   |
+| 207 | name | *jьmę | имѧ | име | ime | *nomine | naum | nomene | [[../Words/име\|име]] |
 
 
 ## Sisician Column — What's Actually Built
