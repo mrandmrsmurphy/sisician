@@ -23,8 +23,8 @@ Common Slavic *kъto* ("who") and *čьto* ("what") are historically one paradig
 
 **Real Croatian *koji* and Kajkavian *kaj* share the exact same Proto-Slavic root, *kъjь*** (confirmed via Wiktionary) — but they don't collide, because *koji* reflects further suffixation Kajkavian's frozen *kaj* never underwent. Bare *kъjь* alone regularly gives exactly кај (Havlík's Law: final jь's ь is weak and drops, non-final ъ is strong and vocalizes to a — the identical mechanism already behind [[../Words/тај|тај]]/[[../Words/овај|овај]]). Real modern *koji*'s own further material means it isn't simply that bare reflex substantivized — it's a fully declining relative/interrogative adjective, the same "declining word" shape already established for the demonstrative pronouns.
 
-- **[[../Words/који|који]]** — native, adjective-like (matches real *koji* letter-for-letter; oblique paradigm not built yet, an open item).
-- **[[../Words/куи|куи]]** — a Latinate register doublet, direct from Latin **QUI** (the relative/interrogative pronoun), entering not through spoken Dalmatian but through the **written legal/notarial Latin register** already established on [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] ("Latin survives only in diplomatic/foreign-trade/family-document contexts"). Sisician's phonology has no labialized-consonant series, so Latin's /kw/ onset adapts letter-by-letter as **ку-**, giving куи directly.
+- **[[../Words/који|који]]** — native, adjective-like (matches real *koji* letter-for-letter), and now fully declined: oblique paradigm built on the demonstrative ending family with real BCS's short/long register doublet (*koga~kojega*), documented on [[../Grammar/Relative Clauses|Grammar/Relative Clauses]] — which also settles који's other half: it is the productive **relative** pronoun ("who/that"), agreeing with its antecedent in gender/number while taking its case from inside the relative clause.
+- **[[../Words/куи|куи]]** — a Latinate register doublet, direct from Latin **QUI** (the relative/interrogative pronoun), entering not through spoken Dalmatian but through the **written legal/notarial Latin register** already established on [[../Culture/Sociolinguistic History|Culture/Sociolinguistic History]] ("Latin survives only in diplomatic/foreign-trade/family-document contexts"). Sisician's phonology has no labialized-consonant series, so Latin's /kw/ onset adapts letter-by-letter as **ку-**, giving куи directly. **Distribution resolved (see [[../Grammar/Relative Clauses|Relative Clauses]]): indeclinable — a frozen citation form like real legal Latin's own — and confined to its legal register**, neither displacing који nor spreading further.
 
 ## Where, Whither, Whence: The Old Case System, Fossilized Into the Words Themselves
 
@@ -47,10 +47,10 @@ Common Slavic *kъto* ("who") and *čьto* ("what") are historically one paradig
 
 ## Open Items
 
-- Који's own oblique case paradigm (gen./dat./instr., matching the demonstrative-pronoun-style declension its adjectival shape implies) isn't built — only the citation form.
-- Whether куи ever appears outside strictly written/legal register, or how a speaker would code-switch into it, isn't worked out.
+- Који's oblique paradigm — **resolved**: built on [[../Grammar/Relative Clauses|Grammar/Relative Clauses]], with the short/long register doublet and full relativization strategy.
+- Whether куи ever appears outside strictly written/legal register — **resolved: it does not**; the three-way register split (који/куи/[[../Words/иже|иже]]) is documented on [[../Grammar/Relative Clauses|Relative Clauses]].
 - **Why абкле generalized into ordinary speech while куи stayed confined to the legal register** — both started in the same channel; only one fully displaced its native counterpart. Not yet given its own historical account, flagged honestly as an open question rather than an invented asymmetry.
-- No dedicated word for "whatever/whoever"-type indefinite-extended interrogatives yet.
+- No dedicated word for "whatever/whoever"-type indefinite-extended interrogatives yet — now sharper, since the Wiktionary fetches behind [[../Words/чији|чији]]/[[../Words/који|који]] list the real BCS indefinite derivatives (*nȅkoji*, *bilo čiji*): a concrete template whenever this gets built.
 
 ---
 

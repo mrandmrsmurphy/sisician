@@ -22,7 +22,7 @@ Capitalization follows the Slavonic's own liturgical layout (only Отче capit
 
 **1. Отче наш, иже си на небесима.** — "Father our, who art in the heavens."
 - **Отче** — vocative fossil of [[../Words/отац|отац]], per [[../Grammar/Nominal Morphology|Nominal Morphology]]'s vocative-fossil decision; the exact parallel of real BCS *Oče naš*.
-- **иже** — the Church Slavonic relative, kept as a **liturgical fossil** (see § The Prayer as a Fossil Register). It is *not* the productive relative; the modern relative-clause system ([[../Words/који|који]]'s paradigm, relativization strategy) remains the vault's open next thread.
+- **иже** — the Church Slavonic relative, kept as a **liturgical fossil** (see § The Prayer as a Fossil Register). It is *not* the productive relative; that role belongs to [[../Words/који|који]], whose paradigm and the full relativization strategy are now built on [[../Grammar/Relative Clauses|Grammar/Relative Clauses]] — иже is the fossil the modern system left behind.
 - **си** — 2sg clitic of [[../Words/бити|бити]], second position after иже, per [[../Grammar/Clitic Ordering|Clitic Ordering]].
 - **на небесима** — plural "heavens," matching the Slavonic's own plural (на небесѣхъ); на + **instrumental** for static location, the Latin calque of [[../Grammar/Case Government|Case Government]] § у and на.
 
@@ -67,9 +67,9 @@ Three of the prayer's constructions are **archaisms preserved against the produc
 
 | Fossil in the prayer | Productive modern system |
 |---|---|
-| **иже** "who" (relative) | the modern relative system (unbuilt — the open thread) |
-| **да** + present (jussive) | **нека** + present ([[../Grammar/Imperative|Imperative]]) |
-| **не** + synthetic imperative | **немој** + да + present ([[../Grammar/Imperative|Imperative]]) |
+| **иже** "who" (relative) | [[../Words/који\|који]] — the modern relative system ([[../Grammar/Relative Clauses\|Grammar/Relative Clauses]]) |
+| **да** + present (jussive) | **нека** + present ([[../Grammar/Imperative\|Imperative]]) |
+| **не** + synthetic imperative | **немој** + да + present ([[../Grammar/Imperative\|Imperative]]) |
 
 The real-world warrant is exact: the living BCS prayer itself preserves *Oče naš* (a vocative fossil) and *ne vodi nas u napast* (не + imperative, against the productive *nemoj* rule) — liturgical language is a museum, and Sisician's prayer is built as one deliberately. None of these three fossils licenses using иже/да-jussive/не+imperative in ordinary modern text.
 
@@ -98,7 +98,6 @@ Twenty-four new `Words/` pages, plus one second sense and one extension:
 
 ## Open Items
 
-- **The modern relative-clause system** (који's oblique paradigm, relativization strategy, куи's distribution) — still the vault's flagged next thread; иже deliberately does not close it.
 - **краљевство vs. царство** — the secular/divine kingdom split is decided in principle (царство = the prayer's word) but краљевство itself is unbuilt.
 - **Vernacular "but"** — но vs. a него-type alternative, distribution open.
 - **The possessive-case decision** — reversible; see [[../Grammar/Possessive Pronouns|Grammar/Possessive Pronouns]] § The Caseless Decision.
